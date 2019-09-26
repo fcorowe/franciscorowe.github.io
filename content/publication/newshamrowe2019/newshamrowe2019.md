@@ -7,23 +7,23 @@ date: "2018-12-27T00:00:00Z"
 doi: "10.1007/s10109-018-00290-y"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: "Source: [Newsham & Rowe, 2019](https://doi.org/10.1007/s10109-018-00290-y)"
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Geographical Systems*(1)'
+publication: '*Journal of Geographical Systems, 1*(1)'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-12-27T00:00:00Z"
-slides: example
+slides:
 summary: This study assesses the demographic impact of Syrian migration into Germany. Deterministic and Bayesian probabilistic projection methods are used to determine the contribution of Syrian migrants to aggregate total fertility rate and the likelihood of subsequent population growth.
 tags:
 - Source Themes
 title: Projecting the demographic impact of Syrian migration in a rapidly ageing society, Germany
 url_code: ""
 url_dataset: ""
-url_pdf: 10.1007/s10109-018-00290-y
+url_pdf: https://doi.org/10.1007/s10109-018-00290-y
 url_poster: ""
 url_project: ""
 url_slides: ""
