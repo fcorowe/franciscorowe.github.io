@@ -5,7 +5,7 @@
     <link>/publication_types/8/</link>
       <atom:link href="/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
     <description>8</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>8</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>A Scalable Analytical Framework for Spatio-Temporal Analysis of Neighborhood Change A Sequence Analysis Approach</title>
-      <link>/publication/agile2019/</link>
-      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/agile2019/</guid>
+      <title>R Package CIM Compositional Impact of Migration</title>
+      <link>/publication/rcim2019/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rcim2019/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
