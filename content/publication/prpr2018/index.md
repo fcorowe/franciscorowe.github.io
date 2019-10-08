@@ -23,7 +23,7 @@ summary: This paper evaluates the forecast accuracy of past local area populatio
 tags:
 - Population Forecasts 
 - Local Area 
-- Australia 
+- Australia
 - Forecast Error 
 - Shelf Life 
 - Empirical Prediction Intervals 

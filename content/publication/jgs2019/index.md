@@ -19,7 +19,12 @@ publishDate: "2019-01-22T00:00:00Z"
 slides: 
 summary: This study assesses the demographic impact of Syrian migration into Germany.
 tags:
-- Source Themes
+- Refugee Migration
+- Demographic Impacts
+- Bayesian Probabilistic Projections
+- Germany
+- Population Decline
+- Population Ageing
 title: Projecting the demographic impact of Syrian migration in a rapidly ageing society, Germany
 url_code: ""
 url_dataset: ""

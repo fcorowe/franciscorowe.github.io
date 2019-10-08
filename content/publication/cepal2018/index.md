@@ -19,7 +19,13 @@ publishDate: "2019-12-31T00:00:00Z"
 slides: 
 summary: En este texto se usa el caso del Área Metropolitana del Gran Santiago (AMGS), capital de Chile, para evaluar empíricamente el efecto de la de la migración interna, incluyendo la intrametropolitana, sobre algunas transformaciones metropolitanas.
 tags:
-- Source Themes
+- Internal Migration
+- Latin America
+- Chile
+- Santiago
+- Education
+- Inequality
+- Spatial Impacts
 title: Efectos cambiantes de la migración sobre el crecimiento, la estructura demográfica y la segregación residencial en ciudades grandes. El caso de Santiago, Chile, 1977-2017
 url_code: ""
 url_dataset: ""

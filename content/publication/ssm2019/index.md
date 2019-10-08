@@ -23,7 +23,12 @@ publishDate: "2019-05-30T00:00:00Z"
 slides: 
 summary: This study explores longitudinal relationships between material, psycho-social and behavioural social determinants of health and multimorbidity of people aged 50 years or older in England.
 tags:
-- Source Themes
+- Multimorbidity
+- Complex Multimorbidity
+- Multiple Functional Limitations
+- Social Determinansts of Health
+- Ageing
+- Health Inequalities
 title: Social determinants of multimorbidity and multiple functional limitations among the ageing population of England, 2002–2015
 url_code: ""
 url_dataset: ""
@@ -34,13 +39,3 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

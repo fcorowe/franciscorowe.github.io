@@ -20,7 +20,11 @@ publishDate: "2019-06-17T00:00:00Z"
 slides: 
 summary: This paper uses gridded cell Census data for Great Britain from 1971 to 2011 with 10-year intervals, creating neighborhood typologies for each Census year.
 tags:
-- Source Themes
+- Neighborhood Change
+- Sequence Analysis
+- Spatio-temporal Data Analysis
+- Classification 
+- Population dynamics
 title: A Scalable Analytical Framework for Spatio-Temporal Analysis of Neighborhood Change A Sequence Analysis Approach
 url_code: ""
 url_dataset: ""
@@ -31,13 +35,3 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

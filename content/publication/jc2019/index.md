@@ -24,7 +24,14 @@ publishDate: "2019-07-08T00:00:00Z"
 slides: 
 summary: This study aimed to estimate the prevalence of three measures of multimorbidity among people aged 50 years or older in England.
 tags:
-- Source Themes
+- Multimorbidity
+- Complex Multimorbidity
+- Functional Limitations
+- ELSA
+- England
+- Ageing
+- Socioeconomic Status
+- Household Wealth
 title: Trends in multimorbidity, complex multimorbidity and multiple functional limitations in the ageing population of England, 2002–2015
 url_code: ""
 url_dataset: ""
@@ -35,13 +42,3 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

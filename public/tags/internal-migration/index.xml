@@ -5,12 +5,28 @@
     <link>/tags/internal-migration/</link>
       <atom:link href="/tags/internal-migration/index.xml" rel="self" type="application/rss+xml" />
     <description>Internal Migration</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Internal Migration</title>
       <link>/tags/internal-migration/</link>
     </image>
+    
+    <item>
+      <title>R Package CIM Compositional Impact of Migration</title>
+      <link>/publication/rcim2019/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rcim2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efectos cambiantes de la migración sobre el crecimiento, la estructura demográfica y la segregación residencial en ciudades grandes. El caso de Santiago, Chile, 1977-2017</title>
+      <link>/publication/cepal2018/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cepal2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How is internal migration reshaping metropolitan populations in Latin America? A new method and new evidence</title>

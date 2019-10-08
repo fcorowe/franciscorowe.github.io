@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inequality | Academic</title>
+    <link>/tags/inequality/</link>
+      <atom:link href="/tags/inequality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inequality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Inequality</title>
+      <link>/tags/inequality/</link>
+    </image>
+    
+    <item>
+      <title>Efectos cambiantes de la migración sobre el crecimiento, la estructura demográfica y la segregación residencial en ciudades grandes. El caso de Santiago, Chile, 1977-2017</title>
+      <link>/publication/cepal2018/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cepal2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

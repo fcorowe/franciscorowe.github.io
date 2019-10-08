@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Street-level Imagery | Academic</title>
+    <link>/tags/street-level-imagery/</link>
+      <atom:link href="/tags/street-level-imagery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Street-level Imagery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Street-level Imagery</title>
+      <link>/tags/street-level-imagery/</link>
+    </image>
+    
+    <item>
+      <title>A Hierarchical Urban Forest Index Using Street-Level Imagery and Deep Learning</title>
+      <link>/publication/rs2019/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rs2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
