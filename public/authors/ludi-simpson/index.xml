@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ludi Simpson | Academic</title>
+    <link>/authors/ludi-simpson/</link>
+      <atom:link href="/authors/ludi-simpson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ludi Simpson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ludi Simpson</title>
+      <link>/authors/ludi-simpson/</link>
+    </image>
+    
+    <item>
+      <title>Insights from the evaluation of past local area population forecasts</title>
+      <link>/publication/prpr2018/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/prpr2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

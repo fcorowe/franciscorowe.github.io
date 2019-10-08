@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jorge Rodríguez-Vignoli | Academic</title>
+    <title>Jorge Rodríguez Vignoli | Academic</title>
     <link>/authors/jorge-rodriguez-vignoli/</link>
       <atom:link href="/authors/jorge-rodriguez-vignoli/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jorge Rodríguez-Vignoli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Francisco Rowe 2019</copyright><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>Jorge Rodríguez Vignoli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Jorge Rodríguez-Vignoli</title>
+      <title>Jorge Rodríguez Vignoli</title>
       <link>/authors/jorge-rodriguez-vignoli/</link>
     </image>
     
@@ -38,6 +38,14 @@
       <link>/publication/cepal2018/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/publication/cepal2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How is internal migration reshaping metropolitan populations in Latin America? A new method and new evidence</title>
+      <link>/publication/ps2018/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ps2018/</guid>
       <description></description>
     </item>
     

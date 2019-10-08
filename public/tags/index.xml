@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Francisco Rowe 2019</copyright><lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -21,6 +21,94 @@
     </item>
     
     <item>
+      <title>Internal Migration</title>
+      <link>/tags/internal-migration/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/internal-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latin America</title>
+      <link>/tags/latin-america/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/latin-america/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migration analysis</title>
+      <link>/tags/migration-analysis/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/migration-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio-demographic composition</title>
+      <link>/tags/socio-demographic-composition/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/socio-demographic-composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial impact</title>
+      <link>/tags/spatial-impact/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/spatial-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australia</title>
+      <link>/tags/australia/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/australia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical Prediction Intervals</title>
+      <link>/tags/empirical-prediction-intervals/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/empirical-prediction-intervals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecast Error</title>
+      <link>/tags/forecast-error/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/forecast-error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Area</title>
+      <link>/tags/local-area/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/local-area/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population Forecasts</title>
+      <link>/tags/population-forecasts/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/population-forecasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shelf Life</title>
+      <link>/tags/shelf-life/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/shelf-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Learning</title>
       <link>/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -29,10 +117,10 @@
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
+      <title>Demography</title>
+      <link>/tags/demography/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
+      <guid>/tags/demography/</guid>
       <description></description>
     </item>
     
@@ -45,10 +133,10 @@
     </item>
     
     <item>
-      <title>Internal Migration</title>
-      <link>/tags/internal-migration/</link>
+      <title>Human Geography</title>
+      <link>/tags/human-geography/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/internal-migration/</guid>
+      <guid>/tags/human-geography/</guid>
       <description></description>
     </item>
     
@@ -65,6 +153,30 @@
       <link>/tags/migration-intensity/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/tags/migration-intensity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population Forecasting</title>
+      <link>/tags/population-forecasting/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/population-forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population Projection</title>
+      <link>/tags/population-projection/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/population-projection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban and Regional Planning</title>
+      <link>/tags/urban-and-regional-planning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/urban-and-regional-planning/</guid>
       <description></description>
     </item>
     

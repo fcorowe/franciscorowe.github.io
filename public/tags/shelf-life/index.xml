@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shelf Life | Academic</title>
+    <link>/tags/shelf-life/</link>
+      <atom:link href="/tags/shelf-life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shelf Life</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Shelf Life</title>
+      <link>/tags/shelf-life/</link>
+    </image>
+    
+    <item>
+      <title>Insights from the evaluation of past local area population forecasts</title>
+      <link>/publication/prpr2018/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/prpr2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

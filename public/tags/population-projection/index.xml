@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Population Projection | Academic</title>
+    <link>/tags/population-projection/</link>
+      <atom:link href="/tags/population-projection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Population Projection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Population Projection</title>
+      <link>/tags/population-projection/</link>
+    </image>
+    
+    <item>
+      <title>Improving Subnational Population Forecasts</title>
+      <link>/project/population_forecast/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/population_forecast/</guid>
+      <description>&lt;p&gt;Improving Sub-national Population Forecasts. The aim of this project is to make significant advances in two related areas of regional, council area and local population forecasting, namely improving accuracy, and providing an indication of forecast uncertainty. Population forecasts often turn out to be far more inaccurate than users realise and fail to come with any information about reliability. Every year forecasts inform a wide variety of planning and policy development activities and influence investment decisions worth billions of dollars. In order to increase the value of forecasts to users, this project aims to combine methods from a range of disciplines to devise more accurate ways of forecasting populations, and provide accompanying information on their likely error.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial impact | Academic</title>
+    <link>/tags/spatial-impact/</link>
+      <atom:link href="/tags/spatial-impact/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatial impact</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Spatial impact</title>
+      <link>/tags/spatial-impact/</link>
+    </image>
+    
+    <item>
+      <title>How is internal migration reshaping metropolitan populations in Latin America? A new method and new evidence</title>
+      <link>/publication/ps2018/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ps2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

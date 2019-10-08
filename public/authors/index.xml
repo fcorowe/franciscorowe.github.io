@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Francisco Rowe 2019</copyright><lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -17,7 +17,7 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Francisco Rowe is a Senior Lecturer in Human Quantitative Geography at &lt;a href=&#34;http://www.liv.ac.uk/geography-and-planning/&#34; target=&#34;_blank&#34;&gt;the Department of Geography and Planning&lt;/a&gt; within &lt;a href=&#34;https://www.liverpool.ac.uk&#34; target=&#34;_blank&#34;&gt;the University of Liverpool&lt;/a&gt;, member of the &lt;a href=&#34;http://geographicdatascience.com&#34; target=&#34;_blank&#34;&gt;Geographic Data Science Lab&lt;/a&gt; and a Project Associate of the international project &lt;a href=&#34;https://imageproject.com.au/project-team/&#34; target=&#34;_blank&#34;&gt;IMAGE: Comparing Internal Migration Around the Globe&lt;/a&gt;. His areas of expertise are: internal &amp;amp; international migration and computational approaches to population research. He has been invited to present his research at the United Nations Population &amp;amp; Development Division in New York and works closely with the United Nations Economic Commission for Latin America and the Caribbean UK’s government organisations, the Ordnance Survey and the ONS Data Campus, and commercial companies, Geolytix. His work contributed to the United Nations Expert group meeting on “sustainable cities, human mobility and international migration”, and the ONS Government Statistical Service Advisory Committee. Francisco is editor of REGION, the journal of the European Regional Science Association (2018-present) and the international reach of his research has been recognised by an award for the best paper published in Spatial Economic Analysis in 2018 and having top articles in the top 10 most read articles in Transport Research Part C (2018) &amp;amp; Population Studies (2019).&lt;/p&gt;
+      <description>&lt;p&gt;Francisco Rowe is a Senior Lecturer in Human Quantitative Geography at &lt;a href=&#34;http://www.liv.ac.uk/geography-and-planning/&#34; target=&#34;_blank&#34;&gt;the Department of Geography and Planning&lt;/a&gt; within &lt;a href=&#34;https://www.liverpool.ac.uk&#34; target=&#34;_blank&#34;&gt;the University of Liverpool&lt;/a&gt;, member of the &lt;a href=&#34;http://geographicdatascience.com&#34; target=&#34;_blank&#34;&gt;Geographic Data Science Lab&lt;/a&gt; and a Project Associate of the international project &lt;a href=&#34;https://imageproject.com.au/project-team/&#34; target=&#34;_blank&#34;&gt;IMAGE: Comparing Internal Migration Around the Globe&lt;/a&gt;. His areas of expertise are: internal &amp;amp; international migration; human mobility; and computational social science. He has been invited to present his research at the United Nations Population &amp;amp; Development Division in New York and works closely with the United Nations Economic Commission for Latin America and the Caribbean, UK’s government organisations, including the Ordnance Survey and the ONS Data Campus, and commercial companies, Geolytix. His work contributed to the United Nations Expert group meeting on `sustainable cities, human mobility and international migration&amp;rsquo;, and the ONS Government Statistical Service Advisory Committee. Francisco is editor of REGION, the journal of the European Regional Science Association (2018-present). The international reach of his research has been recognised by an award for the best paper published in Spatial Economic Analysis in 2018 and having top articles in the top 10 most read articles in Transport Research Part C (2018) &amp;amp; Population Studies (2019).&lt;/p&gt;
 </description>
     </item>
     
@@ -110,10 +110,34 @@
     </item>
     
     <item>
-      <title>Jorge Rodríguez-Vignoli</title>
+      <title>Jorge Rodríguez Vignoli</title>
       <link>/authors/jorge-rodriguez-vignoli/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/jorge-rodriguez-vignoli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huw Brokensha</title>
+      <link>/authors/huw-brokensha/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/huw-brokensha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ludi Simpson</title>
+      <link>/authors/ludi-simpson/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/ludi-simpson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tom Wilson</title>
+      <link>/authors/tom-wilson/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/tom-wilson/</guid>
       <description></description>
     </item>
     
