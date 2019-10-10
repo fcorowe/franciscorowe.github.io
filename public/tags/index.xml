@@ -5,12 +5,44 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 10 Oct 2019 21:13:14 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>CIM</title>
+      <link>/tags/cim/</link>
+      <pubDate>Thu, 10 Oct 2019 21:13:14 -0500</pubDate>
+      <guid>/tags/cim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migration Impact</title>
+      <link>/tags/migration-impact/</link>
+      <pubDate>Thu, 10 Oct 2019 21:13:14 -0500</pubDate>
+      <guid>/tags/migration-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Thu, 10 Oct 2019 21:13:14 -0500</pubDate>
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R package</title>
+      <link>/tags/r-package/</link>
+      <pubDate>Thu, 10 Oct 2019 21:13:14 -0500</pubDate>
+      <guid>/tags/r-package/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forced Migration</title>
@@ -553,14 +585,6 @@
       <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     

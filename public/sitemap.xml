@@ -33,6 +33,51 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cim/</loc>
+    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-10-10-first/</loc>
+    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/migration-impact/</loc>
+    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-package/</loc>
+    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
@@ -59,6 +104,11 @@
   
   <url>
     <loc>/tags/forced-migration/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/introducing_cmi/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -100,16 +150,6 @@
   <url>
     <loc>/tags/sweden/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -633,11 +673,6 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -649,16 +684,6 @@
   
   <url>
     <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
