@@ -4,7 +4,7 @@ authors:
 - Alessandra Faggian
 - Jonathan Corcoran
 - admin
-date: "2017-17-10T00:00:00Z"
+date: "2017-01-17T00:00:00Z"
 doi: "10.1007/s00168-017-0845-2"
 featured: false
 image:
@@ -16,7 +16,7 @@ publication: '*The Annals of Regional Science*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-17-10T00:00:00Z"
+publishDate: "2017-01-17T00:00:00Z"
 slides: 
 summary: The aim of this special issue is to address key gaps in the literature of youth and graduate migration.
 tags:

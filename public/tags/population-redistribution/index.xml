@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Population Redistribution | Academic</title>
+    <link>/tags/population-redistribution/</link>
+      <atom:link href="/tags/population-redistribution/index.xml" rel="self" type="application/rss+xml" />
+    <description>Population Redistribution</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 30 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Population Redistribution</title>
+      <link>/tags/population-redistribution/</link>
+    </image>
+    
+    <item>
+      <title>Measuring the Impact of Internal Migration on Population Redistribution in Europe</title>
+      <link>/publication/ersa2017/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ersa2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

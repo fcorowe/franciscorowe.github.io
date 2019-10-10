@@ -5,44 +5,12 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 10 Oct 2019 21:13:14 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
-    
-    <item>
-      <title>CIM</title>
-      <link>/tags/cim/</link>
-      <pubDate>Thu, 10 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>/tags/cim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Migration Impact</title>
-      <link>/tags/migration-impact/</link>
-      <pubDate>Thu, 10 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>/tags/migration-impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 10 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R package</title>
-      <link>/tags/r-package/</link>
-      <pubDate>Thu, 10 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>/tags/r-package/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Forced Migration</title>
@@ -65,6 +33,14 @@
       <link>/tags/longitudinal-career-trajectories/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/longitudinal-career-trajectories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -501,10 +477,106 @@
     </item>
     
     <item>
+      <title>Residential Mobility</title>
+      <link>/tags/residential-mobility/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/residential-mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residential Segregation</title>
+      <link>/tags/residential-segregation/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/residential-segregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Inequality</title>
+      <link>/tags/spatial-inequality/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/spatial-inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactual Treatment</title>
+      <link>/tags/counterfactual-treatment/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/counterfactual-treatment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Field-of-Study Mismatch</title>
+      <link>/tags/field-of-study-mismatch/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/field-of-study-mismatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graduate migration</title>
+      <link>/tags/graduate-migration/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/graduate-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Students</title>
+      <link>/tags/international-students/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/international-students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job-education Mismatch</title>
+      <link>/tags/job-education-mismatch/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/job-education-mismatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overseas graduates</title>
+      <link>/tags/overseas-graduates/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/overseas-graduates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualification Mismatch</title>
+      <link>/tags/qualification-mismatch/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/qualification-mismatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills Mismatch</title>
+      <link>/tags/skills-mismatch/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/skills-mismatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Economic Geohgraphy</title>
       <link>/tags/economic-geohgraphy/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       <guid>/tags/economic-geohgraphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labour Market Integration</title>
+      <link>/tags/labour-market-integration/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/labour-market-integration/</guid>
       <description></description>
     </item>
     
@@ -529,6 +601,142 @@
       <link>/tags/spatial-labour-markets/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       <guid>/tags/spatial-labour-markets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migration Impact</title>
+      <link>/tags/migration-impact/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/migration-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-national Analysis</title>
+      <link>/tags/cross-national-analysis/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/cross-national-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>/tags/development/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population Redistribution</title>
+      <link>/tags/population-redistribution/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/population-redistribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale Effects</title>
+      <link>/tags/scale-effects/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/scale-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic Geography</title>
+      <link>/tags/economic-geography/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/economic-geography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Computation</title>
+      <link>/tags/evolutionary-computation/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/evolutionary-computation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labour Market Areas</title>
+      <link>/tags/labour-market-areas/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/labour-market-areas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel-to-work Areas</title>
+      <link>/tags/travel-to-work-areas/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/travel-to-work-areas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-national Comparison</title>
+      <link>/tags/cross-national-comparison/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/cross-national-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Capital Pathways</title>
+      <link>/tags/human-capital-pathways/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/human-capital-pathways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Data</title>
+      <link>/tags/longitudinal-data/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/longitudinal-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Trajectories</title>
+      <link>/tags/longitudinal-trajectories/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/longitudinal-trajectories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional Development</title>
+      <link>/tags/regional-development/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/regional-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School-to-work Transitions</title>
+      <link>/tags/school-to-work-transitions/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/school-to-work-transitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Capital</title>
+      <link>/tags/human-capital/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/human-capital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labour Market</title>
+      <link>/tags/labour-market/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/labour-market/</guid>
       <description></description>
     </item>
     
@@ -581,10 +789,42 @@
     </item>
     
     <item>
+      <title>Spatial Patterns</title>
+      <link>/tags/spatial-patterns/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/spatial-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australia.</title>
+      <link>/tags/australia./</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/australia./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graduate-skilled Visa</title>
+      <link>/tags/graduate-skilled-visa/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/graduate-skilled-visa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>plot</title>
       <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
@@ -597,50 +837,26 @@
     </item>
     
     <item>
-      <title>Graduate migration</title>
-      <link>/tags/graduate-migration/</link>
+      <title>Attitudes</title>
+      <link>/tags/attitudes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/graduate-migration/</guid>
+      <guid>/tags/attitudes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Human Capital Pathways</title>
-      <link>/tags/human-capital-pathways/</link>
+      <title>Immigration</title>
+      <link>/tags/immigration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/human-capital-pathways/</guid>
+      <guid>/tags/immigration/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Longitudinal Data</title>
-      <link>/tags/longitudinal-data/</link>
+      <title>Policy</title>
+      <link>/tags/policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/longitudinal-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Longitudinal Trajectories</title>
-      <link>/tags/longitudinal-trajectories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/longitudinal-trajectories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regional Development</title>
-      <link>/tags/regional-development/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/regional-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School-to-work Transitions</title>
-      <link>/tags/school-to-work-transitions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/school-to-work-transitions/</guid>
+      <guid>/tags/policy/</guid>
       <description></description>
     </item>
     

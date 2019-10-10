@@ -9,7 +9,7 @@ math: true
 title: Introducing the R Package CIM
 ---
 
-This site introduces our recently published R package, CIM, to measure the impacts of migration on local population structures. We developed the methodology in this [paper](https://doi.org/10.1080/00324728.2017.1416155) in 2018. This paper is one of the 10 top ten most viewed articles in [Population Studies](https://www.tandfonline.com/action/showMostReadArticles?journalCode=rpst20)
+This post introduces our recently published R package, CIM, to measure the impacts of migration on local population structures. We developed the methodology in this [paper](https://doi.org/10.1080/00324728.2017.1416155) in 2018. This paper is one of the 10 top ten most viewed articles in [Population Studies](https://www.tandfonline.com/action/showMostReadArticles?journalCode=rpst20)
 
 ## Installing
   ```

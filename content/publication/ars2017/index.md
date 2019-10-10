@@ -4,7 +4,7 @@ authors:
 - admin
 - Jonathan Corcoran
 - Martin Bell
-date: "2017-17-01T00:00:00Z"
+date: "2017-01-17T00:00:00Z"
 doi: "10.1007/s00168-016-0771-8"
 featured: false
 image:
@@ -16,7 +16,7 @@ publication: '*The Annals of Regional Science*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-17-01T00:00:00Z"
+publishDate: "2017-01-17T00:00:00Z"
 slides: 
 summary: This paper examines the influence of migration and school-to-work pathways on entry-level wages for non-metropolitan youth in Australia.
 tags:
@@ -27,6 +27,7 @@ tags:
 - Longitudinal Trajectories
 - Human Capital Pathways
 - Regional Development
+- Machine Learning
 title: The returns to migration and human capital accumulation pathways. non-metropolitan youth in the school-to-work transition
 url_code: ""
 url_dataset: ""

@@ -26,6 +26,7 @@ tags:
 - Sequence Analysis
 - Sweden
 - Labor Market Integration 
+- Machine Learning
 title: Career trajectories and outcomes of forced migrants in Sweden. Self-employment, employment or persistent inactivity?
 url_code: ""
 url_dataset: ""

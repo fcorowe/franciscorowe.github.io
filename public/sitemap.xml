@@ -33,51 +33,6 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cim/</loc>
-    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2019-10-10-first/</loc>
-    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/migration-impact/</loc>
-    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-package/</loc>
-    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-10T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
@@ -123,7 +78,17 @@
   </url>
   
   <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/mikaela-backman/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -149,6 +114,11 @@
   
   <url>
     <loc>/tags/sweden/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -593,7 +563,92 @@
   </url>
   
   <url>
+    <loc>/tags/residential-mobility/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/residential-segregation/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/spatial-inequality/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/relap2017/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/6/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/angelina-zhi-rou-tang/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/counterfactual-treatment/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/field-of-study-mismatch/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/graduate-migration/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/international-students/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/job-education-mismatch/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/overseas-graduates/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/qualification-mismatch/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/skills-mismatch/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bookcp2017/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alessandra-faggian/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/economic-geohgraphy/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/labour-market-integration/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -618,8 +673,173 @@
   </url>
   
   <url>
-    <loc>/publication/bookcp12019/</loc>
+    <loc>/publication/bookcp2019_2/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bookcp2019_1/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/migration-impact/</loc>
+    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/iussp2017/</loc>
+    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aude-bernard/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cross-national-analysis/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/elin-charles-edwards/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ersa2017/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/philipp-ueffing/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/population-redistribution/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scale-effects/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/economic-geography/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/evolutionary-computation/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/region2017_1/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jose-manuel-casado-diaz/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/labour-market-areas/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lucas-martinez-bernabeu/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/region2017_2/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/travel-to-work-areas/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/plosone2017/</loc>
+    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cross-national-comparison/</loc>
+    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sea2017/</loc>
+    <lastmod>2017-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/human-capital-pathways/</loc>
+    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/longitudinal-data/</loc>
+    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/longitudinal-trajectories/</loc>
+    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regional-development/</loc>
+    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/school-to-work-transitions/</loc>
+    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ars2017ed/</loc>
+    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ars2017/</loc>
+    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/human-capital/</loc>
+    <lastmod>2016-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/labour-market/</loc>
+    <lastmod>2016-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-j.-stimson/</loc>
+    <lastmod>2016-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bookcp2016_1/</loc>
+    <lastmod>2016-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -673,8 +893,43 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bookcp2016_2/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/spatial-patterns/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thomas-sigler/</loc>
+    <lastmod>2016-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/australia./</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/epc2016/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/graduate-skilled-visa/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -688,12 +943,26 @@
   </url>
   
   <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/alessandra-faggian/</loc>
+    <loc>/tags/attitudes/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/clara-h-mulder/</loc>
   </url>
   
   <url>
@@ -701,35 +970,15 @@
   </url>
   
   <url>
-    <loc>/tags/graduate-migration/</loc>
+    <loc>/publication/cops2015/</loc>
   </url>
   
   <url>
-    <loc>/tags/human-capital-pathways/</loc>
+    <loc>/tags/immigration/</loc>
   </url>
   
   <url>
-    <loc>/tags/longitudinal-data/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/longitudinal-trajectories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/regional-development/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/school-to-work-transitions/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/ars2017ed/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/ars2017/</loc>
+    <loc>/tags/policy/</loc>
   </url>
   
 </urlset>

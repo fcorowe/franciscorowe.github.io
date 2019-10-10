@@ -5,7 +5,7 @@
     <link>/publication_types/6/</link>
       <atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>6</title>
@@ -13,24 +13,35 @@
     </image>
     
     <item>
-      <title>R Package CIM Compositional Impact of Migration</title>
-      <link>/publication/rcim2019/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rcim2019/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>The role of migration on education-job mismatch. Evidence from overseas graduates in Australia</title>
+      <link>/publication/bookcp2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The changing composition and fortunes of overseas graduates in Australia. The case of Chinese and Indian graduates</title>
+      <link>/publication/bookcp2019_2/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impacts of Policy Change on Overseas Human Capital in Australia. The Implementation of the 485 Graduate Visa Scheme</title>
+      <link>/publication/bookcp2016_1/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2016_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Mobility Patterns of Overseas Graduates in Australia</title>
+      <link>/publication/bookcp2016_2/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2016_2/</guid>
+      <description></description>
     </item>
     
   </channel>

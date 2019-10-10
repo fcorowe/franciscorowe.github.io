@@ -26,6 +26,7 @@ tags:
 - Street-level Imagery
 - Deep Learning
 - Image Segmentation
+- Machine Learning
 title: A Hierarchical Urban Forest Index Using Street-Level Imagery and Deep Learning
 url_code: "https://github.com/datasciencecampus/street-view-pipeline"
 url_dataset: "https://developers.google.com/maps/documentation/streetview/intro"

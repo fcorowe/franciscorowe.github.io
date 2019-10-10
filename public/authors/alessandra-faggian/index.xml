@@ -5,7 +5,7 @@
     <link>/authors/alessandra-faggian/</link>
       <atom:link href="/authors/alessandra-faggian/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessandra Faggian</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Alessandra Faggian</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>The changing composition and fortunes of overseas graduates in Australia. The case of Chinese and Indian graduates</title>
+      <link>/publication/bookcp2019_2/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Special issue on youth and graduate migration</title>
       <link>/publication/ars2017ed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/ars2017ed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impacts of Policy Change on Overseas Human Capital in Australia. The Implementation of the 485 Graduate Visa Scheme</title>
+      <link>/publication/bookcp2016_1/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2016_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the effects of Australian policy changes on human capital. The role of a graduate visa scheme</title>
+      <link>/publication/epc2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/epc2016/</guid>
       <description></description>
     </item>
     

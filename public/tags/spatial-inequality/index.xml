@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial Inequality | Academic</title>
+    <link>/tags/spatial-inequality/</link>
+      <atom:link href="/tags/spatial-inequality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatial Inequality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Spatial Inequality</title>
+      <link>/tags/spatial-inequality/</link>
+    </image>
+    
+    <item>
+      <title>¿Contribuye la migración interna a reducir la segregación residencial? El caso de Santiago de Chile 1977-2002</title>
+      <link>/publication/relap2017/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/relap2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

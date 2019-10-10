@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angelina Zhi Rou Tang | Academic</title>
+    <link>/authors/angelina-zhi-rou-tang/</link>
+      <atom:link href="/authors/angelina-zhi-rou-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Angelina Zhi Rou Tang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Angelina Zhi Rou Tang</title>
+      <link>/authors/angelina-zhi-rou-tang/</link>
+    </image>
+    
+    <item>
+      <title>The role of migration on education-job mismatch. Evidence from overseas graduates in Australia</title>
+      <link>/publication/bookcp2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The changing composition and fortunes of overseas graduates in Australia. The case of Chinese and Indian graduates</title>
+      <link>/publication/bookcp2019_2/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Mobility Patterns of Overseas Graduates in Australia</title>
+      <link>/publication/bookcp2016_2/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2016_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
