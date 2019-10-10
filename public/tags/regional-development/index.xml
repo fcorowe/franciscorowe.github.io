@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regional Development | Academic</title>
+    <link>/tags/regional-development/</link>
+      <atom:link href="/tags/regional-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regional Development</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Regional Development</title>
+      <link>/tags/regional-development/</link>
+    </image>
+    
+    <item>
+      <title>Special issue on youth and graduate migration</title>
+      <link>/publication/ars2017ed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/ars2017ed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The returns to migration and human capital accumulation pathways. non-metropolitan youth in the school-to-work transition</title>
+      <link>/publication/ars2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/ars2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -397,6 +397,70 @@
     </item>
     
     <item>
+      <title>Public Transport</title>
+      <link>/tags/public-transport/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/public-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-series Modelling</title>
+      <link>/tags/time-series-modelling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/time-series-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel Behaviour</title>
+      <link>/tags/travel-behaviour/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/travel-behaviour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weather</title>
+      <link>/tags/weather/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/weather/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic Geohgraphy</title>
+      <link>/tags/economic-geohgraphy/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/economic-geohgraphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-distance Commuting</title>
+      <link>/tags/long-distance-commuting/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/long-distance-commuting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Extractive Industries</title>
+      <link>/tags/mining-extractive-industries/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/mining-extractive-industries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Labour Markets</title>
+      <link>/tags/spatial-labour-markets/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/spatial-labour-markets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Demography</title>
       <link>/tags/demography/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -465,6 +529,94 @@
       <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forced Migration</title>
+      <link>/tags/forced-migration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/forced-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graduate migration</title>
+      <link>/tags/graduate-migration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/graduate-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Capital Pathways</title>
+      <link>/tags/human-capital-pathways/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/human-capital-pathways/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labor Market Integration</title>
+      <link>/tags/labor-market-integration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/labor-market-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Career Trajectories</title>
+      <link>/tags/longitudinal-career-trajectories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/longitudinal-career-trajectories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Data</title>
+      <link>/tags/longitudinal-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/longitudinal-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Trajectories</title>
+      <link>/tags/longitudinal-trajectories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/longitudinal-trajectories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refugees</title>
+      <link>/tags/refugees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/refugees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional Development</title>
+      <link>/tags/regional-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/regional-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School-to-work Transitions</title>
+      <link>/tags/school-to-work-transitions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/school-to-work-transitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweden</title>
+      <link>/tags/sweden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/sweden/</guid>
       <description></description>
     </item>
     

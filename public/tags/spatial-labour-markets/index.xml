@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial Labour Markets | Academic</title>
+    <link>/tags/spatial-labour-markets/</link>
+      <atom:link href="/tags/spatial-labour-markets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatial Labour Markets</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Spatial Labour Markets</title>
+      <link>/tags/spatial-labour-markets/</link>
+    </image>
+    
+    <item>
+      <title>The drivers of long-distance commuting in Chile. The role of spatial distribution of economic activities</title>
+      <link>/publication/bookcp12019/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp12019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
