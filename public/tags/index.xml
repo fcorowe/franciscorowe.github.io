@@ -5,12 +5,60 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Forced Migration</title>
+      <link>/tags/forced-migration/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/forced-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labor Market Integration</title>
+      <link>/tags/labor-market-integration/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/labor-market-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Career Trajectories</title>
+      <link>/tags/longitudinal-career-trajectories/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/longitudinal-career-trajectories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refugees</title>
+      <link>/tags/refugees/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/refugees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Analysis</title>
+      <link>/tags/sequence-analysis/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/sequence-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweden</title>
+      <link>/tags/sweden/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/sweden/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ageing</title>
@@ -97,14 +145,6 @@
       <link>/tags/population-dynamics/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/tags/population-dynamics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sequence Analysis</title>
-      <link>/tags/sequence-analysis/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/sequence-analysis/</guid>
       <description></description>
     </item>
     
@@ -533,14 +573,6 @@
     </item>
     
     <item>
-      <title>Forced Migration</title>
-      <link>/tags/forced-migration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/forced-migration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Graduate migration</title>
       <link>/tags/graduate-migration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -553,22 +585,6 @@
       <link>/tags/human-capital-pathways/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/human-capital-pathways/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Labor Market Integration</title>
-      <link>/tags/labor-market-integration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/labor-market-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Longitudinal Career Trajectories</title>
-      <link>/tags/longitudinal-career-trajectories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/longitudinal-career-trajectories/</guid>
       <description></description>
     </item>
     
@@ -589,14 +605,6 @@
     </item>
     
     <item>
-      <title>Refugees</title>
-      <link>/tags/refugees/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/refugees/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Regional Development</title>
       <link>/tags/regional-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -609,14 +617,6 @@
       <link>/tags/school-to-work-transitions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/school-to-work-transitions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sweden</title>
-      <link>/tags/sweden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/sweden/</guid>
       <description></description>
     </item>
     

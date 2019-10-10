@@ -33,6 +33,81 @@
   </url>
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sme2019/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/esteban-lopez/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/forced-migration/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/labor-market-integration/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/longitudinal-career-trajectories/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mikaela-backman/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/refugees/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sequence-analysis/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sweden/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -43,11 +118,6 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2019-07-08T00:00:00+00:00</lastmod>
   </url>
@@ -55,11 +125,6 @@
   <url>
     <loc>/tags/ageing/</loc>
     <lastmod>2019-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,22 +178,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/socioeconomic-status/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-07-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -169,11 +219,6 @@
   
   <url>
     <loc>/tags/population-dynamics/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sequence-analysis/</loc>
     <lastmod>2019-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -508,11 +553,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/economic-geohgraphy/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -632,19 +672,7 @@
   </url>
   
   <url>
-    <loc>/publication/sme2019/</loc>
-  </url>
-  
-  <url>
     <loc>/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/esteban-lopez/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/forced-migration/</loc>
   </url>
   
   <url>
@@ -656,27 +684,11 @@
   </url>
   
   <url>
-    <loc>/tags/labor-market-integration/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/longitudinal-career-trajectories/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/longitudinal-data/</loc>
   </url>
   
   <url>
     <loc>/tags/longitudinal-trajectories/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/mikaela-backman/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/refugees/</loc>
   </url>
   
   <url>
@@ -689,10 +701,6 @@
   
   <url>
     <loc>/publication/ars2017ed/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/sweden/</loc>
   </url>
   
   <url>
