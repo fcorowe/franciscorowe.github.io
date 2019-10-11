@@ -7,7 +7,7 @@ address:
   region: 
   street: 92 Rue Pasteur
 all_day: false
-authors: []
+authors: [Francisco Rowe and Juan Soto]
 date: "2019-08-28T09:00:00Z"
 date_end: "2019-08-28T10:30:00Z"
 event: European Regional Science Association
