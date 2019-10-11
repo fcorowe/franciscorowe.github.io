@@ -11,7 +11,7 @@ links:
   url: https://twitter.com/fcorowe
 summary: This project aims to generate annual country-to-country migration estimates across the world.
 tags:
-- Migration Flows
+- Migration
 - Global
 - World
 - Machine Learning

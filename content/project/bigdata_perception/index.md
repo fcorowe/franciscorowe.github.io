@@ -17,6 +17,7 @@ tags:
 - Twitter Data
 - Neuro-linguistic Programming
 - Trend Analysis
+- Migration
 title: Using large scale social media data to measure perceptions towards immigration
 url_code: ""
 url_pdf: ""

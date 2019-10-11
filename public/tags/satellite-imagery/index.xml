@@ -5,12 +5,20 @@
     <link>/tags/satellite-imagery/</link>
       <atom:link href="/tags/satellite-imagery/index.xml" rel="self" type="application/rss+xml" />
     <description>Satellite Imagery</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 28 Aug 2019 09:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Satellite Imagery</title>
       <link>/tags/satellite-imagery/</link>
     </image>
+    
+    <item>
+      <title>How Do Local Labor Markets Looks From Above? An Automated Satellite Imagery Approach</title>
+      <link>/talk/ersa2019/</link>
+      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/ersa2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using satellite imagery to measure the evolution of cities</title>

@@ -133,10 +133,26 @@
     </item>
     
     <item>
+      <title>Migration</title>
+      <link>/tags/migration/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>United Kingdom</title>
       <link>/tags/united-kingdom/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/united-kingdom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satellite Imagery</title>
+      <link>/tags/satellite-imagery/</link>
+      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>/tags/satellite-imagery/</guid>
       <description></description>
     </item>
     
@@ -337,14 +353,6 @@
       <link>/tags/global/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/tags/global/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Migration Flows</title>
-      <link>/tags/migration-flows/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/migration-flows/</guid>
       <description></description>
     </item>
     
@@ -617,14 +625,6 @@
       <link>/tags/public-transport/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/tags/public-transport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Satellite Imagery</title>
-      <link>/tags/satellite-imagery/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/satellite-imagery/</guid>
       <description></description>
     </item>
     
@@ -945,14 +945,6 @@
       <link>/tags/human-geography/</link>
       <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
       <guid>/tags/human-geography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Population Forecasting</title>
-      <link>/tags/population-forecasting/</link>
-      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/population-forecasting/</guid>
       <description></description>
     </item>
     

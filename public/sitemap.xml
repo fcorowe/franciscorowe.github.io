@@ -19,17 +19,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2019-10-11T21:13:14-05:00</lastmod>
   </url>
   
   <url>
@@ -173,6 +163,11 @@
   </url>
   
   <url>
+    <loc>/tags/migration/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -185,6 +180,31 @@
   <url>
     <loc>/tags/united-kingdom/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/francisco-rowe/</loc>
+    <lastmod>2019-08-28T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ersa2019/</loc>
+    <lastmod>2019-08-28T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/un2019/</loc>
+    <lastmod>2019-08-28T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-08-28T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/satellite-imagery/</loc>
+    <lastmod>2019-08-28T09:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -403,27 +423,12 @@
   </url>
   
   <url>
-    <loc>/tags/migration-flows/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/world/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/francisco-rowe-and-juan-soto/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/ersa2019/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -679,11 +684,6 @@
   
   <url>
     <loc>/tags/public-transport/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/satellite-imagery/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1059,11 +1059,6 @@
   
   <url>
     <loc>/project/population_forecast/</loc>
-    <lastmod>2015-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/population-forecasting/</loc>
     <lastmod>2015-11-06T00:00:00+00:00</lastmod>
   </url>
   

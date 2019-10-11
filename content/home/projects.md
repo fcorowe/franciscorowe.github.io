@@ -35,7 +35,11 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Forecasting"
-    tag = "Forecasting"    
+    tag = "Forecasting"
+
+  [[content.filter_button]]
+    name = "Satellite"
+    tag = "Satellite Imagery"    
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -19,6 +19,7 @@ tags:
 - Machine Learning
 - Londitudinal Data
 - Sequence Analysis
+- Migration
 title: Understanding and Predicting the Long-term Labour Market and Migration Trajectories of Immigrants and Their Children in the United Kingdom
 url_code: ""
 url_pdf: ""
