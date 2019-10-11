@@ -5,12 +5,30 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Understanding and Predicting the Long-term Labour Market and Migration Trajectories of Immigrants and Their Children in the United Kingdom</title>
+      <link>/project/immigrants_trajectories/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/immigrants_trajectories/</guid>
+      <description>&lt;p&gt;Prior empirical research has advanced our understanding of immigrants’ assimilation, their descendants and the role of ethnic concentration. Yet work has remained cross-sectional in nature, focusing on the occupational outcomes and residential locations at a specific point in time. Little progress has been made to understand the trajectories of immigrants and their children over a long period of time. Understanding of the long-term trajectories of immigrants and their children is key to assess their prospects for economic and social success, and develop effective policy interventions to assist their integration process, unleash their skills’ potential and facilitate upward social mobility.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating Global Bilateral Migration Flows</title>
+      <link>/project/estimating_migration/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/project/estimating_migration/</guid>
+      <description>&lt;p&gt;This project aims to generate annual country-to-country migration estimates across the world. Keep posted for further details.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using satellite imagery to measure the evolution of cities</title>

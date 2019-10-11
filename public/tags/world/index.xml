@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>World | Academic</title>
+    <link>/tags/world/</link>
+      <atom:link href="/tags/world/index.xml" rel="self" type="application/rss+xml" />
+    <description>World</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>World</title>
+      <link>/tags/world/</link>
+    </image>
+    
+    <item>
+      <title>Estimating Global Bilateral Migration Flows</title>
+      <link>/project/estimating_migration/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/project/estimating_migration/</guid>
+      <description>&lt;p&gt;This project aims to generate annual country-to-country migration estimates across the world. Keep posted for further details.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

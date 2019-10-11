@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -60,14 +68,6 @@
       <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
-      <description></description>
     </item>
     
     <item>
