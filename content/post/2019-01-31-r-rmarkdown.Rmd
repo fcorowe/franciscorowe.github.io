@@ -16,7 +16,7 @@ This post introduces our recently published R package, CIM, to measure the impac
 
 ## Installing
 ```
-#install.packages("CIM")
+install.packages("CIM")
 library(CIM)
 ```
 

@@ -25,7 +25,7 @@
 &lt;p&gt;This post introduces our recently published R package, CIM, to measure the impacts of migration on local population structures. We developed the methodology in this &lt;a href=&#34;https://doi.org/10.1080/00324728.2017.1416155&#34;&gt;paper&lt;/a&gt; in 2018. This paper is one of the 10 top ten most viewed articles in &lt;a href=&#34;https://www.tandfonline.com/action/showMostReadArticles?journalCode=rpst20&#34;&gt;Population Studies&lt;/a&gt;&lt;/p&gt;
 &lt;div id=&#34;installing&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Installing&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;#install.packages(&amp;quot;CIM&amp;quot;)
+&lt;pre&gt;&lt;code&gt;install.packages(&amp;quot;CIM&amp;quot;)
 library(CIM)&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;This package enables quantifying the impact of internal migration on age, gender, educational population structures and inequality.&lt;/p&gt;
 &lt;/div&gt;
