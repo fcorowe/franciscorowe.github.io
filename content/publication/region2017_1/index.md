@@ -27,7 +27,7 @@ tags:
 - Economic Geography
 title: Functional Labor Market Areas for Chile
 url_code: "http://dx.doi.org/10.1080/17421772.2017.1273541"
-url_dataset: ""
+url_dataset: "https://geodacenter.github.io/data-and-lab//FLMA/"
 url_pdf: http://dx.doi.org/10.18335/region.v4i3.199
 url_poster: ""
 url_project: ""
