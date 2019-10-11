@@ -2,11 +2,8 @@
 title: "Introducing the R Package CIM"
 author: "Francisco Rowe"
 date: '2019-10-11T21:13:14-05:00'
-tags:
-- R Markdown
-- Migration
-- Spatial Impact
-categories: R
+categories: ["R"]
+tags: ["R Markdown", "Migration", "Spatial Impact"]
 ---
 
 ```{r setup, include=FALSE}
@@ -18,9 +15,8 @@ knitr::opts_chunk$set(collapse = TRUE)
 This post introduces our recently published R package, CIM, to measure the impacts of migration on local population structures. We developed the methodology in this [paper](https://doi.org/10.1080/00324728.2017.1416155) in 2018. This paper is one of the 10 top ten most viewed articles in [Population Studies](https://www.tandfonline.com/action/showMostReadArticles?journalCode=rpst20)
 
 ## Installing
-```{r}
+```
 #install.packages("CIM")
-
 library(CIM)
 ```
 
@@ -34,7 +30,7 @@ Here I provide a short example of how this can be used to measure the impact of 
 
 Compute and print the CIM outputs
 
-```{r}
+```
   CIM.duncan <- CIM(pop65over, pop1_14, pop15_29, pop30_44, pop45_64, calculation = "duncan", numerator = 1, DuncanAll= TRUE)
   CIM.duncan$duncan_index
 ```
@@ -49,8 +45,8 @@ To visualise where the population aged 65 and over in the Greater London Metropo
 
 First install and load the needed packages
 
-```{r}
-#install.packages(c("rgdal", "dplyr", "tmap"))
+```
+install.packages(c("rgdal", "dplyr", "tmap"))
 library(rgdal)
 library(dplyr)
 library(tmap)
@@ -62,8 +58,8 @@ NOTE: The Local Authority Districts for the City of London and Westminster in ou
 
 Read the shapefile.
 
-```{r}
-#  Greater_London <- readOGR(dsn = ".", layer = "Greater_London_districts", stringsAsFactors = FALSE)
+```
+Greater_London <- readOGR(dsn = ".", layer = "Greater_London_districts", stringsAsFactors = FALSE)
 ```
 
 Plot the shapefile
@@ -112,5 +108,3 @@ Or, even better we can create an interactive map! by setting an interactive map 
   tm_compass(position = c("left", "bottom")) +
   tm_scale_bar(position = c("left", "bottom"))
 ```
-
-  

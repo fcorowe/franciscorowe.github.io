@@ -5,12 +5,36 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Fri, 11 Oct 2019 21:13:14 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Migration</title>
+      <link>/tags/migration/</link>
+      <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
+      <guid>/tags/migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Impact</title>
+      <link>/tags/spatial-impact/</link>
+      <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
+      <guid>/tags/spatial-impact/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forced Migration</title>
@@ -105,14 +129,6 @@
       <link>/tags/longitudinal-trajectories/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/longitudinal-trajectories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Migration</title>
-      <link>/tags/migration/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/migration/</guid>
       <description></description>
     </item>
     
@@ -525,14 +541,6 @@
     </item>
     
     <item>
-      <title>Spatial impact</title>
-      <link>/tags/spatial-impact/</link>
-      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/spatial-impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Australia</title>
       <link>/tags/australia/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
@@ -937,6 +945,22 @@
       <link>/tags/urban-and-regional-planning/</link>
       <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
       <guid>/tags/urban-and-regional-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
