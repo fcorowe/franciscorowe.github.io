@@ -509,10 +509,34 @@
     </item>
     
     <item>
+      <title>Cities</title>
+      <link>/tags/cities/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting</title>
+      <link>/tags/forecasting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Public Transport</title>
       <link>/tags/public-transport/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/tags/public-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satellite Imagery</title>
+      <link>/tags/satellite-imagery/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/satellite-imagery/</guid>
       <description></description>
     </item>
     
@@ -781,46 +805,6 @@
     </item>
     
     <item>
-      <title>Demography</title>
-      <link>/tags/demography/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human Geography</title>
-      <link>/tags/human-geography/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/human-geography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Population Forecasting</title>
-      <link>/tags/population-forecasting/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/population-forecasting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Population Projection</title>
-      <link>/tags/population-projection/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/population-projection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urban and Regional Planning</title>
-      <link>/tags/urban-and-regional-planning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/urban-and-regional-planning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Spatial Patterns</title>
       <link>/tags/spatial-patterns/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
@@ -865,6 +849,46 @@
       <link>/tags/policy/</link>
       <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
       <guid>/tags/policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demography</title>
+      <link>/tags/demography/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/demography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Geography</title>
+      <link>/tags/human-geography/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/human-geography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population Forecasting</title>
+      <link>/tags/population-forecasting/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/population-forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population Projection</title>
+      <link>/tags/population-projection/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/population-projection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban and Regional Planning</title>
+      <link>/tags/urban-and-regional-planning/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/urban-and-regional-planning/</guid>
       <description></description>
     </item>
     

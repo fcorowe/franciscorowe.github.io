@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,20 +13,29 @@
     </image>
     
     <item>
-      <title>Improving Subnational Population Forecasts</title>
-      <link>/project/population_forecast/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/population_forecast/</guid>
-      <description>&lt;p&gt;Improving Sub-national Population Forecasts. The aim of this project is to make significant advances in two related areas of regional, council area and local population forecasting, namely improving accuracy, and providing an indication of forecast uncertainty. Population forecasts often turn out to be far more inaccurate than users realise and fail to come with any information about reliability. Every year forecasts inform a wide variety of planning and policy development activities and influence investment decisions worth billions of dollars. In order to increase the value of forecasts to users, this project aims to combine methods from a range of disciplines to devise more accurate ways of forecasting populations, and provide accompanying information on their likely error.&lt;/p&gt;
+      <title>Using satellite imagery to measure the evolution of cities</title>
+      <link>/project/satellite_cities/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/project/satellite_cities/</guid>
+      <description>&lt;p&gt;Sustainable urban habitats are a key component of global challenges, and efficient management and planning of cities are pivotal to all 17 UN SDGs. Over 90% of projected urban growth by 2050 will occur in less developed countries. Prior work on urbanisation has identified the benefits of agglomeration and improvements in health and education, which tend to outweigh the costs of congestion, pollution and poverty. Yet research has focused on Western cities: urban areas with high-income, in developed countries. Much less is known about urban habitats in less developed countries. This project aims to improve our understanding of urban areas levearing on large scale satellite imagery and machine learning.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Understanding the declining trend in internal migration in Europe</title>
       <link>/project/migration_decline/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
       <guid>/project/migration_decline/</guid>
       <description>&lt;p&gt;Internal migration is of fundamental importance for individuals and families to achieve their goals and aspirations. At a societal level, internal migration underpins the effective functioning of the labour and housing markets. It is essential to economic resilience by bringing knowledge, skills and labour to locations where needed to enhance economic productivity (Blanchard et al. 1992). This is particular relevant today. Internal migration rates have continuously declined over the last five decades in most countries around the world. This decline is likely to have wide-ranging implications for the functioning of the economy and individuals’ aspirations, but remains poorly recognised and understood. National and local governments have been concerned that the decline in migration heralds a less flexible economy where workers do not move to regions with jobs (Kaplan and Schulhofer-Wohl 2012). Internal migration is the main driver of changing settlement patterns within countries, so understanding declining migration levels is critical to plan for infrastructure delivery and forecast housing needs to ensure appropriate evidence-based policy responses. The project aims to establish the start and pace of the migration decline in 18 European countries, and to determine the factors underpinning this trend by examining associations between the drop in migration rates and broader demographic and socio-economic changes in the last three decades.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving Subnational Population Forecasts</title>
+      <link>/project/population_forecast/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/project/population_forecast/</guid>
+      <description>&lt;p&gt;Improving Sub-national Population Forecasts. The aim of this project is to make significant advances in two related areas of regional, council area and local population forecasting, namely improving accuracy, and providing an indication of forecast uncertainty. Population forecasts often turn out to be far more inaccurate than users realise and fail to come with any information about reliability. Every year forecasts inform a wide variety of planning and policy development activities and influence investment decisions worth billions of dollars. In order to increase the value of forecasts to users, this project aims to combine methods from a range of disciplines to devise more accurate ways of forecasting populations, and provide accompanying information on their likely error.&lt;/p&gt;
 </description>
     </item>
     
