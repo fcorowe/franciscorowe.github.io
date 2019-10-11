@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latin America and the Caribbean | Academic</title>
+    <link>/tags/latin-america-and-the-caribbean/</link>
+      <atom:link href="/tags/latin-america-and-the-caribbean/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latin America and the Caribbean</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 10 Apr 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Latin America and the Caribbean</title>
+      <link>/tags/latin-america-and-the-caribbean/</link>
+    </image>
+    
+    <item>
+      <title>The geography and determinants of regional human capital in eight Latin American and Caribbean countries</title>
+      <link>/publication/bookcp2013/</link>
+      <pubDate>Wed, 10 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

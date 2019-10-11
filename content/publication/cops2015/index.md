@@ -4,7 +4,7 @@ authors:
 - Philipp Ueffing
 - admin
 - Clara H Mulder
-date: "2015-14-12T00:00:00Z"
+date: "2015-12-14T00:00:00Z"
 doi: "10.12765/CPoS-2015-18en"
 featured: false
 image:
@@ -16,7 +16,7 @@ publication: '*Comparative Population Studies*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2015-14-12T00:00:00Z"
+publishDate: "2015-12-14T00:00:00Z"
 slides: 
 summary: This paper investigates the connection between national immigration policy and a society’s attitudes towards immigration.
 tags:

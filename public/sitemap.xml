@@ -423,6 +423,41 @@
   </url>
   
   <url>
+    <loc>/publication_types/4/</loc>
+    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/britain/</loc>
+    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/longitudinal-trajectories/</loc>
+    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/neighbourhood-change/</loc>
+    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/policybrief2018/</loc>
+    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regional-development/</loc>
+    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/spatial-inequality/</loc>
+    <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -573,11 +608,6 @@
   </url>
   
   <url>
-    <loc>/tags/spatial-inequality/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/relap2017/</loc>
     <lastmod>2017-12-20T00:00:00+00:00</lastmod>
   </url>
@@ -635,6 +665,11 @@
   <url>
     <loc>/publication/bookcp2017/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/si_post/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -783,6 +818,11 @@
   </url>
   
   <url>
+    <loc>/post/llma_post/</loc>
+    <lastmod>2017-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/sea2017/</loc>
     <lastmod>2017-02-13T00:00:00+00:00</lastmod>
   </url>
@@ -794,16 +834,6 @@
   
   <url>
     <loc>/tags/longitudinal-data/</loc>
-    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/longitudinal-trajectories/</loc>
-    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regional-development/</loc>
     <lastmod>2017-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -933,6 +963,31 @@
   </url>
   
   <url>
+    <loc>/tags/attitudes/</loc>
+    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/clara-h-mulder/</loc>
+    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cops2015/</loc>
+    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/immigration/</loc>
+    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/policy/</loc>
+    <lastmod>2015-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -958,27 +1013,132 @@
   </url>
   
   <url>
-    <loc>/tags/attitudes/</loc>
+    <loc>/publication/arc2015/</loc>
+    <lastmod>2015-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/clara-h-mulder/</loc>
+    <loc>/tags/multilevel-modelling/</loc>
+    <lastmod>2015-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/arc2016/</loc>
+    <lastmod>2015-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/fiona-mckenzie/</loc>
+    <lastmod>2015-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/arc2014_4/</loc>
+    <lastmod>2014-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/labour/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mobility/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/overseas-graduate-migration/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rural-development/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ag2014/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/arc2014_3/</loc>
+    <lastmod>2014-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/arc2014_2/</loc>
+    <lastmod>2014-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/arc2014_1/</loc>
+    <lastmod>2014-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/arc2013/</loc>
+    <lastmod>2013-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/graduate-visa/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ag2013/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/latin-america-and-the-caribbean/</loc>
+    <lastmod>2013-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/spatial-distribution/</loc>
+    <lastmod>2013-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bookcp2013/</loc>
+    <lastmod>2013-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/forecast-accuracy/</loc>
+    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fractional-response-model/</loc>
+    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/local-government-areas/</loc>
+    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/population-projections/</loc>
+    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/queensland/</loc>
+    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ajrs2011/</loc>
+    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/cops2015/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/immigration/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/policy/</loc>
   </url>
   
 </urlset>
