@@ -20,7 +20,7 @@ publishDate: "2013-06-01T00:00:00Z"
 slides: 
 summary:  This paper investigates the spatial dynamics of overseas human capital in Australia and their relation to the new visa scheme in combination with shifts in rural development policies.
 tags:
-- Graduate Migration
+- Migration
 - Human Capital
 - Graduate Visa
 - Regional Development

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Graduate Migration | Academic</title>
+    <title>Graduate migration | Academic</title>
     <link>/tags/graduate-migration/</link>
       <atom:link href="/tags/graduate-migration/index.xml" rel="self" type="application/rss+xml" />
-    <description>Graduate Migration</description>
+    <description>Graduate migration</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Graduate Migration</title>
+      <title>Graduate migration</title>
       <link>/tags/graduate-migration/</link>
     </image>
     
@@ -65,14 +65,6 @@
       <link>/publication/epc2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/publication/epc2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobility Patterns of Overseas Human Capital in Australia. The role of a ‘new’ graduate visa scheme and rural development policy</title>
-      <link>/publication/ag2013/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/ag2013/</guid>
       <description></description>
     </item>
     

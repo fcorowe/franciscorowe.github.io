@@ -21,6 +21,7 @@ slides:
 summary: This paper examines the influence of migration and school-to-work pathways on entry-level wages for non-metropolitan youth in Australia.
 tags:
 - Graduate migration
+- Migration
 - Longitudinal Data
 - Sequence Analysis
 - School-to-work Transitions

@@ -23,6 +23,7 @@ tags:
 - Graduate migration
 - Longitudinal data
 - Regional Development
+- Migration
 title: Special issue on youth and graduate migration
 url_code: ""
 url_dataset: ""

@@ -24,7 +24,7 @@ tags:
 - Mobility
 - Labour
 - Human capital
-- Overseas graduate migration
+- Migration
 - Rural development
 title: Where are the overseas graduates staying on? Overseas graduate migration and rural attachment in Australia
 url_code: ""
