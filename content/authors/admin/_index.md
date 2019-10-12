@@ -27,7 +27,7 @@ role: Senior Lecturer in Quantitative Human Geography
 social:
 - icon: envelope
   icon_pack: fas
-  link: f.rowe-gonzalez@liverpool.ac.uk
+  link:  "mailto:f.rowe-gonzalez@liverpool.ac.uk"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/fcorowe
