@@ -28,7 +28,7 @@ projects:
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary:
-tags: [Migration]
+tags: [Migration, Spatial Impact, Latin America, Cities]
 title: Migration, Cities & Big Data
 url_code: ""
 url_pdf: ""

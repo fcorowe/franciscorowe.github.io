@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 28 Aug 2019 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 17 Oct 2019 09:15:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Measuring Urban Forest Using Street-Level Imagery and Deep Learning</title>
+      <link>/talk/ati2019/</link>
+      <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
+      <guid>/talk/ati2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Do Local Labor Markets Looks From Above? An Automated Satellite Imagery Approach</title>

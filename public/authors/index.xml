@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 17 Oct 2019 09:15:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Francisco Rowe</title>
+      <link>/authors/francisco-rowe/</link>
+      <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
+      <guid>/authors/francisco-rowe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joe Peskett and Dani Arribas-Bel</title>
+      <link>/authors/joe-peskett-and-dani-arribas-bel/</link>
+      <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
+      <guid>/authors/joe-peskett-and-dani-arribas-bel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip Stubbings</title>
+      <link>/authors/philip-stubbings/</link>
+      <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
+      <guid>/authors/philip-stubbings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -34,14 +58,6 @@
       <link>/authors/mikaela-backman/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/mikaela-backman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Francisco Rowe</title>
-      <link>/authors/francisco-rowe/</link>
-      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>/authors/francisco-rowe/</guid>
       <description></description>
     </item>
     
@@ -126,14 +142,6 @@
     </item>
     
     <item>
-      <title>Philip Stubbings</title>
-      <link>/authors/philip-stubbings/</link>
-      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/philip-stubbings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Niall Newsham</title>
       <link>/authors/niall-newsham/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
@@ -142,7 +150,7 @@
     </item>
     
     <item>
-      <title>Jorge Rodríguez Vignoli</title>
+      <title>Jorge Rodríguez-Vignoli</title>
       <link>/authors/jorge-rodriguez-vignoli/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/jorge-rodriguez-vignoli/</guid>

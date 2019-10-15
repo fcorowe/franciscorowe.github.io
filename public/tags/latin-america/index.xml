@@ -5,12 +5,20 @@
     <link>/tags/latin-america/</link>
       <atom:link href="/tags/latin-america/index.xml" rel="self" type="application/rss+xml" />
     <description>Latin America</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 28 Aug 2019 09:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Latin America</title>
       <link>/tags/latin-america/</link>
     </image>
+    
+    <item>
+      <title>Migration, Cities &amp; Big Data</title>
+      <link>/talk/un2019/</link>
+      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/un2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Efectos cambiantes de la migración sobre el crecimiento, la estructura demográfica y la segregación residencial en ciudades grandes. El caso de Santiago, Chile, 1977-2017</title>

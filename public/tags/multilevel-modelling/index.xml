@@ -5,12 +5,20 @@
     <link>/tags/multilevel-modelling/</link>
       <atom:link href="/tags/multilevel-modelling/index.xml" rel="self" type="application/rss+xml" />
     <description>Multilevel Modelling</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Fri, 17 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 17 Oct 2019 09:15:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Multilevel Modelling</title>
       <link>/tags/multilevel-modelling/</link>
     </image>
+    
+    <item>
+      <title>Measuring Urban Forest Using Street-Level Imagery and Deep Learning</title>
+      <link>/talk/ati2019/</link>
+      <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
+      <guid>/talk/ati2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Changing post-school pathways and outcomes. Melbourne and regional students</title>

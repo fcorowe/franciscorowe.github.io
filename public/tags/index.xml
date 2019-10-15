@@ -5,12 +5,44 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Fri, 11 Oct 2019 21:13:14 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 17 Oct 2019 09:15:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Street View Imagery</title>
+      <link>/tags/google-street-view-imagery/</link>
+      <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
+      <guid>/tags/google-street-view-imagery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilevel Modelling</title>
+      <link>/tags/multilevel-modelling/</link>
+      <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
+      <guid>/tags/multilevel-modelling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Migration</title>
@@ -57,14 +89,6 @@
       <link>/tags/longitudinal-career-trajectories/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/longitudinal-career-trajectories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -137,6 +161,46 @@
       <link>/tags/united-kingdom/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/united-kingdom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chile</title>
+      <link>/tags/chile/</link>
+      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>/tags/chile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cities</title>
+      <link>/tags/cities/</link>
+      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>/tags/cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic Geography</title>
+      <link>/tags/economic-geography/</link>
+      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>/tags/economic-geography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labour Market Areas</title>
+      <link>/tags/labour-market-areas/</link>
+      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>/tags/labour-market-areas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latin America</title>
+      <link>/tags/latin-america/</link>
+      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>/tags/latin-america/</guid>
       <description></description>
     </item>
     
@@ -265,14 +329,6 @@
       <link>/tags/spatio-temporal-data-analysis/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/tags/spatio-temporal-data-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     
@@ -437,14 +493,6 @@
     </item>
     
     <item>
-      <title>Chile</title>
-      <link>/tags/chile/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/chile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Education</title>
       <link>/tags/education/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
@@ -457,14 +505,6 @@
       <link>/tags/inequality/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/tags/inequality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Latin America</title>
-      <link>/tags/latin-america/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/latin-america/</guid>
       <description></description>
     </item>
     
@@ -585,14 +625,6 @@
       <link>/tags/shelf-life/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/tags/shelf-life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cities</title>
-      <link>/tags/cities/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/cities/</guid>
       <description></description>
     </item>
     
@@ -797,26 +829,10 @@
     </item>
     
     <item>
-      <title>Economic Geography</title>
-      <link>/tags/economic-geography/</link>
-      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/economic-geography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Evolutionary Computation</title>
       <link>/tags/evolutionary-computation/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
       <guid>/tags/evolutionary-computation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Labour Market Areas</title>
-      <link>/tags/labour-market-areas/</link>
-      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/labour-market-areas/</guid>
       <description></description>
     </item>
     
@@ -861,7 +877,7 @@
     </item>
     
     <item>
-      <title>Human Capital</title>
+      <title>Human capital</title>
       <link>/tags/human-capital/</link>
       <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
       <guid>/tags/human-capital/</guid>
@@ -945,14 +961,6 @@
       <link>/tags/urban-and-regional-planning/</link>
       <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
       <guid>/tags/urban-and-regional-planning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multilevel Modelling</title>
-      <link>/tags/multilevel-modelling/</link>
-      <pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/multilevel-modelling/</guid>
       <description></description>
     </item>
     

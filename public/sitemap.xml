@@ -19,7 +19,62 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-10-11T21:13:14-05:00</lastmod>
+    <lastmod>2019-10-17T09:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-10-17T09:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2019-10-17T09:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/francisco-rowe/</loc>
+    <lastmod>2019-10-17T09:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/google-street-view-imagery/</loc>
+    <lastmod>2019-10-17T09:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/joe-peskett-and-dani-arribas-bel/</loc>
+    <lastmod>2019-10-17T09:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2019-10-17T09:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ati2019/</loc>
+    <lastmod>2019-10-17T09:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multilevel-modelling/</loc>
+    <lastmod>2019-10-17T09:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/philip-stubbings/</loc>
+    <lastmod>2019-10-17T09:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-10-17T09:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-17T09:15:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,22 +113,12 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-11T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/3/</loc>
-    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -99,11 +144,6 @@
   
   <url>
     <loc>/tags/longitudinal-career-trajectories/</loc>
-    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/machine-learning/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,7 +218,17 @@
   </url>
   
   <url>
-    <loc>/authors/francisco-rowe/</loc>
+    <loc>/tags/chile/</loc>
+    <lastmod>2019-08-28T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cities/</loc>
+    <lastmod>2019-08-28T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/economic-geography/</loc>
     <lastmod>2019-08-28T09:00:00+00:00</lastmod>
   </url>
   
@@ -193,12 +243,17 @@
   </url>
   
   <url>
-    <loc>/talk/un2019/</loc>
+    <loc>/tags/labour-market-areas/</loc>
     <lastmod>2019-08-28T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/tags/latin-america/</loc>
+    <lastmod>2019-08-28T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/un2019/</loc>
     <lastmod>2019-08-28T09:00:00+00:00</lastmod>
   </url>
   
@@ -353,11 +408,6 @@
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/green-space/</loc>
     <lastmod>2019-06-12T00:00:00+00:00</lastmod>
   </url>
@@ -369,11 +419,6 @@
   
   <url>
     <loc>/authors/joe-peskett/</loc>
-    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/philip-stubbings/</loc>
     <lastmod>2019-06-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -508,11 +553,6 @@
   </url>
   
   <url>
-    <loc>/tags/chile/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/education/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
@@ -524,11 +564,6 @@
   
   <url>
     <loc>/tags/inequality/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/latin-america/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -655,11 +690,6 @@
   <url>
     <loc>/authors/tom-wilson/</loc>
     <lastmod>2018-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cities/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -883,11 +913,6 @@
   </url>
   
   <url>
-    <loc>/tags/economic-geography/</loc>
-    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/evolutionary-computation/</loc>
     <lastmod>2017-07-22T00:00:00+00:00</lastmod>
   </url>
@@ -899,11 +924,6 @@
   
   <url>
     <loc>/authors/jose-manuel-casado-diaz/</loc>
-    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/labour-market-areas/</loc>
     <lastmod>2017-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -1069,11 +1089,6 @@
   
   <url>
     <loc>/publication/arc2015/</loc>
-    <lastmod>2015-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/multilevel-modelling/</loc>
     <lastmod>2015-04-17T00:00:00+00:00</lastmod>
   </url>
   
