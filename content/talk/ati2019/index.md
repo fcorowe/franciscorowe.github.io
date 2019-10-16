@@ -5,7 +5,7 @@ address:
   country: UK
   postcode: BS1 4RN
   region: 
-  street: Princes Wharf, Wapping Rd
+  street: M Shed, Princes Wharf, Wapping Rd
 all_day: false
 authors: [Francisco Rowe, Philip Stubbings, Joe Peskett and Dani Arribas-Bel]
 date: "2019-10-17T09:15:00Z"
