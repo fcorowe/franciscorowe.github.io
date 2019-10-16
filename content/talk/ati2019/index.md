@@ -5,7 +5,7 @@ address:
   country: UK
   postcode: BS1 4RN
   region: 
-  street: M Shed, Princes Wharf, Wapping Rd
+  street: Princes Wharf, Wapping Rd
 all_day: false
 authors: [Francisco Rowe, Philip Stubbings, Joe Peskett and Dani Arribas-Bel]
 date: "2019-10-17T09:15:00Z"
@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/fcorowe
-location: 
+location: M Shed
 math: true
 projects:
 - internal-project
