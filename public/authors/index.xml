@@ -5,12 +5,53 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 17 Oct 2019 09:15:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Francisco Rowe is a Senior Lecturer in Human Quantitative Geography at &lt;a href=&#34;http://www.liv.ac.uk/geography-and-planning/&#34; target=&#34;_blank&#34;&gt;the Department of Geography and Planning&lt;/a&gt; within &lt;a href=&#34;https://www.liverpool.ac.uk&#34; target=&#34;_blank&#34;&gt;the University of Liverpool&lt;/a&gt;, member of the &lt;a href=&#34;http://geographicdatascience.com&#34; target=&#34;_blank&#34;&gt;Geographic Data Science Lab&lt;/a&gt; and a Project Associate of the international project &lt;a href=&#34;https://imageproject.com.au/project-team/&#34; target=&#34;_blank&#34;&gt;IMAGE: Comparing Internal Migration Around the Globe&lt;/a&gt;. His areas of expertise are: internal &amp;amp; international migration; human mobility; and computational social science. He has been invited to present his research at the United Nations Population &amp;amp; Development Division in New York and works closely with the United Nations Economic Commission for Latin America and the Caribbean, UK’s government organisations, including the Ordnance Survey and the ONS Data Campus, and commercial companies, Geolytix. His work contributed to the United Nations Expert group meeting on `sustainable cities, human mobility and international migration&amp;rsquo;, and the ONS Government Statistical Service Advisory Committee. Francisco is editor of REGION, the journal of the European Regional Science Association (2018-present). The international reach of his research has been recognised by an award for the best paper published in Spatial Economic Analysis in 2018 and having top articles in the top 10 most read articles in &lt;a href=&#34;https://doi.org/10.1016/j.trc.2017.11.005&#34; target=&#34;_blank&#34;&gt;Transport Research Part C&lt;/a&gt; (2018), &lt;a href=&#34;https://doi.org/10.1080/17421772.2017.1273541&#34; target=&#34;_blank&#34;&gt;Spatial Economic Analysis&lt;/a&gt; (2019) &amp;amp; &lt;a href=&#34;https://doi.org/10.1080/00324728.2017.1416155&#34; target=&#34;_blank&#34;&gt;Population Studies&lt;/a&gt; (2019).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aude Bernard</title>
+      <link>/authors/aude-bernard/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/aude-bernard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elin Charles-Edwards</title>
+      <link>/authors/elin-charles-edwards/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/elin-charles-edwards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Bell</title>
+      <link>/authors/martin-bell/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/martin-bell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philipp Ueffing</title>
+      <link>/authors/philipp-ueffing/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/philipp-ueffing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Francisco Rowe</title>
@@ -34,15 +75,6 @@
       <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
       <guid>/authors/philip-stubbings/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Francisco Rowe is a Senior Lecturer in Human Quantitative Geography at &lt;a href=&#34;http://www.liv.ac.uk/geography-and-planning/&#34; target=&#34;_blank&#34;&gt;the Department of Geography and Planning&lt;/a&gt; within &lt;a href=&#34;https://www.liverpool.ac.uk&#34; target=&#34;_blank&#34;&gt;the University of Liverpool&lt;/a&gt;, member of the &lt;a href=&#34;http://geographicdatascience.com&#34; target=&#34;_blank&#34;&gt;Geographic Data Science Lab&lt;/a&gt; and a Project Associate of the international project &lt;a href=&#34;https://imageproject.com.au/project-team/&#34; target=&#34;_blank&#34;&gt;IMAGE: Comparing Internal Migration Around the Globe&lt;/a&gt;. His areas of expertise are: internal &amp;amp; international migration; human mobility; and computational social science. He has been invited to present his research at the United Nations Population &amp;amp; Development Division in New York and works closely with the United Nations Economic Commission for Latin America and the Caribbean, UK’s government organisations, including the Ordnance Survey and the ONS Data Campus, and commercial companies, Geolytix. His work contributed to the United Nations Expert group meeting on `sustainable cities, human mobility and international migration&amp;rsquo;, and the ONS Government Statistical Service Advisory Committee. Francisco is editor of REGION, the journal of the European Regional Science Association (2018-present). The international reach of his research has been recognised by an award for the best paper published in Spatial Economic Analysis in 2018 and having top articles in the top 10 most read articles in &lt;a href=&#34;https://doi.org/10.1016/j.trc.2017.11.005&#34; target=&#34;_blank&#34;&gt;Transport Research Part C&lt;/a&gt; (2018), &lt;a href=&#34;https://doi.org/10.1080/17421772.2017.1273541&#34; target=&#34;_blank&#34;&gt;Spatial Economic Analysis&lt;/a&gt; (2019) &amp;amp; &lt;a href=&#34;https://doi.org/10.1080/00324728.2017.1416155&#34; target=&#34;_blank&#34;&gt;Population Studies&lt;/a&gt; (2019).&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -150,7 +182,7 @@
     </item>
     
     <item>
-      <title>Jorge Rodríguez Vignoli</title>
+      <title>Jorge Rodríguez-Vignoli</title>
       <link>/authors/jorge-rodriguez-vignoli/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/jorge-rodriguez-vignoli/</guid>
@@ -218,38 +250,6 @@
       <link>/authors/alessandra-faggian/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       <guid>/authors/alessandra-faggian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Martin Bell</title>
-      <link>/authors/martin-bell/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/martin-bell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aude Bernard</title>
-      <link>/authors/aude-bernard/</link>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/aude-bernard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elin Charles-Edwards</title>
-      <link>/authors/elin-charles-edwards/</link>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/elin-charles-edwards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philipp Ueffing</title>
-      <link>/authors/philipp-ueffing/</link>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/philipp-ueffing/</guid>
       <description></description>
     </item>
     
