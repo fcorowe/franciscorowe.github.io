@@ -6,8 +6,8 @@ authors:
 - Aude Bernard
 - Elin Charles-Edwards
 - Philipp Ueffing
-date: "2019-10-31T00:00:00Z"
-doi: ""
+date: "2019-11-06T00:00:00Z"
+doi: "10.12765/CPoS-2019-18en"
 featured: false
 image:
   caption: 
@@ -18,7 +18,7 @@ publication: '*Comparative Population Studies*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-10-31T00:00:00Z"
+publishDate: "2019-11-06T00:00:00Z"
 slides: 
 summary: We advance beyond Ravenstein’s understanding by examining the direction of population redistribution and comparing the impact of internal migration on patterns of human settlement in 27 European countries.
 tags:
@@ -31,7 +31,7 @@ tags:
 title: Impact of internal migration on population redistribution in Europe Urbanisation, counterurbanisation or spatial equilibrium?
 url_code: ""
 url_dataset: "https://github.com/fcorowe/IMAGE_Data"
-url_pdf: 
+url_pdf: http://dx.doi.org/10.12765/CPoS-2019-18en
 url_poster: ""
 url_project: "http://www.franciscorowe.com/project/migration_decline/"
 url_slides: ""
