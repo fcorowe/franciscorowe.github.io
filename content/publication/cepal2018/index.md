@@ -15,7 +15,7 @@ publication: '*Serie Población y Desarrollo. United Nations*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-12-31T00:00:00Z"
+publishDate: "2018-12-31T00:00:00Z"
 slides: 
 summary: En este texto se usa el caso del Área Metropolitana del Gran Santiago (AMGS), capital de Chile, para evaluar empíricamente el efecto de la de la migración interna, incluyendo la intrametropolitana, sobre algunas transformaciones metropolitanas.
 tags:

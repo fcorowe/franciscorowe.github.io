@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Human capital | Academic</title>
+    <title>Human Capital | Academic</title>
     <link>/tags/human-capital/</link>
       <atom:link href="/tags/human-capital/index.xml" rel="self" type="application/rss+xml" />
-    <description>Human capital</description>
+    <description>Human Capital</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Sun, 15 May 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Human capital</title>
+      <title>Human Capital</title>
       <link>/tags/human-capital/</link>
     </image>
     
