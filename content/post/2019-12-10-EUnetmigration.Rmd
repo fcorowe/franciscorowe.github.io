@@ -1,10 +1,12 @@
 ---
-title: "Interactive Map of Net Internal Migration Outcomes in Europe"
+title: "Interactive Map: Net Gains and Losses of Internal Migration across Europe"
 author: "Francisco Rowe"
 date: '2019-12-08T21:13:14-05:00'
 categories: ["R"]
 tags: ["R Markdown", "Migration", "Europe", "Net Migration"]
 ---
+
+# The Impact of Internal Migration in Redistributing Population: Population Concentration, Deconcentration or Spatial Equilibrium
 
 # load libraries
 ```{r, echo=FALSE}
