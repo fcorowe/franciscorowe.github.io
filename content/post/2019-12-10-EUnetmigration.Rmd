@@ -1,9 +1,13 @@
 ---
-title: "Interactive Map: Net Gains and Losses of Internal Migration across Europe"
+title: 'Interactive Map: Net Gains and Losses of Internal Migration across Europe'
 author: "Francisco Rowe"
 date: '2019-12-08T21:13:14-05:00'
-categories: ["R"]
-tags: ["R Markdown", "Migration", "Europe", "Net Migration"]
+tags:
+- R Markdown
+- Migration
+- Europe
+- Net Migration
+categories: R
 ---
 
 # The Impact of Internal Migration in Redistributing Population: Population Concentration, Deconcentration or Spatial Equilibrium
@@ -77,15 +81,13 @@ interactive_map <- colourmap %>%
 
 
 interactive_map
-
-
 ```
 
 ## If we want to save only the map
 
 ```{r, echo=FALSE}
-library(htmlwidgets)
-saveWidget(interactive_map, file="map.html", title = "Net Migration in Europe", selfcontained=TRUE)
+#library(htmlwidgets)
+#saveWidget(interactive_map, file="map.html", title = "Net Migration in Europe", selfcontained=TRUE)
 ```
 
 
