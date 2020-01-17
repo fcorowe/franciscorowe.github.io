@@ -4,7 +4,7 @@ authors:
 - Mikaela Backman
 - Esteban Lopez
 - admin
-date: "2019-10-10T00:00:00Z"
+date: "2020-02-02T00:00:00Z"
 doi: "10.13140/RG.2.2.36760.44808"
 featured: false
 image:
@@ -16,7 +16,7 @@ publication: '*Small Business Economics*'
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2018-18-12T00:00:00Z"
+publishDate: "2020-02-02T00:00:00Z"
 slides: 
 summary: We examine the career pathways of forced migrants using sequence analysis from their arrival in 1991 through to 2013.
 tags:
