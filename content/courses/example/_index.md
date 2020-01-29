@@ -2,35 +2,54 @@
 date: 2020-01-01T00:00:00Z
 draft: false
 lastmod: 2020-01-01T00:00:00Z
-linktitle: Spatial Analysis 2019/20
+linktitle: Spatial Analysis
 menu:
-    name: Spatial Analysis 2019/20
+  example:
+    name: Overview
     weight: 1
-summary: 
-title: Spatial Analysis 2019/20
+summary: Coming soon.
+title: Overview
 toc: true
 type: docs
 weight: 1
 ---
 
-Welcome to Spatial Analysis, academic year **2019-20**.
+## Flexibility
 
-## Staff
+This feature can be used for publishing content such as:
 
-* Dr. Francisco Rowe (Module Coordinator) \ Senior Lecturer in Human Quantitative Geography \ Room 507, Roxby Building
+* **Online courses**
+* **Project or software documentation**
+* **Tutorials**
 
-Email: **F.Rowe-Gonzalez@liverpool.ac.uk**
+The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
 
-* Dr. Dani Arribas-Bel \ Senior Lecturer in Geographic Data Science \ Room 508, Roxby Building
+## Delete tutorials
 
-Email: **D.Arribas-Bel@liverpool.ac.uk**
+**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
 
-## Location
+## Update site menu
 
-1-3pm, Geographical Information Centre (CIG), 6th floor, Roxby Building. [URL](https://www.liverpool.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf)
+After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
 
-## Module handbook
+For example, if you delete this folder, you can remove the following from your menu configuration:
 
-A pdf copy of the module handbook can be found on [VITAL](https://vital.liv.ac.uk/)
+```toml
+[[main]]
+  name = "Courses"
+  url = "courses/"
+  weight = 50
+```
 
-**NOTE: This website is work in progress and will be updated regularly so materials are available prior to the lectures**
+Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
+
+```toml
+[[main]]
+  name = "Docs"
+  url = "docs/"
+  weight = 50
+```
+
+## Update the docs menu
+
+If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
