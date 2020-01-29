@@ -12,8 +12,6 @@ type: docs
 weight: 1
 ---
 
-# Overview
-
 ## Module aims
 
 This module aims to:
