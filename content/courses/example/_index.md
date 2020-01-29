@@ -4,7 +4,6 @@ draft: false
 lastmod: 2020-01-01T00:00:00Z
 linktitle: Spatial Analysis 2019/20
 menu:
-  example:
     name: Spatial Analysis 2019/20
     weight: 1
 summary: 
