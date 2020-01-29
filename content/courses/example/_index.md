@@ -14,42 +14,19 @@ type: docs
 weight: 1
 ---
 
-## Flexibility
+Welcome to Spatial Analysis, academic year **2019/20**.
 
-This feature can be used for publishing content such as:
+## Staff
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
+Dr. Francisco Rowe (Module Coordinator) \ Senior Lecturer in Human Quantitative Geography \ Room 507, Roxby Building \ Email: F.Rowe-Gonzalez@liverpool.ac.uk
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+Dr. Dani Arribas-Bel \ Senior Lecturer in Geographic Data Science \ Room 508, Roxby Building \ 
+Email: D.Arribas-Bel@liverpool.ac.uk
 
-## Delete tutorials
+## Location
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+Geographical Information Centre (CIG), 6th floor, Roxby Building. [Map](https://www.liverpool.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf)
 
-## Update site menu
+## Module handbook
 
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+A pdf copy of the module handbook can be found on [VITAL](https://vital.liv.ac.uk/)
