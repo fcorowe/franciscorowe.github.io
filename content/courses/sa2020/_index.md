@@ -8,7 +8,7 @@ menu:
     name: Spatial Analysis
     weight: 1
 summary: Work in progress.
-title: Overview
+title: Spatial Analysis 2019/20
 toc: true
 type: docs
 weight: 1
