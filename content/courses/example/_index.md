@@ -1,7 +1,7 @@
 ---
-date: "`r Sys.Date()`"
+date: 2020-01-01T00:00:00Z
 draft: false
-lastmod: "`r Sys.Date()`"
+lastmod: 2020-01-01T00:00:00Z
 linktitle: Spatial Analysis
 menu:
   example:
