@@ -2,12 +2,12 @@
 date: 2020-01-01T00:00:00Z
 draft: false
 lastmod: 2020-01-01T00:00:00Z
-linktitle: Spatial Analysis
+linktitle: Spatial Analysis 2019/20
 menu:
   example:
     name: Overview
     weight: 1
-summary: Coming soon.
+summary: Work in progress.
 title: Overview
 toc: true
 type: docs
