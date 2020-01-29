@@ -4,7 +4,7 @@ draft: false
 linktitle: Syllabus
 menu:
   sp:
-    parent: Spatial Data Analysis
+    parent: Spatial Analysis
     weight: 2
 title: Syllabus
 toc: true
