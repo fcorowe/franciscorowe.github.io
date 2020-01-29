@@ -1,5 +1,5 @@
 ---
-date: "2019-05-05T00:00:00+01:00"
+date: "2020-01-01T00:00:00Z"
 draft: false
 linktitle: Tips 1-2
 menu:
