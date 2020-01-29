@@ -5,10 +5,10 @@ lastmod: 2020-01-01T00:00:00Z
 linktitle: Spatial Analysis 2019/20
 menu:
   example:
-    name: Overview
+    name: Spatial Analysis 2019/20
     weight: 1
-summary: Work in progress.
-title: Overview
+summary: 
+title: Spatial Analysis 2019/20
 toc: true
 type: docs
 weight: 1
@@ -30,3 +30,5 @@ Geographical Information Centre (CIG), 6th floor, Roxby Building. [Map](https://
 ## Module handbook
 
 A pdf copy of the module handbook can be found on [VITAL](https://vital.liv.ac.uk/)
+
+**NOTE: The website for this module is work in progress**
