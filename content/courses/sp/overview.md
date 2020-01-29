@@ -4,7 +4,7 @@ draft: false
 linktitle: Overview
 menu:
   sp:
-    parent: sp1
+    parent: Spatial Analysis
     weight: 1
 title: Overview
 toc: true
