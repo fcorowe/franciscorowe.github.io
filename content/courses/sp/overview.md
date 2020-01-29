@@ -4,7 +4,7 @@ draft: false
 linktitle: Overview
 menu:
   sp:
-    parent: Overview
+    parent: sp1
     weight: 1
 title: Overview
 toc: true
