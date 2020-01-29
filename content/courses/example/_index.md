@@ -14,13 +14,16 @@ type: docs
 weight: 1
 ---
 
-Welcome to Spatial Analysis, academic year **2019/20**.
+Welcome to Spatial Analysis, academic year **2019-20**.
 
 ## Staff
 
-Dr. Francisco Rowe (Module Coordinator) \ Senior Lecturer in Human Quantitative Geography \ Room 507, Roxby Building \ Email: F.Rowe-Gonzalez@liverpool.ac.uk
+* Dr. Francisco Rowe (Module Coordinator) \ Senior Lecturer in Human Quantitative Geography \ Room 507, Roxby Building
 
-Dr. Dani Arribas-Bel \ Senior Lecturer in Geographic Data Science \ Room 508, Roxby Building \ 
+Email: F.Rowe-Gonzalez@liverpool.ac.uk
+
+* Dr. Dani Arribas-Bel \ Senior Lecturer in Geographic Data Science \ Room 508, Roxby Building
+
 Email: D.Arribas-Bel@liverpool.ac.uk
 
 ## Location
