@@ -27,7 +27,7 @@ Email: **D.Arribas-Bel@liverpool.ac.uk**
 
 ## Location
 
-Geographical Information Centre (CIG), 6th floor, Roxby Building. [URL](https://www.liverpool.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf)
+1-3pm, Geographical Information Centre (CIG), 6th floor, Roxby Building. [URL](https://www.liverpool.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf)
 
 ## Module handbook
 
