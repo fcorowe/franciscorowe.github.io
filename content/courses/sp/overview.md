@@ -16,18 +16,18 @@ weight: 1
 
 This module aims to:
 
-* build upon the more general research training delivered via companion modules on *Data Collection and Data Analysis*, both of which have an aspatial focus;
-* highlight a number of key social issues that have a spatial dimension;
+* build upon the more general research training delivered via companion modules on *Data Collection and Data Analysis*, which have an aspatial focus;
+* highlight the spatial dimension of key social issues;
 * explain the specific challenges faced when attempting to analyse spatial data;
-* introduce a range of analytical techniques and approaches suitable for the analysis of spatial data; and,
-* enhance practical skills in using software packages to implement a wide range of spatial analytical tools.
+* introduce a range of analytical techniques and approaches suitable for spatial data analysis; and,
+* enhance practical skills in using software packages to implement spatial analytical tools.
 
 ## Module Learning Outcomes
 
 By the end of the module, students should be able to:
 
 * identify some key sources of spatial data and resources of spatial analysis and modelling tools;
-* explain the advantages of taking spatial structure into account when analysing spatial data;
+* explain the advantages of taking hierarchical structure of spatial data into account for data analysis;
 * apply a range of computer-based techniques for the analysis of spatial data, including mapping, correlation, kernel density estimation, regression, multi-level models, geographically-weighted regression, spatial interaction models and spatial econometrics;
 * apply appropriate analytical strategies to tackle the key methodological challenges facing spatial analysis – spatial autocorrelation, heterogeneity, and ecological fallacy; and, 
 * select appropriate analytical tools for analysing specific spatial data sets to address emerging social issues facing the society
@@ -38,7 +38,7 @@ Achievement of these outcomes will be assessed via coursework.
 
 The module is structured around weekly lecture and practical sessions, involving 9 teaching sessions and 3 clinic sessions - one before each module assignment. The teaching sessions provide both theoretical exposition and hands-on practical experience of the issues and challenges on handling spatial data and a wide range of analytical tools for their analysis and modelling.
 
-Access to materials, including computational notebooks, is centralised through the use of a course website available in the following url: **ADD URL**
+Access to materials, including computational notebooks, is centralised through the use of a course website available in the following url: **franciscorowe.com/courses/sp/**
 
 Specific readings, videos, and/or podcasts, as well as academic references will be provided for each lecture and practical session, and can be accessed through the course website.
 
