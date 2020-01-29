@@ -64,3 +64,10 @@ This will automatically install both R and RStudio
 To install R, go to http://www.r-project.org/ > CRAN > select *mirror* site > and download and install the version relevant to your computer.
 
 To install RStudio go to http://www.rstudio.com and download the relevant *Installer for supported platforms*.
+
+## Feedback
+
+Written feedback on the summative assignment will be provided within three working weeks of the
+submission deadline.
+
+Verbal feedback on understandings of all module material will be provided during lectures and labs sessions if requested. Students will also be offered the opportunity for one-to-one feedback, should they require it.
