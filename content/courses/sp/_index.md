@@ -7,7 +7,7 @@ menu:
   sp:
     name: Overview
     weight: 1
-summary: Coming soon.
+summary: 
 title: Overview
 toc: true
 type: docs
