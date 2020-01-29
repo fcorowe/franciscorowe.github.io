@@ -1,9 +1,8 @@
 ---
 date: "2020-01-01T00:00:00Z"
 draft: false
-linktitle: Tips 3-4
+linktitle: Spatial Analysis 2019/20
 menu:
-  example:
     parent: Syllabus
     weight: 2
 title: Syllabus
@@ -14,10 +13,8 @@ weight: 2
 
 # Module programme
 
-```{r, include=FALSE}
-library(tidyverse)
-library(kableExtra)
-```
+Week 1
+
 
 ```{r, echo=FALSE}
 text_tbl <- data.frame(
