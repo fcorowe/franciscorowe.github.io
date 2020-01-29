@@ -17,8 +17,8 @@ weight: 2
 * Week 1: Introduction & Spatial Data
 R Notebooks + Basic Functions + Data Types
 
-* Week 2: Point Data Analysis
-
+* [Week 2: Point Data Analysis](http://darribas.org/spa_notes/)
+[Kernel Density Estimation & Spatial Interpolation](http://darribas.org/spa_notes/points.html)
 
 * Week 3: Flow Data Analysis
 
