@@ -15,8 +15,10 @@ weight: 2
 # Module programme
 
 * Week 1: Introduction & Spatial Data
+R Notebooks + Basic Functions + Data Types
 
 * Week 2: Point Data Analysis
+
 
 * Week 3: Flow Data Analysis
 
@@ -30,7 +32,7 @@ weight: 2
 
 * Week 8: Assignment 2 Clinic
 
-* Week 9: **No Teaching** (field class week)
+* **Week 9: No Teaching (field class week)**
 
 * Week 10: Geographically Weighted Regression
 
