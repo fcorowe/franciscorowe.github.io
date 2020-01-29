@@ -4,11 +4,11 @@ draft: false
 linktitle: Spatial Analysis 2019/20
 menu:
     parent: Syllabus
-    weight: 1
+    weight: 2
 title: Syllabus
 toc: true
 type: docs
-weight: 1
+weight: 2
 ---
 
 # Module programme
