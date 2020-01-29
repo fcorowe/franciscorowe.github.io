@@ -2,7 +2,7 @@
 date: 2020-01-01T00:00:00Z
 draft: false
 lastmod: 2020-01-01T00:00:00Z
-linktitle: Spatial Analysis
+linktitle: Example
 menu:
   example:
     name: Overview
