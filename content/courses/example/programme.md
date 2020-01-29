@@ -1,7 +1,7 @@
 ---
 date: "2020-01-01T00:00:00Z"
 draft: false
-linktitle: Spatial Analysis 2019/20
+linktitle: 
 menu:
     parent: Syllabus
     weight: 2
