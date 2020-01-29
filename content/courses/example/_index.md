@@ -33,4 +33,4 @@ Email: **D.Arribas-Bel@liverpool.ac.uk**
 
 A pdf copy of the module handbook can be found on [VITAL](https://vital.liv.ac.uk/)
 
-**NOTE: This website is work in progress and will be updated regularly so materials are ahead of lectures**
+**NOTE: This website is work in progress and will be updated regularly so materials are available prior to the lectures**

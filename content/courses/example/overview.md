@@ -1,8 +1,9 @@
 ---
 date: "2020-01-01T00:00:00Z"
 draft: false
-linktitle: Spatial Analysis 2019/20
+linktitle: Overview
 menu:
+  example:
     parent: Overview
     weight: 1
 title: Overview
