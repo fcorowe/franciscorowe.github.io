@@ -1,8 +1,8 @@
 ---
-date: "2018-09-09T00:00:00Z"
+date: "`r Sys.Date()`"
 draft: false
-lastmod: "2018-09-09T00:00:00Z"
-linktitle: Statistical Learhing in R
+lastmod: "`r Sys.Date()`"
+linktitle: Spatial Analysis
 menu:
   example:
     name: Overview
