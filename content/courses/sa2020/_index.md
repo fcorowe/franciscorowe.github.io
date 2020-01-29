@@ -1,20 +1,19 @@
 ---
 date: "2020-01-01T00:00:00Z"
 draft: false
-lastmod: "2018-09-09T00:00:00Z"
-linktitle: Spatial Analysis 2019/20
+lastmod: "`r Sys.Date()`"
+linktitle: Spatial Analysis
 menu:
-  example:
     name: Spatial Analysis
     weight: 1
 summary: Work in progress.
-title: Spatial Analysis 2019/20
+title: ENVS453 Spatial Analysis
 toc: true
 type: docs
 weight: 1
 ---
 
-## Flexibility
+## Spatial Analysis
 
 This feature can be used for publishing content such as:
 
