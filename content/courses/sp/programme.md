@@ -15,14 +15,20 @@ weight: 2
 # Module programme
 
 * Week 1: Introduction & Spatial Data
+
 R Notebooks + Basic Functions + Data Types
 
 * [Week 2: Point Data Analysis](http://darribas.org/spa_notes/)
+
 [Kernel Density Estimation & Spatial Interpolation](http://darribas.org/spa_notes/points.html)
 
-* Week 3: Flow Data Analysis
+* [Week 3: Flow Data Analysis](http://darribas.org/spa_notes/)
 
-* Week 4: Spatial Econometrics
+[Spatial Flows Estimation](http://darribas.org/spa_notes/flows.html)
+
+* [Week 4: Spatial Econometrics](http://darribas.org/spa_notes/)
+
+[Spatial Regression](http://darribas.org/spa_notes/sp_eco.html)
 
 * Week 5: Assignment 1 Clinic
 
