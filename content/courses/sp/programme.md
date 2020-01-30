@@ -14,9 +14,9 @@ weight: 2
 
 # Module programme
 
-* Week 1: Introduction & Spatial Data
+* [Week 1: Introduction & Spatial Data](https://vital.liv.ac.uk)
 
-R Notebooks + Basic Functions + Data Types
+[R Notebooks + Basic Functions + Data Types](https://vital.liv.ac.uk)
 
 * [Week 2: Point Data Analysis](http://darribas.org/spa_notes/)
 
