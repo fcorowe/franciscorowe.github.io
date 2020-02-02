@@ -16,7 +16,7 @@ weight: 2
 
 * [Week 1: Introduction & Spatial Data](https://vital.liv.ac.uk)
 
-[R Notebooks + Basic Functions + Data Types](https://vital.liv.ac.uk)
+[R Notebooks + Basic Functions + Data Types](w1_intro.html)
 
 * [Week 2: Point Data Analysis](http://darribas.org/spa_notes/)
 
