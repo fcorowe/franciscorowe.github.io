@@ -12,23 +12,4 @@ type: docs
 weight: 4
 ---
 
-```{r setup, include=FALSE}
-library(tufte)
-library(knitr)
-library(tidyverse)
-library(kableExtra)
-library(sf) # implementation of simple features (a standardised way to encode vector data ie.points, lines, polygons)
-library(sp) # conversion to spatial objects
-library(tmap) # create statis and interactive maps
-library(RColorBrewer) # changing colour scheme
-library(viridis) # nice colour schemes
-# invalidate cache when the tufte version changes
-knitr::opts_chunk$set(tidy = FALSE, cache.extra = packageVersion('tufte'))
-options(htmltools.dir.version = FALSE)
-```
-
-
-This session^[This note is part of [Spatial Analysis Notes](index.html) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Introduction -- R Notebooks + Basic Functions + Data Types</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://franciscorowe.com" property="cc:attributionName" rel="cc:attributionURL">Francisco Rowe</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.] introduces the structure, tools and key concepts that we will use during the duration of the module. While this first session may seem to revolve around basic ideas, they provide the foundation for latter sessions.
-
-If you are already familiar with *R*, R notebooks and data types, you may want to jump to the section *Read Data* and read from there. This section describes how to read data -which you may know- but you may not know how to make use of `tidyverse` functions. This section describes some of the basic `tidyverse` functions, such as `mutate()`, `%>%` (known as pipe operator), `select()`, `filter()` and specific packages and functions how to manipulate spatial data.
 
