@@ -27,7 +27,7 @@ Maximum word count: 1,500 words, excluding figures and references. As per School
 
 **Marking criteria**: Standard Environmental Sciences School marking criteria apply, with a stronger emphasis on evidencing the use of regression models, critical analysis of results and presentation standards.
 
-### Assignment 1
+# Assignment 1
 
 Assigment 1 assesses teaching content from Weeks 1 to 4. 
 
@@ -63,7 +63,7 @@ measured at the LSOA level.
 Data to complete the assignment will be available on VITAL. The shapefile contains house
 price information for Liverpool in 2014 (same data used in practice).
 
-### Assignment 2 
+# Assignment 2 
 
 Assigment 2 assesses teaching content from Weeks 6 and 7.
 
@@ -94,7 +94,7 @@ Ensure you appropriately describe the structure of the data and identify the var
 
 Data to complete the assignment are available on VITAL. Alternatively you can source your own data.
 
-### Assignment 3
+# Assignment 3
 
 Assigment 3 assesses teaching content from Weeks 10 and 11. 
 
