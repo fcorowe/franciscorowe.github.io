@@ -1,13 +1,13 @@
 ---
-date: "2020-01-29T00:00:00+01:00"
-draft: false
-linktitle: Intro
+title: "Intro"
+draft: no
+date: '2020-01-29T00:00:00+01:00'
 menu:
   sp:
     parent: Spatial Analysis
     weight: 4
-title: Intro
-toc: true
+linktitle: Intro
+toc: yes
 type: docs
 weight: 4
 ---
