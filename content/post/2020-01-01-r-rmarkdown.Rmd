@@ -17,3 +17,15 @@ knitr::opts_chunk$set(collapse = TRUE)
 library(CIM)
 ?CIM
 ```
+
+```{r}
+## Read in the two data.frames included in the package
+m <- male
+f <- female
+
+## Run the function using "ratio" calculation
+CIM.ratio <- CIM(m, f, calculation = "ratio", numerator = 1, denominator = 2)
+## Print the resulted data.frame
+CIM.ratio
+```
+
