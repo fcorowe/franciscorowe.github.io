@@ -6,10 +6,6 @@ categories: ["R"]
 tags: ["R Markdown", "Migration", "Spatial Impact"]
 ---
 
-```{r, warning=FALSE, message=FALSE}
-slumdown::slum_palette_paths()
-```
-
 Here we go...let's try this.
 
 ```{r}
