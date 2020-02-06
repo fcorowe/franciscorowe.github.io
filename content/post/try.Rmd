@@ -1,0 +1,31 @@
+---
+title: "Tutorial part 3: Colour palettes in slumdown"
+author: "Danielle Navarro"
+date: "2019-04-19"
+slug: colour-palettes
+tags: ["slum", "blogdown", "slumstyle"]
+colourscheme: "css/palette_light.css"
+summary: "The main reason I wrote slumdown (besides boredom) was to make it easy to  include user-defined colours palettes in blogdown, and expose those palettes to R so that (for instance) plots can be drawn in a style that matches the blog style. This tutorial introduces this palette system."
+header:
+  caption: "A blank ggplot"
+  image: 'header/theme_grey.png'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+library(slumdown)
+library(tidyverse)
+```
+
+
+
+The *slum* theme for Hugo allows some degree of flexibility in visual styling, which is really nice when blogging. Most of the time I want my blog to use a consistent palette, but then there are occasions where I might want a single page to use a different colour scheme, and I don't want to have to fiddle with low level settings to do that. Relatedly, one thing that has caused me frustration with blogdown is that the content generated on the R site doesn't use the same visual style as the Hugo theme. The `slumdown` package tries to make this a little easier. For this blog, the default colour scheme is based on the *dark* palette. The following palettes are available by default:
+
+
+```{r, warning=FALSE, message=FALSE}
+slumdown::slum_palette_paths()
+```
+
+
+
+
