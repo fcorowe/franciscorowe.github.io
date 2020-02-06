@@ -18,11 +18,11 @@ weight: 2
 
 [R Notebooks + Basic Functions + Data Types](https://gdsl-ul.github.io/san/intro.html)
 
-* [Week 2: Point Data Analysis](http://darribas.org/spa_notes/)
+* [Week 2: Point Data Analysis](https://gdsl-ul.github.io/san/points.html)
 
 [Kernel Density Estimation & Spatial Interpolation](https://gdsl-ul.github.io/san/points.html)
 
-* [Week 3: Flow Data Analysis](https://gdsl-ul.github.io/san/points.html)
+* [Week 3: Flow Data Analysis](http://darribas.org/spa_notes/)
 
 [Spatial Flows Estimation](http://darribas.org/spa_notes/flows.html)
 
