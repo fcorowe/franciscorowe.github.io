@@ -8,18 +8,18 @@ tags: ["R Markdown", "Migration", "Spatial Impact"]
 
 Here we go...let's try this.
 
-```{r}
+```
 library(CIM)
 ?CIM
 ```
 
-```{r}
+```
 ## Read in the two data.frames included in the package
 m <- male
 f <- female
 ```
 
-```{r}
+```
 ## Run the function using "ratio" calculation
 CIM.ratio <- CIM(m, f, calculation = "ratio", numerator = 1, denominator = 2)
 ## Print the resulted data.frame
