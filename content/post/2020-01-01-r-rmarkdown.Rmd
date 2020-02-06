@@ -1,0 +1,32 @@
+---
+title: "R Markdown"
+author: "Francisco Rowe"
+date: 2020-01-01T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+You can embed an R code chunk like this:
+
+```{r cars}
+library(CIM)
+```
+
+```{r}
+## Read in the two data.frames included in the package
+m <- male
+f <- female
+
+## Run the function using "ratio" calculation
+CIM.ratio <- CIM(m, f, calculation = "ratio", numerator = 1, denominator = 2)
+## Print the resulted data.frame
+CIM.ratio
+```
