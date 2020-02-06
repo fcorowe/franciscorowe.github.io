@@ -189,32 +189,16 @@ summary {
 <h1>TRY!</h1>
 <div id="installing" class="section level2">
 <h2>Installing</h2>
-<pre class="r"><code>library(CIM)
+<pre><code>library(CIM)
 ?CIM</code></pre>
-<pre class="r"><code>## Read in the two data.frames included in the package
+<pre><code>## Read in the two data.frames included in the package
 m &lt;- male
 f &lt;- female
 
 ## Run the function using &quot;ratio&quot; calculation
 CIM.ratio &lt;- CIM(m, f, calculation = &quot;ratio&quot;, numerator = 1, denominator = 2)
 ## Print the resulted data.frame
-CIM.ratio
-## $num_results
-##                                       FV      CFV        CIM     CIM_PC
-## Greater Santiago                87.42172 87.02433  0.3973829  0.4566343
-## Rest of the Metropolitan region 94.05847 92.91429  1.1441815  1.2314376
-## Rest of the country             90.16837 90.52613 -0.3577543 -0.3951945
-## totalCol                        89.36814 89.36814  0.0000000  0.0000000
-##                                     DIAG        CIM_I      CIM_O
-## Greater Santiago                86.83030  0.591414697 -0.1940318
-## Rest of the Metropolitan region 93.76409  0.294381660  0.8497999
-## Rest of the country             90.17376 -0.005385734 -0.3523685
-## totalCol                        89.36814  0.000000000  0.0000000
-##                                   CIM_I_PC  CIM_O_PC
-## Greater Santiago                148.827403 -48.82740
-## Rest of the Metropolitan region  25.728580  74.27142
-## Rest of the country               1.505428  98.49457
-## totalCol                          0.000000   0.00000</code></pre>
+CIM.ratio</code></pre>
 </div>
 </div>
 

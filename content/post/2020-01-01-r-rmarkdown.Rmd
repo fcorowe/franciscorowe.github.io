@@ -13,12 +13,12 @@ knitr::opts_chunk$set(collapse = TRUE)
 # TRY!
 
 ## Installing
-```{r}
+```
 library(CIM)
 ?CIM
 ```
 
-```{r}
+```
 ## Read in the two data.frames included in the package
 m <- male
 f <- female
