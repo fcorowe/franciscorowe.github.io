@@ -20,9 +20,9 @@ weight: 2
 
 * [Week 2: Point Data Analysis](http://darribas.org/spa_notes/)
 
-[Kernel Density Estimation & Spatial Interpolation](http://darribas.org/spa_notes/points.html)
+[Kernel Density Estimation & Spatial Interpolation](https://gdsl-ul.github.io/san/points.html)
 
-* [Week 3: Flow Data Analysis](http://darribas.org/spa_notes/)
+* [Week 3: Flow Data Analysis](https://gdsl-ul.github.io/san/points.html)
 
 [Spatial Flows Estimation](http://darribas.org/spa_notes/flows.html)
 
