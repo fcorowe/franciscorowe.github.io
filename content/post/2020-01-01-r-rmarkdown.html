@@ -13,59 +13,30 @@ tags: ["R Markdown", "Migration", "Spatial Impact"]
 <p>This post introduces our recently published R package, CIM, to measure the impacts of migration on local population structures. We developed the methodology in this <a href="https://doi.org/10.1080/00324728.2017.1416155">paper</a> in 2018. This paper is one of the top ten most viewed articles in <a href="https://www.tandfonline.com/action/showMostReadArticles?journalCode=rpst20">Population Studies</a></p>
 <div id="installing" class="section level2">
 <h2>Installing</h2>
-<pre><code>install.packages(&quot;CIM&quot;)
-library(CIM)</code></pre>
-<p>This package enables quantifying the impact of internal migration on age, gender, educational population structures and inequality.</p>
-</div>
-<div id="example" class="section level2">
-<h2>Example</h2>
-<p>Here I provide a short example of how this can be used to measure the impact of internal migration on residential age segregation in the Greater London Metropolitan Area, England, drawing on one-year migration data by age bands (i.e. 1-14, 15-29, 30-34, 45-64 and 65+) at the local authority level, 2011 UK Censuses. Local authorities comprising outside the Greater London Metropolitan Area are collapsed into a single area, labelled “the Rest of the UK”. I use the same approach employed by <a href="https://www.researchgate.net/publication/321998653_The_Changing_Impacts_of_Internal_Migration_on_Residential_Socio-Economic_Segregation_in_the_Greater_Santiago">Rodríguez-Vignoli and Rowe (2017)</a> to measure the impact of internal migration on residential educational segregation in the Greater Santiago, Chile.</p>
-<div id="computation" class="section level3">
-<h3>Computation</h3>
-<p>Compute and print the CIM outputs</p>
-<pre><code>  CIM.duncan &lt;- CIM(pop65over, pop1_14, pop15_29, pop30_44, pop45_64, calculation = &quot;duncan&quot;, numerator = 1, DuncanAll= TRUE)
-  CIM.duncan$duncan_index</code></pre>
-</div>
-<div id="interpretation" class="section level3">
-<h3>Interpretation</h3>
-<p>The CIM for the Duncan index of dissimilarity indicates that internal migration has contributed to increase age segregation of the population aged 65 and over in the Greater London Metropolitan Area by 2.81% between 2010 and 2011 i.e. from 16.2% in 2010 to 19% in 2011.</p>
-</div>
-<div id="visualisation" class="section level3">
-<h3>Visualisation</h3>
-<p>To visualise where the population aged 65 and over in the Greater London Metropolitan Area is concentrating, we can map differences in the spatial distribution of this population across local authority districts.</p>
-<p>First install and load the needed packages</p>
-<pre><code>install.packages(c(&quot;rgdal&quot;, &quot;dplyr&quot;, &quot;tmap&quot;))
-library(rgdal)
-library(dplyr)
-library(tmap)</code></pre>
-<p>NOTE: Download a shapefile containing the Greater London Local Authority Districts from the shapefile folder from this <a href="https://github.com/fcorowe/cim">github repository</a></p>
-<p>NOTE: The Local Authority Districts for the City of London and Westminster in our shapefile are combined to make our shapefile consistent with our migration data.</p>
-<p>Read the shapefile.</p>
-<pre><code>Greater_London &lt;- readOGR(dsn = &quot;.&quot;, layer = &quot;Greater_London_districts&quot;, stringsAsFactors = FALSE)</code></pre>
-<p>Plot the shapefile</p>
-<pre><code>  plot(Greater_London)</code></pre>
-<p>Obtain the differences in the spatial distribution of the population aged 65 and over across local authority districts using the CIM.Duncan function:</p>
-<pre><code>  CIM.duncan &lt;- CIM(pop65over, pop1_14, pop15_29, pop30_44, pop45_64, calculation = &quot;duncan&quot;, numerator = 1, DuncanAll= TRUE)
-  Dun_65over &lt;- CIM.duncan$duncan_results</code></pre>
-<p>Visualise the results</p>
-<pre><code>  head(Dun_65over)</code></pre>
-<p>Append these data to the shapefile using the local authority names as joiner</p>
-<pre><code>  Duncan_65p &lt;- merge(Greater_London, Dun_65over, by.x = &quot;name&quot;, by.y = 0)
-  head(Duncan_65p@data)</code></pre>
-<p>Set to a static map view and create a map using tmap</p>
-<pre><code>  tmap_mode(&#39;plot&#39;)
-  tm_shape(Duncan_65p) +
-  tm_polygons(&quot;ASShareFV_diff&quot;, style=&quot;quantile&quot;,border.alpha = 0.1, palette = &quot;YlOrRd&quot;, 
-             title=&quot;ASShareFV_diff&quot;)+
-  tm_compass(position = c(&quot;left&quot;, &quot;bottom&quot;)) +
-  tm_scale_bar(position = c(&quot;left&quot;, &quot;bottom&quot;))</code></pre>
-<p>Or, even better we can create an interactive map! by setting an interactive map view</p>
-<pre><code>  tmap_mode(&#39;view&#39;)
-  tm_shape(Duncan_65p) +
-  tm_polygons(&quot;ASShareFV_diff&quot;, style=&quot;quantile&quot;,border.alpha = 0.1, palette = &quot;YlOrRd&quot;, 
-               title=&quot;ASShareFV_diff&quot;)+
-  tm_compass(position = c(&quot;left&quot;, &quot;bottom&quot;)) +
-  tm_scale_bar(position = c(&quot;left&quot;, &quot;bottom&quot;))</code></pre>
-</div>
+<pre class="r"><code>library(CIM)</code></pre>
+<pre class="r"><code>## Read in the two data.frames included in the package
+m &lt;- male
+f &lt;- female
+
+## Run the function using &quot;ratio&quot; calculation
+CIM.ratio &lt;- CIM(m, f, calculation = &quot;ratio&quot;, numerator = 1, denominator = 2)
+## Print the resulted data.frame
+CIM.ratio
+## $num_results
+##                                       FV      CFV        CIM     CIM_PC
+## Greater Santiago                87.42172 87.02433  0.3973829  0.4566343
+## Rest of the Metropolitan region 94.05847 92.91429  1.1441815  1.2314376
+## Rest of the country             90.16837 90.52613 -0.3577543 -0.3951945
+## totalCol                        89.36814 89.36814  0.0000000  0.0000000
+##                                     DIAG        CIM_I      CIM_O
+## Greater Santiago                86.83030  0.591414697 -0.1940318
+## Rest of the Metropolitan region 93.76409  0.294381660  0.8497999
+## Rest of the country             90.17376 -0.005385734 -0.3523685
+## totalCol                        89.36814  0.000000000  0.0000000
+##                                   CIM_I_PC  CIM_O_PC
+## Greater Santiago                148.827403 -48.82740
+## Rest of the Metropolitan region  25.728580  74.27142
+## Rest of the country               1.505428  98.49457
+## totalCol                          0.000000   0.00000</code></pre>
 </div>
 </div>
