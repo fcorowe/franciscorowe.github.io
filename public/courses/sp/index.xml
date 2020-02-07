@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial Analysis | Academic</title>
+    <link>/courses/sp/</link>
+      <atom:link href="/courses/sp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatial Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Spatial Analysis</title>
+      <link>/courses/sp/</link>
+    </image>
+    
+    <item>
+      <title>Overview</title>
+      <link>/courses/sp/overview/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/sp/overview/</guid>
+      <description>
+
+&lt;h2 id=&#34;module-aims&#34;&gt;Module aims&lt;/h2&gt;
+
+&lt;p&gt;This module aims to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;build upon the more general research training delivered via companion modules on &lt;em&gt;Data Collection and Data Analysis&lt;/em&gt;, which have an aspatial focus;&lt;/li&gt;
+&lt;li&gt;highlight the spatial dimension of key social issues;&lt;/li&gt;
+&lt;li&gt;explain the specific challenges faced when attempting to analyse spatial data;&lt;/li&gt;
+&lt;li&gt;introduce a range of analytical techniques and approaches suitable for spatial data analysis; and,&lt;/li&gt;
+&lt;li&gt;enhance practical skills in using software packages to implement spatial analytical tools.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;module-learning-outcomes&#34;&gt;Module Learning Outcomes&lt;/h2&gt;
+
+&lt;p&gt;By the end of the module, students should be able to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;identify some key sources of spatial data and resources of spatial analysis and modelling tools;&lt;/li&gt;
+&lt;li&gt;explain the advantages of taking hierarchical structure of spatial data into account for data analysis;&lt;/li&gt;
+&lt;li&gt;apply a range of computer-based techniques for the analysis of spatial data, including mapping, correlation, kernel density estimation, regression, multi-level models, geographically-weighted regression, spatial interaction models and spatial econometrics;&lt;/li&gt;
+&lt;li&gt;apply appropriate analytical strategies to tackle the key methodological challenges facing spatial analysis – spatial autocorrelation, heterogeneity, and ecological fallacy; and,&lt;/li&gt;
+&lt;li&gt;select appropriate analytical tools for analysing specific spatial data sets to address emerging social issues facing the society&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Achievement of these outcomes will be assessed via coursework.&lt;/p&gt;
+
+&lt;h2 id=&#34;module-delivery&#34;&gt;Module Delivery&lt;/h2&gt;
+
+&lt;p&gt;The module is structured around weekly lecture and practical sessions, involving 9 teaching sessions and 3 clinic sessions - one before each module assignment. The teaching sessions provide both theoretical exposition and hands-on practical experience of the issues and challenges on handling spatial data and a wide range of analytical tools for their analysis and modelling.&lt;/p&gt;
+
+&lt;p&gt;Access to materials, including computational notebooks, is centralised through the use of a course website available in the following url: &lt;strong&gt;franciscorowe.com/courses/sp/&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Specific readings, videos, and/or podcasts, as well as academic references will be provided for each lecture and practical session, and can be accessed through the course website.&lt;/p&gt;
+
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+
+&lt;p&gt;The module will use R as the primary software package.&lt;/p&gt;
+
+&lt;h3 id=&#34;on-campus-pcs&#34;&gt;On Campus PCs&lt;/h3&gt;
+
+&lt;p&gt;If not pre-installed ie. no R and RStudio icons on your desktop:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Right-click on the Windows icon at the bottom left of the screen&lt;/li&gt;
+&lt;li&gt;Scroll down the list of available programs to find the &lt;em&gt;Install University Applications&lt;/em&gt; option and click on this option&lt;/li&gt;
+&lt;li&gt;Respond ‘Yes’ ‘Allow to make changes to this PC’ prompt&lt;/li&gt;
+&lt;li&gt;Select the Statistics category&lt;/li&gt;
+&lt;li&gt;Select the RStudio&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This will automatically install both R and RStudio&lt;/p&gt;
+
+&lt;h3 id=&#34;personal-computers&#34;&gt;Personal computers&lt;/h3&gt;
+
+&lt;p&gt;To install R, go to &lt;a href=&#34;http://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;http://www.r-project.org/&lt;/a&gt; &amp;gt; CRAN &amp;gt; select &lt;em&gt;mirror&lt;/em&gt; site &amp;gt; and download and install the version relevant to your computer.&lt;/p&gt;
+
+&lt;p&gt;To install RStudio go to &lt;a href=&#34;http://www.rstudio.com&#34; target=&#34;_blank&#34;&gt;http://www.rstudio.com&lt;/a&gt; and download the relevant &lt;em&gt;Installer for supported platforms&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
+
+&lt;p&gt;Written feedback on the summative assignment will be provided within three working weeks of the
+submission deadline.&lt;/p&gt;
+
+&lt;p&gt;Verbal feedback on understandings of all module material will be provided during lectures and labs sessions if requested. Students will also be offered the opportunity for one-to-one feedback, should they require it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>/courses/sp/programme/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/courses/sp/programme/</guid>
+      <description>
+
+&lt;h1 id=&#34;module-programme&#34;&gt;Module programme&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vital.liv.ac.uk&#34; target=&#34;_blank&#34;&gt;Week 1: Introduction &amp;amp; Spatial Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/intro.html&#34; target=&#34;_blank&#34;&gt;R Notebooks + Basic Functions + Data Types&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/points.html&#34; target=&#34;_blank&#34;&gt;Week 2: Point Data Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/points.html&#34; target=&#34;_blank&#34;&gt;Kernel Density Estimation &amp;amp; Spatial Interpolation&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://darribas.org/spa_notes/&#34; target=&#34;_blank&#34;&gt;Week 3: Flow Data Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://darribas.org/spa_notes/flows.html&#34; target=&#34;_blank&#34;&gt;Spatial Flows Estimation&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://darribas.org/spa_notes/&#34; target=&#34;_blank&#34;&gt;Week 4: Spatial Econometrics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://darribas.org/spa_notes/sp_eco.html&#34; target=&#34;_blank&#34;&gt;Spatial Regression&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Week 5: Assignment 1 Clinic&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Week 6: Multilevel Modelling 1&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Week 7: Multilevel Modelling 2&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Week 8: Assignment 2 Clinic&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Week 9: No Teaching (field class week)&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Week 10: Geographically Weighted Regression&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Week 11: Spatio-Temporal Data Analysis&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Week 12: Assignment 3 Clinic&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assessment</title>
+      <link>/courses/sp/assessment/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/courses/sp/assessment/</guid>
+      <description>
+
+&lt;p&gt;The final module mark is composed of the &lt;strong&gt;three&lt;/strong&gt; assignments. Together they are designed to cover the materials introduced in the entirety of content covered during the semester.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Assignment 1 (33%)&lt;/li&gt;
+&lt;li&gt;Assignment 2 (33%)&lt;/li&gt;
+&lt;li&gt;Assignment 3 (34%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Assignments will be prepared in the R Notebook format and then converted into
+a self-contained HTML file that will then be submitted on Turnitin.&lt;/p&gt;
+
+&lt;p&gt;Submission is electronic only via Turnitin on VITAL.&lt;/p&gt;
+
+&lt;p&gt;Maximum word count: 1,500 words, excluding figures and references. As per School Assessment Guidelines, &lt;em&gt;over-length submission will be capped at 40%&lt;/em&gt;. The assignment deadline is specified below. Assignments submitted after this deadline will be penalised 5% per working day late. Assignments submitted more than five working days late will be awarded a mark of zero. &lt;em&gt;Mitigating Circumstances&lt;/em&gt; for late submission must be submitted for consideration via the Student Support Office (Ground Floor, Roxby Building; email: soessouth@liverpool.ac.uk).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Marking criteria&lt;/strong&gt;: Standard Environmental Sciences School marking criteria apply, with a stronger emphasis on evidencing the use of regression models, critical analysis of results and presentation standards.&lt;/p&gt;
+
+&lt;h1 id=&#34;assignment-1&#34;&gt;Assignment 1&lt;/h1&gt;
+
+&lt;p&gt;Assigment 1 assesses teaching content from Weeks 1 to 4.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt;: 14:00pm, March 3rd, 2020.&lt;/p&gt;
+
+&lt;p&gt;Using a new batch of house prices from the Land Registry (see data provided), carry out the
+following analysis in an analogous way to how they were performed in class:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;KDE of house transactions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Create a surface map of the house prices in the dataset. To do that, use spatial
+interpolation and, in particular, an inverse distance weight approach.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fit several regression models to explain the (log of) house prices as a function of whether
+they are newly built houses and the IMD score of the area where they are located. Include
+at least:&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Baseline non-spatial regression.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Spatial FE estimation based on two-digit postcodes.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Baseline regression with an additional spatial lag of the IMD Score (Note you will have to
+select a spatial weights matrix and justify it.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Discuss the model estimation results, particularly:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Think about the advantages and limitations of modelling house prices with a spatial FE model,
+especially from the perspective of the structure of housing price data.&lt;/li&gt;
+&lt;li&gt;If the higher-level units were LSOAs (rather than the two-digits postcode geographical
+units) and LSOA dummy variables were used in the spatial fixed effect model, could you still
+obtain the regression coefficients of the IMD score variable? Hint: IMD scores are also
+measured at the LSOA level.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Data&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Data to complete the assignment will be available on VITAL. The shapefile contains house
+price information for Liverpool in 2014 (same data used in practice).&lt;/p&gt;
+
+&lt;h1 id=&#34;assignment-2&#34;&gt;Assignment 2&lt;/h1&gt;
+
+&lt;p&gt;Assigment 2 assesses teaching content from Weeks 6 and 7.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt;: 14:00pm, March 31st, 2020.&lt;/p&gt;
+
+&lt;p&gt;Following the examples in class:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fit various regression models to your dependent variable of choice as a function of at least three independent variables at your level 1 scale and at least one at you level 2 scale or higher orders. Include at least:&lt;/li&gt;
+&lt;li&gt;A OLS regression model;&lt;/li&gt;
+&lt;li&gt;A null multilevel (baseline) regression model;&lt;/li&gt;
+&lt;li&gt;A random intercept model;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A random slope model or a random intercept + slope model;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Provide a short justification of the independent variables included in your models;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Justify the inclusion of the chosen variable in your level-2 or higher scales;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Create caterpillar plots and/or maps to visualise the extent of variation in the estimated random effects in your models;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Analyse and discuss:&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;the extent of variation in the dependent variables at two or more geographical scales (variation at which geographical scale explains most of variance in your dependent variable);&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;the random intercept estimate(s) from your model(s) (what can they tell you about the difference between groups / areas? are they statistically significantly different?);&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;the random slope estimate(s) from your model(s) (to what extent does the relationship between your dependent and independent variables vary across groups / areas? are they statistically significantly different?).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ensure you appropriately describe the structure of the data and identify the various geographical scales of analysis (i.e. level-1, level-2 or higher-level units)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Data&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Data to complete the assignment are available on VITAL. Alternatively you can source your own data.&lt;/p&gt;
+
+&lt;h1 id=&#34;assignment-3&#34;&gt;Assignment 3&lt;/h1&gt;
+
+&lt;p&gt;Assigment 3 assesses teaching content from Weeks 10 and 11.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt;: 14:00pm, May 8th, 2020.&lt;/p&gt;
+
+&lt;p&gt;Following the examples in class:
+* Fit various regression models to your dependent variable of choice as a function of at least three independent variables. Include at least:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;A OLS regression model;&lt;/li&gt;
+&lt;li&gt;A Geographically Weighted Regression (GWR) model;&lt;/li&gt;
+&lt;li&gt;A spatio-temporal (SP) regression model;&lt;/li&gt;
+&lt;li&gt;A visual SP representation of your variables;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Analyse and discuss:&lt;/li&gt;
+&lt;li&gt;How the OLS, GWR and SP results differ (How do regression coefficients vary across space? Is this variation statistically significant?)&lt;/li&gt;
+&lt;li&gt;How do coefficients change over time? Why?&lt;/li&gt;
+&lt;li&gt;Are GWR and/or SP models needed? Why?&lt;/li&gt;
+&lt;li&gt;What is the appropriate bandwidth for your GWR? Why?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Data&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Data to complete the assignment are available on VITAL. Alternatively you can source your own data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

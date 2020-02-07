@@ -5,12 +5,92 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Forced Migration</title>
+      <link>/tags/forced-migration/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/forced-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labor Market Integration</title>
+      <link>/tags/labor-market-integration/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/labor-market-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Career Trajectories</title>
+      <link>/tags/longitudinal-career-trajectories/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/longitudinal-career-trajectories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migration</title>
+      <link>/tags/migration/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refugees</title>
+      <link>/tags/refugees/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/refugees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Analysis</title>
+      <link>/tags/sequence-analysis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/sequence-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Impact</title>
+      <link>/tags/spatial-impact/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/spatial-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweden</title>
+      <link>/tags/sweden/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/sweden/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cross-national Analysis</title>
@@ -69,90 +149,10 @@
     </item>
     
     <item>
-      <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
-      <guid>/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multilevel Modelling</title>
       <link>/tags/multilevel-modelling/</link>
       <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
       <guid>/tags/multilevel-modelling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Migration</title>
-      <link>/tags/migration/</link>
-      <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>/tags/migration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Impact</title>
-      <link>/tags/spatial-impact/</link>
-      <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>/tags/spatial-impact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Forced Migration</title>
-      <link>/tags/forced-migration/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/forced-migration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Labor Market Integration</title>
-      <link>/tags/labor-market-integration/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/labor-market-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Longitudinal Career Trajectories</title>
-      <link>/tags/longitudinal-career-trajectories/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/longitudinal-career-trajectories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Refugees</title>
-      <link>/tags/refugees/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/refugees/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sequence Analysis</title>
-      <link>/tags/sequence-analysis/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/sequence-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sweden</title>
-      <link>/tags/sweden/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/sweden/</guid>
       <description></description>
     </item>
     
@@ -749,7 +749,7 @@
     </item>
     
     <item>
-      <title>Overseas graduates</title>
+      <title>Overseas Graduates</title>
       <link>/tags/overseas-graduates/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       <guid>/tags/overseas-graduates/</guid>

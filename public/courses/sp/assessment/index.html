@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Francisco Rowe">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="The final module mark is composed of the three assignments. Together they are designed to cover the materials introduced in the entirety of content covered during the semester.
+ Assignment 1 (33%) Assignment 2 (33%) Assignment 3 (34%)  Assignments will be prepared in the R Notebook format and then converted into a self-contained HTML file that will then be submitted on Turnitin.
+Submission is electronic only via Turnitin on VITAL.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/courses/sp/assessment/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.d4ac95d532fd343a8a7eec1e1a457a83.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/courses/sp/assessment/">
+
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Academic">
+  <meta property="og:url" content="/courses/sp/assessment/">
+  <meta property="og:title" content="Assessment | Academic">
+  <meta property="og:description" content="The final module mark is composed of the three assignments. Together they are designed to cover the materials introduced in the entirety of content covered during the semester.
+ Assignment 1 (33%) Assignment 2 (33%) Assignment 3 (34%)  Assignments will be prepared in the R Notebook format and then converted into a self-contained HTML file that will then be submitted on Turnitin.
+Submission is electronic only via Turnitin on VITAL."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-01-29T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2020-01-29T00:00:00&#43;01:00">
+  
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Assessment | Academic</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Academic</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#hero"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/courses/"><span>Courses</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/courses/sp/">Spatial Analysis</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/courses/sp/overview/">Overview</a>
+      </li>
+      
+      <li >
+        <a href="/courses/sp/programme/">Syllabus</a>
+      </li>
+      
+      <li class="active">
+        <a href="/courses/sp/assessment/">Assessment</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li><a href="#assignment-1">Assignment 1</a></li>
+<li><a href="#assignment-2">Assignment 2</a></li>
+<li><a href="#assignment-3">Assignment 3</a></li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>Assessment</h1>
+
+          <div class="article-style">
+            
+
+<p>The final module mark is composed of the <strong>three</strong> assignments. Together they are designed to cover the materials introduced in the entirety of content covered during the semester.</p>
+
+<ul>
+<li>Assignment 1 (33%)</li>
+<li>Assignment 2 (33%)</li>
+<li>Assignment 3 (34%)</li>
+</ul>
+
+<p>Assignments will be prepared in the R Notebook format and then converted into
+a self-contained HTML file that will then be submitted on Turnitin.</p>
+
+<p>Submission is electronic only via Turnitin on VITAL.</p>
+
+<p>Maximum word count: 1,500 words, excluding figures and references. As per School Assessment Guidelines, <em>over-length submission will be capped at 40%</em>. The assignment deadline is specified below. Assignments submitted after this deadline will be penalised 5% per working day late. Assignments submitted more than five working days late will be awarded a mark of zero. <em>Mitigating Circumstances</em> for late submission must be submitted for consideration via the Student Support Office (Ground Floor, Roxby Building; email: soessouth@liverpool.ac.uk).</p>
+
+<p><strong>Marking criteria</strong>: Standard Environmental Sciences School marking criteria apply, with a stronger emphasis on evidencing the use of regression models, critical analysis of results and presentation standards.</p>
+
+<h1 id="assignment-1">Assignment 1</h1>
+
+<p>Assigment 1 assesses teaching content from Weeks 1 to 4.</p>
+
+<p><strong>Deadline</strong>: 14:00pm, March 3rd, 2020.</p>
+
+<p>Using a new batch of house prices from the Land Registry (see data provided), carry out the
+following analysis in an analogous way to how they were performed in class:</p>
+
+<ul>
+<li><p>KDE of house transactions.</p></li>
+
+<li><p>Create a surface map of the house prices in the dataset. To do that, use spatial
+interpolation and, in particular, an inverse distance weight approach.</p></li>
+
+<li><p>Fit several regression models to explain the (log of) house prices as a function of whether
+they are newly built houses and the IMD score of the area where they are located. Include
+at least:</p></li>
+
+<li><p>Baseline non-spatial regression.</p></li>
+
+<li><p>Spatial FE estimation based on two-digit postcodes.</p></li>
+
+<li><p>Baseline regression with an additional spatial lag of the IMD Score (Note you will have to
+select a spatial weights matrix and justify it.)</p></li>
+
+<li><p>Discuss the model estimation results, particularly:</p>
+
+<ul>
+<li>Think about the advantages and limitations of modelling house prices with a spatial FE model,
+especially from the perspective of the structure of housing price data.</li>
+<li>If the higher-level units were LSOAs (rather than the two-digits postcode geographical
+units) and LSOA dummy variables were used in the spatial fixed effect model, could you still
+obtain the regression coefficients of the IMD score variable? Hint: IMD scores are also
+measured at the LSOA level.</li>
+</ul></li>
+</ul>
+
+<p><em>Data</em></p>
+
+<p>Data to complete the assignment will be available on VITAL. The shapefile contains house
+price information for Liverpool in 2014 (same data used in practice).</p>
+
+<h1 id="assignment-2">Assignment 2</h1>
+
+<p>Assigment 2 assesses teaching content from Weeks 6 and 7.</p>
+
+<p><strong>Deadline</strong>: 14:00pm, March 31st, 2020.</p>
+
+<p>Following the examples in class:</p>
+
+<ul>
+<li>Fit various regression models to your dependent variable of choice as a function of at least three independent variables at your level 1 scale and at least one at you level 2 scale or higher orders. Include at least:</li>
+<li>A OLS regression model;</li>
+<li>A null multilevel (baseline) regression model;</li>
+<li>A random intercept model;</li>
+
+<li><p>A random slope model or a random intercept + slope model;</p></li>
+
+<li><p>Provide a short justification of the independent variables included in your models;</p></li>
+
+<li><p>Justify the inclusion of the chosen variable in your level-2 or higher scales;</p></li>
+
+<li><p>Create caterpillar plots and/or maps to visualise the extent of variation in the estimated random effects in your models;</p></li>
+
+<li><p>Analyse and discuss:</p></li>
+
+<li><p>the extent of variation in the dependent variables at two or more geographical scales (variation at which geographical scale explains most of variance in your dependent variable);</p></li>
+
+<li><p>the random intercept estimate(s) from your model(s) (what can they tell you about the difference between groups / areas? are they statistically significantly different?);</p></li>
+
+<li><p>the random slope estimate(s) from your model(s) (to what extent does the relationship between your dependent and independent variables vary across groups / areas? are they statistically significantly different?).</p></li>
+</ul>
+
+<p>Ensure you appropriately describe the structure of the data and identify the various geographical scales of analysis (i.e. level-1, level-2 or higher-level units)</p>
+
+<p><em>Data</em></p>
+
+<p>Data to complete the assignment are available on VITAL. Alternatively you can source your own data.</p>
+
+<h1 id="assignment-3">Assignment 3</h1>
+
+<p>Assigment 3 assesses teaching content from Weeks 10 and 11.</p>
+
+<p><strong>Deadline</strong>: 14:00pm, May 8th, 2020.</p>
+
+<p>Following the examples in class:
+* Fit various regression models to your dependent variable of choice as a function of at least three independent variables. Include at least:</p>
+
+<ol>
+<li>A OLS regression model;</li>
+<li>A Geographically Weighted Regression (GWR) model;</li>
+<li>A spatio-temporal (SP) regression model;</li>
+<li>A visual SP representation of your variables;</li>
+</ol>
+
+<ul>
+<li>Analyse and discuss:</li>
+<li>How the OLS, GWR and SP results differ (How do regression coefficients vary across space? Is this variation statistically significant?)</li>
+<li>How do coefficients change over time? Why?</li>
+<li>Are GWR and/or SP models needed? Why?</li>
+<li>What is the appropriate bandwidth for your GWR? Why?</li>
+</ul>
+
+<p><em>Data</em></p>
+
+<p>Data to complete the assignment are available on VITAL. Alternatively you can source your own data.</p>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="/courses/sp/programme/" rel="next">Syllabus</a>
+  </div>
+  
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on Jan 29, 2020</p>
+
+          
+<p class="edit-page">
+  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/courses/sp/assessment.md">
+    <i class="fas fa-pen pr-2"></i>Edit this page
+  </a>
+</p>
+
+
+
+          
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+        
+  </p>
+  
+
+  <p class="powered-by">
+    &copy; Francisco Rowe 2019 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.130521ecfc6f534c52c158217bbff718.js"></script>
+
+    
+
+
+
+
+
+
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
