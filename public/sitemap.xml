@@ -68,11 +68,6 @@
   </url>
   
   <url>
-    <loc>/post/2020-01-01-r-rmarkdown/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/labor-market-integration/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -144,6 +139,16 @@
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-01-01-r-rmarkdown/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-01-01-r-rmarkdown_template/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
