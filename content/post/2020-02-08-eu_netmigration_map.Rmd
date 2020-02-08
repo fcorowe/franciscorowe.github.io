@@ -1,6 +1,6 @@
 ---
-title: "Template"
-draft: true
+title: "Net Internal Migration Rate Across Europe"
+draft: false
 author: "Francisco Rowe"
 date: '2020-02-08'
 categories: ["R"]
