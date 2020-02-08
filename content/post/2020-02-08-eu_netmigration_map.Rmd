@@ -1,0 +1,14 @@
+---
+title: "Template"
+draft: true
+author: "Francisco Rowe"
+date: '2020-02-08'
+categories: ["R"]
+tags: ["R Markdown", "Migration", "Spatial Impact"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Net Internal Migration Rate Across Europe

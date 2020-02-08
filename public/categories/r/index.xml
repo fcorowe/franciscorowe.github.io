@@ -5,7 +5,7 @@
     <link>/categories/r/</link>
       <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>R</title>
@@ -14,43 +14,14 @@
     
     <item>
       <title>Template</title>
-      <link>/post/2020-01-01-r-rmarkdown/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-01-01-r-rmarkdown/</guid>
+      <link>/post/2020-02-08-eu_netmigration_map/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-02-08-eu_netmigration_map/</guid>
       <description>
 
 
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This post introduces our recently published R package, CIM, to measure the impacts of migration on local population structures. We developed the methodology in this &lt;a href=&#34;https://doi.org/10.1080/00324728.2017.1416155&#34;&gt;paper&lt;/a&gt; in 2018. This paper is one of the top ten most viewed articles in &lt;a href=&#34;https://www.tandfonline.com/action/showMostReadArticles?journalCode=rpst20&#34;&gt;Population Studies&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;installing&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Installing&lt;/h2&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(CIM)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## Read in the two data.frames included in the package
-m &amp;lt;- male
-f &amp;lt;- female
-
-## Run the function using &amp;quot;ratio&amp;quot; calculation
-CIM.ratio &amp;lt;- CIM(m, f, calculation = &amp;quot;ratio&amp;quot;, numerator = 1, denominator = 2)
-## Print the resulted data.frame
-CIM.ratio
-## $num_results
-##                                       FV      CFV        CIM     CIM_PC
-## Greater Santiago                87.42172 87.02433  0.3973829  0.4566343
-## Rest of the Metropolitan region 94.05847 92.91429  1.1441815  1.2314376
-## Rest of the country             90.16837 90.52613 -0.3577543 -0.3951945
-## totalCol                        89.36814 89.36814  0.0000000  0.0000000
-##                                     DIAG        CIM_I      CIM_O
-## Greater Santiago                86.83030  0.591414697 -0.1940318
-## Rest of the Metropolitan region 93.76409  0.294381660  0.8497999
-## Rest of the country             90.17376 -0.005385734 -0.3523685
-## totalCol                        89.36814  0.000000000  0.0000000
-##                                   CIM_I_PC  CIM_O_PC
-## Greater Santiago                148.827403 -48.82740
-## Rest of the Metropolitan region  25.728580  74.27142
-## Rest of the country               1.505428  98.49457
-## totalCol                          0.000000   0.00000&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;div id=&#34;net-internal-migration-rate-across-europe&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Net Internal Migration Rate Across Europe&lt;/h1&gt;
 &lt;/div&gt;
 </description>
     </item>
