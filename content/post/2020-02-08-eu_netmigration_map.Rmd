@@ -97,7 +97,7 @@ interactive_map <- colourmap %>%
 ```
 
 ```{r, echo=FALSE}
-frameWidget(interactive_map, width='90%')
+frameWidget(interactive_map)
 ```
 
 
