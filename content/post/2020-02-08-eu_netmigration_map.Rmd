@@ -17,13 +17,13 @@ In November 2019, we published a paper assessing the impact of internal migratio
 
 **Why this matters?** First, while considerable attention is devoted to international migration, the number of internal migration (763 million) is significantly greater -almost 3 times that of international migrants (272 million)
 
-Second, the spatial impact of internal migration on population redistribution is arguably the most visible and significant aspect of human population movement….
+Second, the spatial impact of internal migration on population redistribution is arguably the most visible and significant aspect of human population movement
 
 increasing population numbers in a few locations while reducing numbers elsewhere, transferring skills and knowledge, affecting labour and housing markets
 
 Third, **The GAP** contemporary understanding of the way migration impacts on settlement patterns remains crude, constrained primarily by reliance on coarse urban-rural dichotomies, data inadequacies and the perennial obstacles by the MAUP
 
-**RESULTS** show (1) that the overall redistributive impact of internal migration is low in most European countries but the mechanisms differ across the continent. 
+**RESULTS** show (1) that the overall redistributive impact of internal migration is low in most European countries but the mechanisms differ across the continent
 
 (2) About half the European countries are experiencing a process of concentration toward urbanised regions, particularly in Northern, Central and Eastern Europe i.e. population redistribution is directed toward more densely populated regions, leading to population concentration or re-urbanisation
 
@@ -31,11 +31,11 @@ Third, **The GAP** contemporary understanding of the way migration impacts on se
 
 (4) By contrast, countries in the West and South are undergoing a process of population deconcentration resulting from population gains are focused on lower-density regions
 
-(5) A number of countries (Norway, Lithuania, Estonia, Spain, the UK & Italy) have reached a spatial equilibrium: internal migration minimally alters the existing pattern of population settlement 
+(5) A number of countries (Norway, Lithuania, Estonia, Spain, the UK & Italy) have reached a spatial equilibrium: internal migration minimally alters the existing pattern of population settlement
 
-*These findings* demonstrate the important variations in the patterns of population redistribution in Europe highlighting the diminishing impact of migration in shaping settlement patterns in highly urbanised countries.
+*These findings* demonstrate the important variations in the patterns of population redistribution in Europe highlighting the diminishing impact of migration in shaping settlement patterns in highly urbanised countries
 
-And also lend support to the idea of diverse trajectories in population redistribution for countries at the upper end of development ladder.
+And also lend support to the idea of diverse trajectories in population redistribution for countries at the upper end of development ladder
 
 The map below reveals the patterns of population gains and losses through internal migration. For this map, net migration rates based on administrative areas are superimposed on a base layer showing the major nodes of human settlement, which helps identify the urban areas gaining or losing population from internal migration. Based on country-specific means and standard deviations, standardised net migration rates (z-scores) are reported to help pinpoint areas of unusually high net migration gains or losses; that is, z-scores two standard deviations outside the mean. 
 
@@ -101,6 +101,6 @@ interactive_map <- colourmap %>%
 interactive_map
 ```
 
-Reference
+**References**
 
 Rowe, F., Bell, M., Bernard, A., Charles-Edwards, E. and Ueffing, P., 2019. Impact of Internal Migration on Population Redistribution in Europe: Urbanisation, Counterurbanisation or Spatial Equilibrium?. *Comparative Population Studies*, 44.
