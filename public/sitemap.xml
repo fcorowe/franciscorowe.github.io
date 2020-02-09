@@ -1233,6 +1233,11 @@
   </url>
   
   <url>
+    <loc>/post/eu_mig_map/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
   </url>
   
