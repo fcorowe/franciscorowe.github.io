@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Europe</title>
+      <link>/tags/europe/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Migration</title>
       <link>/tags/migration/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <title>Spatial Analysis</title>
+      <link>/tags/spatial-analysis/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/r-markdown/</guid>
+      <guid>/tags/spatial-analysis/</guid>
       <description></description>
     </item>
     
@@ -69,6 +77,14 @@
     </item>
     
     <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Refugees</title>
       <link>/tags/refugees/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -97,14 +113,6 @@
       <link>/tags/cross-national-analysis/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/tags/cross-national-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Europe</title>
-      <link>/tags/europe/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/europe/</guid>
       <description></description>
     </item>
     
@@ -725,7 +733,7 @@
     </item>
     
     <item>
-      <title>Graduate migration</title>
+      <title>Graduate Migration</title>
       <link>/tags/graduate-migration/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       <guid>/tags/graduate-migration/</guid>
@@ -749,7 +757,7 @@
     </item>
     
     <item>
-      <title>Overseas graduates</title>
+      <title>Overseas Graduates</title>
       <link>/tags/overseas-graduates/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       <guid>/tags/overseas-graduates/</guid>

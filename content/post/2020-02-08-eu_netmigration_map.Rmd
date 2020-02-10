@@ -4,20 +4,20 @@ draft: false
 author: "Francisco Rowe"
 date: '2020-02-08'
 categories: ["R"]
-tags: ["R Markdown", "Migration", "Spatial Impact"]
+tags: ["Spatial Analysis", "Migration", "Spatial Impact", "Europe"]
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
 library(leaflet)
 library(htmlwidgets)
 library(htmltools)
 library(widgetframe)
+knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 # Net Internal Migration Rate Across Europe
 
-In November 2019, we published a paper assessing the impact of internal migration on redistributing population within European countries. Specifically we assess the impact of internal migration on promoting population concentration or deconcentration. Below is a thread posted on Twitter providing key aspects of the paper. The paper is open access: at the end of this post is the reference.
+At the end of last year, we published a paper assessing the impact of internal migration on redistributing population within European countries. Specifically we assess the impact of internal migration on promoting population concentration or deconcentration. Below is a thread posted on Twitter providing key aspects of the paper. The paper is (open access)[http://dx.doi.org/10.12765/CPoS-2019-18en] - see reference at the end of this post.
 
 **Why this matters?** First, while considerable attention is devoted to international migration, the number of internal migration (763 million) is significantly greater -almost 3 times that of international migrants (272 million)
 
@@ -52,7 +52,7 @@ load("../post/eu_netmig_map.RData")
 
 
 
-```{r, echo=FALSE, fig.width=10,fig.height=7}
+```{r, echo=FALSE}
 # Specify the colour palette
 pal <- colorFactor(palette = c("red", "salmon1", "white", "steelblue1", "blue"), 
            levels = c("less than -2", "-2 to 0", "0", "0 to 2", "more than 2"), ordered = FALSE)
@@ -97,11 +97,9 @@ interactive_map <- colourmap %>%
 ```
 
 ```{r, echo=FALSE}
-frameWidget(interactive_map)
+frameWidget(interactive_map, allowfullscreen=TRUE)
 ```
-
-
 
 **References**
 
-Rowe, F., Bell, M., Bernard, A., Charles-Edwards, E. and Ueffing, P., 2019. Impact of Internal Migration on Population Redistribution in Europe: Urbanisation, Counterurbanisation or Spatial Equilibrium?. *Comparative Population Studies*, 44.
+Rowe, F., Bell, M., Bernard, A., Charles-Edwards, E. and Ueffing, P., 2019. Impact of Internal Migration on Population Redistribution in Europe: Urbanisation, Counterurbanisation or Spatial Equilibrium?. *Comparative Population Studies*, 44: 201-34. doi: http://dx.doi.org/10.12765/CPoS-2019-18en
