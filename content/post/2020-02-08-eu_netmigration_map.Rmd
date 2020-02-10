@@ -7,7 +7,7 @@ categories: ["R"]
 tags: ["Spatial Analysis", "Migration", "Spatial Impact", "Europe"]
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, warning=FALSE}
 library(leaflet)
 library(htmlwidgets)
 library(htmltools)
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # Net Internal Migration Rate Across Europe
 
-At the end of last year, we published a paper assessing the impact of internal migration on redistributing population within European countries. Specifically we assess the impact of internal migration on promoting population concentration or deconcentration. Below is a thread posted on Twitter providing key aspects of the paper. The paper is (open access)[http://dx.doi.org/10.12765/CPoS-2019-18en] - see reference at the end of this post.
+At the end of last year, we published a paper assessing the impact of internal migration on redistributing population within European countries. Specifically we assess the impact of internal migration on promoting population concentration or deconcentration. Below is a thread posted on Twitter providing key aspects of the paper. The paper is [open access](http://dx.doi.org/10.12765/CPoS-2019-18en) - see reference at the end of this post.
 
 **Why this matters?** First, while considerable attention is devoted to international migration, the number of internal migration (763 million) is significantly greater -almost 3 times that of international migrants (272 million)
 
@@ -44,7 +44,7 @@ The results reveal that diverse migration processes underpin the overall process
 By contrast, patterns of population concentration in Switzerland, Bulgaria, Germany, Finland, the Netherlands, Turkey, Austria, Hungary and Sweden are the result of different processes. In Turkey and Switzerland, significant migration gains in dense small urban areas and heavy losses in a small number of remote rural locations shaped overall patterns of population concentration. In Austria, Bulgaria, Hungary and Sweden, population concentration occurred in large cities, and their satellites, most notably in the areas of Vienna, Sofia, Budapest and Gothenburg. In Germany, on the other hand, migration gains were concentrated in middle-sized and small cities with widespread losses in more remote areas. For example, significant gains occurred in Dresden, Leipzig, Potsdam (near Berlin) and Tübingen (near Stuttgart), while acute losses were observed in Göttingen and around Cottbus in the east of Germany. Patterns of urban sprawl in Germany are largely a response to high property prices in large urban agglomerations.
 
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, warning=FALSE}
 # read data
 rm(list=ls())
 load("../post/eu_netmig_map.RData")
@@ -52,7 +52,7 @@ load("../post/eu_netmig_map.RData")
 
 
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, warning=FALSE}
 # Specify the colour palette
 pal <- colorFactor(palette = c("red", "salmon1", "white", "steelblue1", "blue"), 
            levels = c("less than -2", "-2 to 0", "0", "0 to 2", "more than 2"), ordered = FALSE)
@@ -96,7 +96,7 @@ interactive_map <- colourmap %>%
     options = layersControlOptions(collapsed = FALSE))
 ```
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, warning=FALSE}
 frameWidget(interactive_map, allowfullscreen=TRUE)
 ```
 
