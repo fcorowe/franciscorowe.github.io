@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Graduate Migration | Academic</title>
+    <title>Graduate migration | Academic</title>
     <link>/tags/graduate-migration/</link>
       <atom:link href="/tags/graduate-migration/index.xml" rel="self" type="application/rss+xml" />
-    <description>Graduate Migration</description>
+    <description>Graduate migration</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Graduate Migration</title>
+      <title>Graduate migration</title>
       <link>/tags/graduate-migration/</link>
     </image>
     

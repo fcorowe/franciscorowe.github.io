@@ -17,7 +17,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # Net Internal Migration Rate Across Europe
 
-At the end of last year, we published a paper assessing the impact of internal migration on redistributing population within European countries. Specifically we assess the impact of internal migration on promoting population concentration or deconcentration. Below is a thread posted on Twitter providing key aspects of the paper. The paper is [open access](http://dx.doi.org/10.12765/CPoS-2019-18en) - see reference at the end of this post.
+At the end of last year, we published a paper assessing the impact of internal migration on redistributing population within European countries. Specifically we assessed the impact of internal migration on promoting population concentration or deconcentration. Below is a thread I posted on Twitter summarising key aspects of the paper. The paper is [open access](http://dx.doi.org/10.12765/CPoS-2019-18en) - see reference at the end of this post.
 
 **Why this matters?** First, while considerable attention is devoted to international migration, the number of internal migration (763 million) is significantly greater -almost 3 times that of international migrants (272 million)
 
@@ -97,7 +97,7 @@ interactive_map <- colourmap %>%
 ```
 
 ```{r, echo=FALSE, warning=FALSE}
-frameWidget(interactive_map, allowfullscreen=TRUE)
+frameWidget(interactive_map, options = frameOptions(allowfullscreen = TRUE))
 ```
 
 **References**
