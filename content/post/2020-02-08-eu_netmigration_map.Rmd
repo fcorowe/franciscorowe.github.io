@@ -7,7 +7,7 @@ categories: ["R"]
 tags: ["Spatial Analysis", "Migration", "Spatial Impact", "Europe"]
 ---
 
-```{r setup, include=FALSE, warning=FALSE}
+```{r setup, include=FALSE, warning=FALSE, message=FALSE}
 library(leaflet)
 library(htmlwidgets)
 library(htmltools)
@@ -44,7 +44,7 @@ The results reveal that diverse migration processes underpin the overall process
 By contrast, patterns of population concentration in Switzerland, Bulgaria, Germany, Finland, the Netherlands, Turkey, Austria, Hungary and Sweden are the result of different processes. In Turkey and Switzerland, significant migration gains in dense small urban areas and heavy losses in a small number of remote rural locations shaped overall patterns of population concentration. In Austria, Bulgaria, Hungary and Sweden, population concentration occurred in large cities, and their satellites, most notably in the areas of Vienna, Sofia, Budapest and Gothenburg. In Germany, on the other hand, migration gains were concentrated in middle-sized and small cities with widespread losses in more remote areas. For example, significant gains occurred in Dresden, Leipzig, Potsdam (near Berlin) and Tübingen (near Stuttgart), while acute losses were observed in Göttingen and around Cottbus in the east of Germany. Patterns of urban sprawl in Germany are largely a response to high property prices in large urban agglomerations.
 
 
-```{r, echo=FALSE, warning=FALSE}
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
 # read data
 rm(list=ls())
 load("../post/eu_netmig_map.RData")
@@ -52,7 +52,7 @@ load("../post/eu_netmig_map.RData")
 
 
 
-```{r, echo=FALSE, warning=FALSE}
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
 # Specify the colour palette
 pal <- colorFactor(palette = c("red", "salmon1", "white", "steelblue1", "blue"), 
            levels = c("less than -2", "-2 to 0", "0", "0 to 2", "more than 2"), ordered = FALSE)
@@ -96,7 +96,7 @@ interactive_map <- colourmap %>%
     options = layersControlOptions(collapsed = FALSE))
 ```
 
-```{r, echo=FALSE, warning=FALSE}
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
 frameWidget(interactive_map, options = frameOptions(allowfullscreen = TRUE))
 ```
 
