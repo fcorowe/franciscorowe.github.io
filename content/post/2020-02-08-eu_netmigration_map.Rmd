@@ -65,8 +65,8 @@ pal <- colorFactor(palette = c("red", "salmon1", "white", "steelblue1", "blue"),
 colourmap <- leaflet() %>% 
   addTiles() %>% 
   setView(lat = 48, lng = 20, zoom = 4) %>% 
-  addProviderTiles(providers$NASAGIBS.ViirsEarthAtNight2012, group = "NASAGIBS.ViirsEarthAtNight2012") %>% 
-  addProviderTiles(providers$Stamen.TonerLite, group = "Stamen.TonerLite")
+  addProviderTiles(providers$NASAGIBS.ViirsEarthAtNight2012, group = "Night lights") %>% 
+  addProviderTiles(providers$Stamen.TonerLite, group = "Base map")
 
 # Create the interactive map showing the sequence clusters
 interactive_map <- colourmap %>%
