@@ -52,7 +52,7 @@ load("../post/eu_netmig_map.RData")
 
 
 
-```{r, fig.width=10,fig.height=7}
+```{r, echo=FALSE, warning=FALSE, message=FALSE, fig.width=10,fig.height=7}
 library(leaflet)
 library(leaflet.extras) # I am using this to add full screen control
 # This code is similar to the above but I changed the names of the tiles

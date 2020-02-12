@@ -40,52 +40,6 @@
 &lt;p&gt;The map below reveals the patterns of population gains and losses through internal migration. For this map, net migration rates based on administrative areas are superimposed on a base layer showing the major nodes of human settlement, which helps identify the urban areas gaining or losing population from internal migration. Based on country-specific means and standard deviations, standardised net migration rates (z-scores) are reported to help pinpoint areas of unusually high net migration gains or losses; that is, z-scores two standard deviations outside the mean.&lt;/p&gt;
 &lt;p&gt;The results reveal that diverse migration processes underpin the overall processes of population concentration. In Belarus, Portugal, Denmark and Russia, population concentration was driven by unusually high migration gains in a handful of large urban centres, while migration losses were found in sparsely populated areas. Significant gains occurred in the cities of Pinsk, Grodno and Polotsk in Belarus; in the Península de Setúbal within the Lisbon region in Portugal; in the Copenhagen metropolitan area in Denmark; and in Moscow and St Petersburg in Russia.&lt;/p&gt;
 &lt;p&gt;By contrast, patterns of population concentration in Switzerland, Bulgaria, Germany, Finland, the Netherlands, Turkey, Austria, Hungary and Sweden are the result of different processes. In Turkey and Switzerland, significant migration gains in dense small urban areas and heavy losses in a small number of remote rural locations shaped overall patterns of population concentration. In Austria, Bulgaria, Hungary and Sweden, population concentration occurred in large cities, and their satellites, most notably in the areas of Vienna, Sofia, Budapest and Gothenburg. In Germany, on the other hand, migration gains were concentrated in middle-sized and small cities with widespread losses in more remote areas. For example, significant gains occurred in Dresden, Leipzig, Potsdam (near Berlin) and Tübingen (near Stuttgart), while acute losses were observed in Göttingen and around Cottbus in the east of Germany. Patterns of urban sprawl in Germany are largely a response to high property prices in large urban agglomerations.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(leaflet)
-library(leaflet.extras) # I am using this to add full screen control
-# This code is similar to the above but I changed the names of the tiles
-
-# Specify the colour palette
-pal &amp;lt;- colorFactor(palette = c(&amp;quot;red&amp;quot;, &amp;quot;salmon1&amp;quot;, &amp;quot;white&amp;quot;, &amp;quot;steelblue1&amp;quot;, &amp;quot;blue&amp;quot;), 
-           levels = c(&amp;quot;less than -2&amp;quot;, &amp;quot;-2 to 0&amp;quot;, &amp;quot;0&amp;quot;, &amp;quot;0 to 2&amp;quot;, &amp;quot;more than 2&amp;quot;), ordered = FALSE)
-
-# pal &amp;lt;- colorBin(&amp;quot;RdYlBu&amp;quot;, domain = spdf$z_score, bins = bins)
-
-# There is a list of all the available background tiles in
-# http://leaflet-extras.github.io/leaflet-providers/preview/index.html
-# Create the initial background map, zooming in Europe
-colourmap &amp;lt;- leaflet() %&amp;gt;% 
-  addTiles() %&amp;gt;% 
-  setView(lat = 48, lng = 20, zoom = 4) %&amp;gt;% 
-  addProviderTiles(&amp;quot;NASAGIBS.ViirsEarthAtNight2012&amp;quot;, group = &amp;quot;Night lights&amp;quot;) %&amp;gt;% 
-  addProviderTiles(&amp;quot;Stamen.TonerLite&amp;quot;, group = &amp;quot;Base map&amp;quot;)
-
-# Create the interactive map showing the sequence clusters
-interactive_map &amp;lt;- colourmap %&amp;gt;%
-  addPolygons(data = combined_data_simpl_sf,
-              fillColor = ~pal(z_cat),
-              weight = 0.4,
-              opacity = 0.8,
-              color = &amp;quot;black&amp;quot;,
-              dashArray = &amp;quot;3&amp;quot;,
-              fillOpacity = 0.7,
-              popup = paste(&amp;quot;Name: &amp;quot;, combined_data_simpl_sf$name, &amp;quot;&amp;lt;br&amp;gt;&amp;quot;,
-                            &amp;quot;Net Migration: &amp;quot;, combined_data_simpl_sf$net_migr, &amp;quot;&amp;lt;br&amp;gt;&amp;quot;),
-              group = &amp;quot;Net migration rate&amp;quot;,
-              highlight = highlightOptions(
-                weight = 5,
-                color = &amp;quot;#666&amp;quot;,
-                dashArray = &amp;quot;&amp;quot;,
-                fillOpacity = 0.7,
-                bringToFront = TRUE)) %&amp;gt;% 
-  addLegend(pal = pal,
-            values  = combined_data_simpl_sf$z_cat,
-            na.label = &amp;quot;Missing data&amp;quot;,
-            position = &amp;quot;bottomleft&amp;quot;,
-            title = &amp;quot;Net migration rate (z-scores)&amp;quot;) %&amp;gt;% 
-  addLayersControl(baseGroups = c(&amp;quot;Night lights&amp;quot;, &amp;quot;Base map&amp;quot;),
-    overlayGroups = &amp;quot;Net migration rate&amp;quot;,
-    options = layersControlOptions(collapsed = FALSE)) %&amp;gt;% 
-  addFullscreenControl()&lt;/code&gt;&lt;/pre&gt;
 &lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:480px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
 &lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/post/2020-02-08-eu_netmigration_map_files/figure-html//widgets/widget_unnamed-chunk-3.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:true,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
