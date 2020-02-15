@@ -12,6 +12,7 @@ library(leaflet)
 library(htmlwidgets)
 library(htmltools)
 library(widgetframe)
+library(leaflet.extras)
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
@@ -53,10 +54,6 @@ load("../post/eu_netmig_map.RData")
 
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE, fig.width=10,fig.height=7}
-library(leaflet)
-library(leaflet.extras) # I am using this to add full screen control
-# This code is similar to the above but I changed the names of the tiles
-
 # Specify the colour palette
 pal <- colorFactor(palette = c("red", "salmon1", "white", "steelblue1", "blue"), 
            levels = c("less than -2", "-2 to 0", "0", "0 to 2", "more than 2"), ordered = FALSE)

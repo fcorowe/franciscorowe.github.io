@@ -22,13 +22,13 @@ weight: 2
 
 [Kernel Density Estimation & Spatial Interpolation](https://gdsl-ul.github.io/san/points.html)
 
-* [Week 3: Flow Data Analysis](http://darribas.org/spa_notes/)
+* [Week 3: Flow Data Analysis](https://gdsl-ul.github.io/san/flows.html)
 
-[Spatial Flows Estimation](http://darribas.org/spa_notes/flows.html)
+[Spatial Flows Estimation](https://gdsl-ul.github.io/san/flows.html)
 
-* [Week 4: Spatial Econometrics](http://darribas.org/spa_notes/)
+* [Week 4: Spatial Econometrics](https://gdsl-ul.github.io/san/spatial-econometrics.html)
 
-[Spatial Regression](http://darribas.org/spa_notes/sp_eco.html)
+[Spatial Regression](https://gdsl-ul.github.io/san/spatial-econometrics.html)
 
 * Week 5: Assignment 1 Clinic
 
