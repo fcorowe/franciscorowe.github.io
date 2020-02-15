@@ -32,16 +32,16 @@ weight: 2
 
 * Week 5: Assignment 1 Clinic
 
-* Week 6: Multilevel Modelling 1
+* [Week 6: Multilevel Modelling 1](https://gdsl-ul.github.io/san/multilevel-models-pt-i.html)
 
-* Week 7: Multilevel Modelling 2
+* [Week 7: Multilevel Modelling 2](https://gdsl-ul.github.io/san/multilevel-models-pt-ii.html)
 
 * Week 8: Assignment 2 Clinic
 
 * **Week 9: No Teaching (field class week)**
 
-* Week 10: Geographically Weighted Regression
+* [Week 10: Geographically Weighted Regression](https://gdsl-ul.github.io/san/gwr.html)
 
-* Week 11: Spatio-Temporal Data Analysis
+* [Week 11: Spatio-Temporal Data Analysis](https://gdsl-ul.github.io/san/space-time-analysis.html)
 
 * Week 12: Assignment 3 Clinic
