@@ -4,8 +4,8 @@ authors:
 - Mikaela Backman
 - Esteban Lopez
 - admin
-date: "2020-01-01T00:00:00Z"
-doi: "10.13140/RG.2.2.36760.44808"
+date: "2020-02-02T00:00:00Z"
+doi: "doi.org/10.1007/s11187-019-00312-z"
 featured: false
 image:
   caption: 
@@ -27,10 +27,10 @@ tags:
 - Sweden
 - Labor Market Integration 
 - Machine Learning
-title: Career trajectories and outcomes of forced migrants in Sweden. Self-employment, employment or persistent inactivity?
+title: The occupational trajectories and outcomes of forced migrants in Sweden. Entrepreneurship, employment or persistent inactivity?
 url_code: ""
 url_dataset: ""
-url_pdf: https://doi.org/10.13140/RG.2.2.36760.44808
+url_pdf: https://doi.org/10.1007/s11187-019-00312-z
 url_poster: ""
 url_project: ""
 url_slides: ""

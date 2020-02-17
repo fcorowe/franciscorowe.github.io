@@ -47,7 +47,7 @@
     <item>
       <title>Forced Migration</title>
       <link>/tags/forced-migration/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/forced-migration/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>Labor Market Integration</title>
       <link>/tags/labor-market-integration/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/labor-market-integration/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
     <item>
       <title>Longitudinal Career Trajectories</title>
       <link>/tags/longitudinal-career-trajectories/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/longitudinal-career-trajectories/</guid>
       <description></description>
     </item>
@@ -71,8 +71,32 @@
     <item>
       <title>Machine Learning</title>
       <link>/tags/machine-learning/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refugees</title>
+      <link>/tags/refugees/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/refugees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Analysis</title>
+      <link>/tags/sequence-analysis/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/sequence-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweden</title>
+      <link>/tags/sweden/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/sweden/</guid>
       <description></description>
     </item>
     
@@ -81,30 +105,6 @@
       <link>/tags/r-markdown/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Refugees</title>
-      <link>/tags/refugees/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/refugees/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sequence Analysis</title>
-      <link>/tags/sequence-analysis/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/sequence-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sweden</title>
-      <link>/tags/sweden/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/sweden/</guid>
       <description></description>
     </item>
     
@@ -757,7 +757,7 @@
     </item>
     
     <item>
-      <title>Overseas Graduates</title>
+      <title>Overseas graduates</title>
       <link>/tags/overseas-graduates/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       <guid>/tags/overseas-graduates/</guid>
@@ -893,7 +893,7 @@
     </item>
     
     <item>
-      <title>Human Capital</title>
+      <title>Human capital</title>
       <link>/tags/human-capital/</link>
       <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
       <guid>/tags/human-capital/</guid>
