@@ -3,7 +3,7 @@ abstract: Long-distance commuting has emerged as an alternative to migration to 
 authors:
 - admin
 - Martin Bell
-date: "2017-10-01T00:00:00Z"
+date: "2020-02-15T00:00:00Z"
 doi: "https://www.springer.com/gp/book/9789811002298"
 featured: false
 image:
@@ -15,7 +15,7 @@ publication: '*Book Chapter. Population Change and Impacts in Asia and the Pacif
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2020-04-20T00:00:00Z"
+publishDate: "2020-02-18T00:00:00Z"
 slides: 
 summary: This paper examines how the large-scale contextual changes has shaped long-distance commuting in Chile.
 tags:
