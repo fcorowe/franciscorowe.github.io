@@ -5,12 +5,20 @@
     <link>/tags/chile/</link>
       <atom:link href="/tags/chile/index.xml" rel="self" type="application/rss+xml" />
     <description>Chile</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 28 Aug 2019 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Chile</title>
       <link>/tags/chile/</link>
     </image>
+    
+    <item>
+      <title>The drivers of long-distance commuting in Chile. The role of spatial distribution of economic activities</title>
+      <link>/publication/bookcp2019_1/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2019_1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Do Local Labor Markets Looks From Above? An Automated Satellite Imagery Approach</title>
@@ -25,14 +33,6 @@
       <link>/publication/cepal2018/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/publication/cepal2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The drivers of long-distance commuting in Chile. The role of spatial distribution of economic activities</title>
-      <link>/publication/bookcp2019_1/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/bookcp2019_1/</guid>
       <description></description>
     </item>
     

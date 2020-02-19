@@ -5,7 +5,7 @@
     <link>/authors/martin-bell/</link>
       <atom:link href="/authors/martin-bell/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Bell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Martin Bell</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Impact of internal migration on population redistribution in Europe Urbanisation, counterurbanisation or spatial equilibrium?</title>
-      <link>/publication/cpos2019/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/cpos2019/</guid>
+      <title>The drivers of long-distance commuting in Chile. The role of spatial distribution of economic activities</title>
+      <link>/publication/bookcp2019_1/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2019_1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The drivers of long-distance commuting in Chile. The role of spatial distribution of economic activities</title>
-      <link>/publication/bookcp2019_1/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/bookcp2019_1/</guid>
+      <title>Impact of internal migration on population redistribution in Europe Urbanisation, counterurbanisation or spatial equilibrium?</title>
+      <link>/publication/cpos2019/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cpos2019/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,52 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Chile</title>
+      <link>/tags/chile/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/chile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic Geohgraphy</title>
+      <link>/tags/economic-geohgraphy/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/economic-geohgraphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-distance Commuting</title>
+      <link>/tags/long-distance-commuting/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/long-distance-commuting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Extractive Industries</title>
+      <link>/tags/mining-extractive-industries/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/mining-extractive-industries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Labour Markets</title>
+      <link>/tags/spatial-labour-markets/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/spatial-labour-markets/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Europe</title>
@@ -201,14 +241,6 @@
       <link>/tags/united-kingdom/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/united-kingdom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chile</title>
-      <link>/tags/chile/</link>
-      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>/tags/chile/</guid>
       <description></description>
     </item>
     
@@ -781,42 +813,10 @@
     </item>
     
     <item>
-      <title>Economic Geohgraphy</title>
-      <link>/tags/economic-geohgraphy/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/economic-geohgraphy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Labour Market Integration</title>
       <link>/tags/labour-market-integration/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       <guid>/tags/labour-market-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Long-distance Commuting</title>
-      <link>/tags/long-distance-commuting/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/long-distance-commuting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mining Extractive Industries</title>
-      <link>/tags/mining-extractive-industries/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/mining-extractive-industries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Labour Markets</title>
-      <link>/tags/spatial-labour-markets/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/spatial-labour-markets/</guid>
       <description></description>
     </item>
     
@@ -893,7 +893,7 @@
     </item>
     
     <item>
-      <title>Human capital</title>
+      <title>Human Capital</title>
       <link>/tags/human-capital/</link>
       <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
       <guid>/tags/human-capital/</guid>
