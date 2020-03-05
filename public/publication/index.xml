@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Neighbourhood change and trajectories of inequality in Britain, 1971-2011</title>
+      <link>/publication/uk20702020/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/uk20702020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The drivers of long-distance commuting in Chile. The role of spatial distribution of economic activities</title>
       <link>/publication/bookcp2019_1/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/bookcp2019_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The changing composition and fortunes of overseas graduates in Australia. The case of Chinese and Indian graduates</title>
+      <link>/publication/bookcp2019_2/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bookcp2019_2/</guid>
       <description></description>
     </item>
     
@@ -158,14 +174,6 @@
       <link>/publication/bookcp2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       <guid>/publication/bookcp2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The changing composition and fortunes of overseas graduates in Australia. The case of Chinese and Indian graduates</title>
-      <link>/publication/bookcp2019_2/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/bookcp2019_2/</guid>
       <description></description>
     </item>
     

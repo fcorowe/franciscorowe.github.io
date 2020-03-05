@@ -5,12 +5,60 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Britain</title>
+      <link>/tags/britain/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/britain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Trajectories</title>
+      <link>/tags/longitudinal-trajectories/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/longitudinal-trajectories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbourhood Change</title>
+      <link>/tags/neighbourhood-change/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/neighbourhood-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional Development</title>
+      <link>/tags/regional-development/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/regional-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Analysis</title>
+      <link>/tags/sequence-analysis/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/sequence-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Inequality</title>
+      <link>/tags/spatial-inequality/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/spatial-inequality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chile</title>
@@ -85,6 +133,14 @@
     </item>
     
     <item>
+      <title>Australia</title>
+      <link>/tags/australia/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/australia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Forced Migration</title>
       <link>/tags/forced-migration/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
@@ -93,10 +149,34 @@
     </item>
     
     <item>
+      <title>Graduate migration</title>
+      <link>/tags/graduate-migration/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/graduate-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Students</title>
+      <link>/tags/international-students/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/international-students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Labor Market Integration</title>
       <link>/tags/labor-market-integration/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/labor-market-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labour Market Integration</title>
+      <link>/tags/labour-market-integration/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/labour-market-integration/</guid>
       <description></description>
     </item>
     
@@ -117,6 +197,14 @@
     </item>
     
     <item>
+      <title>Overseas graduates</title>
+      <link>/tags/overseas-graduates/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/overseas-graduates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Refugees</title>
       <link>/tags/refugees/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
@@ -125,10 +213,10 @@
     </item>
     
     <item>
-      <title>Sequence Analysis</title>
-      <link>/tags/sequence-analysis/</link>
+      <title>Skills Mismatch</title>
+      <link>/tags/skills-mismatch/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/sequence-analysis/</guid>
+      <guid>/tags/skills-mismatch/</guid>
       <description></description>
     </item>
     
@@ -225,14 +313,6 @@
       <link>/tags/londitudinal-data/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/londitudinal-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Longitudinal Trajectories</title>
-      <link>/tags/longitudinal-trajectories/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/longitudinal-trajectories/</guid>
       <description></description>
     </item>
     
@@ -581,38 +661,6 @@
     </item>
     
     <item>
-      <title>Britain</title>
-      <link>/tags/britain/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/britain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neighbourhood Change</title>
-      <link>/tags/neighbourhood-change/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/neighbourhood-change/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regional Development</title>
-      <link>/tags/regional-development/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/regional-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Inequality</title>
-      <link>/tags/spatial-inequality/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/spatial-inequality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Migration Decline</title>
       <link>/tags/migration-decline/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
@@ -641,14 +689,6 @@
       <link>/tags/socio-demographic-composition/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/tags/socio-demographic-composition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Australia</title>
-      <link>/tags/australia/</link>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/australia/</guid>
       <description></description>
     </item>
     
@@ -765,22 +805,6 @@
     </item>
     
     <item>
-      <title>Graduate migration</title>
-      <link>/tags/graduate-migration/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/graduate-migration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>International Students</title>
-      <link>/tags/international-students/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/international-students/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Job-education Mismatch</title>
       <link>/tags/job-education-mismatch/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
@@ -789,34 +813,10 @@
     </item>
     
     <item>
-      <title>Overseas graduates</title>
-      <link>/tags/overseas-graduates/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/overseas-graduates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Qualification Mismatch</title>
       <link>/tags/qualification-mismatch/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       <guid>/tags/qualification-mismatch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skills Mismatch</title>
-      <link>/tags/skills-mismatch/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/skills-mismatch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Labour Market Integration</title>
-      <link>/tags/labour-market-integration/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/labour-market-integration/</guid>
       <description></description>
     </item>
     
