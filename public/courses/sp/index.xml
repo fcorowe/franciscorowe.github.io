@@ -99,34 +99,22 @@ submission deadline.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://vital.liv.ac.uk&#34; target=&#34;_blank&#34;&gt;Week 1: Introduction &amp;amp; Spatial Data&lt;/a&gt;
     + &lt;a href=&#34;https://gdsl-ul.github.io/san/intro.html&#34; target=&#34;_blank&#34;&gt;R Notebooks + Basic Functions + Data Types&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/points.html&#34; target=&#34;_blank&#34;&gt;Week 2: Point Data Analysis&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/points.html&#34; target=&#34;_blank&#34;&gt;Week 2: Point Data Analysis&lt;/a&gt;
+    + &lt;a href=&#34;https://gdsl-ul.github.io/san/points.html&#34; target=&#34;_blank&#34;&gt;Kernel Density Estimation &amp;amp; Spatial Interpolation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/points.html&#34; target=&#34;_blank&#34;&gt;Kernel Density Estimation &amp;amp; Spatial Interpolation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/flows.html&#34; target=&#34;_blank&#34;&gt;Week 3: Flow Data Analysis&lt;/a&gt;
+    + &lt;a href=&#34;https://gdsl-ul.github.io/san/flows.html&#34; target=&#34;_blank&#34;&gt;Spatial Flows Estimation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/flows.html&#34; target=&#34;_blank&#34;&gt;Week 3: Flow Data Analysis&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/flows.html&#34; target=&#34;_blank&#34;&gt;Spatial Flows Estimation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/spatial-econometrics.html&#34; target=&#34;_blank&#34;&gt;Week 4: Spatial Econometrics&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/spatial-econometrics.html&#34; target=&#34;_blank&#34;&gt;Spatial Regression&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/spatial-econometrics.html&#34; target=&#34;_blank&#34;&gt;Week 4: Spatial Econometrics&lt;/a&gt;
+    + &lt;a href=&#34;https://gdsl-ul.github.io/san/spatial-econometrics.html&#34; target=&#34;_blank&#34;&gt;Spatial Regression&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Week 5: Assignment 1 Clinic&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/multilevel-modelling-part-1.html&#34; target=&#34;_blank&#34;&gt;Week 6: Multilevel Modelling 1&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/multilevel-modelling-part-1.html&#34; target=&#34;_blank&#34;&gt;Week 6: Multilevel Modelling 1&lt;/a&gt;
+    + &lt;a href=&#34;https://gdsl-ul.github.io/san/multilevel-modelling-part-1.html&#34; target=&#34;_blank&#34;&gt;Multilevel Modelling – Random Intercept Multilevel Model&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/multilevel-modelling-part-1.html&#34; target=&#34;_blank&#34;&gt;Multilevel Modelling – Random Intercept Multilevel Model&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/multilevel-models-pt-ii.html&#34; target=&#34;_blank&#34;&gt;Week 7: Multilevel Modelling 2&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gdsl-ul.github.io/san/multilevel-models-pt-ii.html&#34; target=&#34;_blank&#34;&gt;Week 7: Multilevel Modelling 2&lt;/a&gt;
+    + &lt;a href=&#34;https://gdsl-ul.github.io/san/multilevel-modelling-part-2.html&#34; target=&#34;_blank&#34;&gt;Multilevel Modelling – Random Slope&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Week 8: Assignment 2 Clinic&lt;/p&gt;&lt;/li&gt;
 
