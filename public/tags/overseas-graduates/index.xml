@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overseas Graduates | Academic</title>
+    <title>Overseas graduates | Academic</title>
     <link>/tags/overseas-graduates/</link>
       <atom:link href="/tags/overseas-graduates/index.xml" rel="self" type="application/rss+xml" />
-    <description>Overseas Graduates</description>
+    <description>Overseas graduates</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Overseas Graduates</title>
+      <title>Overseas graduates</title>
       <link>/tags/overseas-graduates/</link>
     </image>
     

@@ -14,25 +14,19 @@ weight: 2
 
 # Module programme
 
-* [Week 1: Introduction & Spatial Data](https://vital.liv.ac.uk)
-        + [R Notebooks + Basic Functions + Data Types](https://gdsl-ul.github.io/san/intro.html)
+* [Week 1. Introduction & Spatial Data](https://vital.liv.ac.uk): [R Notebooks + Basic Functions + Data Types](https://gdsl-ul.github.io/san/intro.html)
 
-* [Week 2: Point Data Analysis](https://gdsl-ul.github.io/san/points.html)
-        + [Kernel Density Estimation & Spatial Interpolation](https://gdsl-ul.github.io/san/points.html)
+* [Week 2. Point Data Analysis](https://gdsl-ul.github.io/san/points.html): [Kernel Density Estimation & Spatial Interpolation](https://gdsl-ul.github.io/san/points.html)
 
-* [Week 3: Flow Data Analysis](https://gdsl-ul.github.io/san/flows.html)
-        + [Spatial Flows Estimation](https://gdsl-ul.github.io/san/flows.html)
+* [Week 3. Flow Data Analysis](https://gdsl-ul.github.io/san/flows.html): [Spatial Flows Estimation](https://gdsl-ul.github.io/san/flows.html)
 
-* [Week 4: Spatial Econometrics](https://gdsl-ul.github.io/san/spatial-econometrics.html)
-        + [Spatial Regression](https://gdsl-ul.github.io/san/spatial-econometrics.html)
+* [Week 4. Spatial Econometrics](https://gdsl-ul.github.io/san/spatial-econometrics.html): [Spatial Regression](https://gdsl-ul.github.io/san/spatial-econometrics.html)
 
 * Week 5: Assignment 1 Clinic
 
-* [Week 6: Multilevel Modelling 1](https://gdsl-ul.github.io/san/multilevel-modelling-part-1.html)
-        + [Multilevel Modelling – Random Intercept Multilevel Model](https://gdsl-ul.github.io/san/multilevel-modelling-part-1.html)
+* [Week 6. Multilevel Modelling 1](https://gdsl-ul.github.io/san/multilevel-modelling-part-1.html): [Multilevel Modelling – Random Intercept Multilevel Model](https://gdsl-ul.github.io/san/multilevel-modelling-part-1.html)
     
-* [Week 7: Multilevel Modelling 2](https://gdsl-ul.github.io/san/multilevel-models-pt-ii.html)
-        + [Multilevel Modelling – Random Slope](https://gdsl-ul.github.io/san/multilevel-modelling-part-2.html)
+* [Week 7. Multilevel Modelling 2](https://gdsl-ul.github.io/san/multilevel-models-pt-ii.html): [Multilevel Modelling – Random Slope](https://gdsl-ul.github.io/san/multilevel-modelling-part-2.html)
         
 * Week 8: Assignment 2 Clinic
 
