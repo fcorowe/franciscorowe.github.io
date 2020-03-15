@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yerka Freire-Vidal | Academic</title>
+    <link>/authors/yerka-freire-vidal/</link>
+      <atom:link href="/authors/yerka-freire-vidal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yerka Freire-Vidal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Sun, 02 Feb 2020 09:15:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yerka Freire-Vidal</title>
+      <link>/authors/yerka-freire-vidal/</link>
+    </image>
+    
+    <item>
+      <title>Using Twitter to Understand Attitudes Towards Immigration</title>
+      <link>/talk/mpdi2020/</link>
+      <pubDate>Sun, 02 Feb 2020 09:15:00 +0000</pubDate>
+      <guid>/talk/mpdi2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
