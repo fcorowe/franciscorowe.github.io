@@ -28,7 +28,7 @@ projects:
 publishDate: "2020-02-10T00:00:00Z"
 slides: 
 summary:
-title: Using Twitter to Understand Attitudes Towards Immigration
+title: Using Twitter and Machine Learning to Understand Attitudes Towards Immigration
 url_code: ""
 url_pdf: ""
 url_slides: ""

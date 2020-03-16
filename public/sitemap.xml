@@ -198,27 +198,7 @@
   </url>
   
   <url>
-    <loc>/tags/immigration/</loc>
-    <lastmod>2020-02-02T09:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2020-02-02T09:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/natual-language-processing/</loc>
-    <lastmod>2020-02-02T09:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
-    <lastmod>2020-02-02T09:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/twitter-data/</loc>
     <lastmod>2020-02-02T09:15:00+00:00</lastmod>
   </url>
   
@@ -289,6 +269,11 @@
   
   <url>
     <loc>/tags/longitudinal-career-trajectories/</loc>
+    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -423,6 +408,11 @@
   </url>
   
   <url>
+    <loc>/tags/immigration/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/londitudinal-data/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -489,6 +479,11 @@
   
   <url>
     <loc>/tags/trend-analysis/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/twitter-data/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   

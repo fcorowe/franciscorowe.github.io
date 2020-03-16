@@ -133,38 +133,6 @@
     </item>
     
     <item>
-      <title>Immigration</title>
-      <link>/tags/immigration/</link>
-      <pubDate>Sun, 02 Feb 2020 09:15:00 +0000</pubDate>
-      <guid>/tags/immigration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Sun, 02 Feb 2020 09:15:00 +0000</pubDate>
-      <guid>/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natual Language Processing</title>
-      <link>/tags/natual-language-processing/</link>
-      <pubDate>Sun, 02 Feb 2020 09:15:00 +0000</pubDate>
-      <guid>/tags/natual-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Twitter Data</title>
-      <link>/tags/twitter-data/</link>
-      <pubDate>Sun, 02 Feb 2020 09:15:00 +0000</pubDate>
-      <guid>/tags/twitter-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Australia</title>
       <link>/tags/australia/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
@@ -217,6 +185,14 @@
       <link>/tags/longitudinal-career-trajectories/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/longitudinal-career-trajectories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -325,6 +301,14 @@
     </item>
     
     <item>
+      <title>Immigration</title>
+      <link>/tags/immigration/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/immigration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Londitudinal Data</title>
       <link>/tags/londitudinal-data/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -393,6 +377,14 @@
       <link>/tags/trend-analysis/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/tags/trend-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter Data</title>
+      <link>/tags/twitter-data/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/twitter-data/</guid>
       <description></description>
     </item>
     
@@ -901,7 +893,7 @@
     </item>
     
     <item>
-      <title>Human Capital</title>
+      <title>Human capital</title>
       <link>/tags/human-capital/</link>
       <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
       <guid>/tags/human-capital/</guid>
