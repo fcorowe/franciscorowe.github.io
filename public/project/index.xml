@@ -5,12 +5,22 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>COVID19 Generating actionable evidence for containing misinformation to prevent discrimination</title>
+      <link>/project/covid19_misinformation/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/covid19_misinformation/</guid>
+      <description>&lt;p&gt;Our project will generate fundamental and timely evidence for how misinformation and
+fake news spreads across media platforms in the UK, and how this impacts experiences of discrimination associated with Covid-19. Novel text mining and data science approaches will be applied to investigate patterns in the reporting of Covid-19 in the news/media, as well as across social media. We will identify the structure of terminology used in how Covid-19 is reported, including measuring the use of emotion of language through sentiment analysis. Network science techniques will study the flows of information across social media to identify how they spread, as well identify leverage points to stem flows.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Understanding and Predicting the Long-term Labour Market and Migration Trajectories of Immigrants and Their Children in the United Kingdom</title>

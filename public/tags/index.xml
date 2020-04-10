@@ -5,12 +5,52 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2019</copyright><lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Cities</title>
+      <link>/tags/cities/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting</title>
+      <link>/tags/forecasting/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/forecasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satellite Imagery</title>
+      <link>/tags/satellite-imagery/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/satellite-imagery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Analysis</title>
+      <link>/tags/sequence-analysis/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/sequence-analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computational Notebooks</title>
@@ -65,14 +105,6 @@
       <link>/tags/regional-development/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/regional-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sequence Analysis</title>
-      <link>/tags/sequence-analysis/</link>
-      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/sequence-analysis/</guid>
       <description></description>
     </item>
     
@@ -213,14 +245,6 @@
     </item>
     
     <item>
-      <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Overseas graduates</title>
       <link>/tags/overseas-graduates/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
@@ -349,14 +373,6 @@
     </item>
     
     <item>
-      <title>Cities</title>
-      <link>/tags/cities/</link>
-      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>/tags/cities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Economic Geography</title>
       <link>/tags/economic-geography/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
@@ -377,14 +393,6 @@
       <link>/tags/latin-america/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
       <guid>/tags/latin-america/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Satellite Imagery</title>
-      <link>/tags/satellite-imagery/</link>
-      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>/tags/satellite-imagery/</guid>
       <description></description>
     </item>
     
@@ -753,14 +761,6 @@
       <link>/tags/shelf-life/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/tags/shelf-life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Forecasting</title>
-      <link>/tags/forecasting/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/forecasting/</guid>
       <description></description>
     </item>
     
