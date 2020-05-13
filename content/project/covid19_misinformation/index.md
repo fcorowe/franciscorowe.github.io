@@ -2,7 +2,7 @@
 date: "2020-04-02T00:00:00Z"
 external_link: ""
 image:
-  caption: Planet Labs
+  caption: Unplash
   focal_point: Smart
 links:
 - icon: twitter

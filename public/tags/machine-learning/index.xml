@@ -17,8 +17,7 @@
       <link>/project/covid19_misinformation/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/project/covid19_misinformation/</guid>
-      <description>&lt;p&gt;Our project will generate fundamental and timely evidence for how misinformation and
-fake news spreads across media platforms in the UK, and how this impacts experiences of discrimination associated with Covid-19. Novel text mining and data science approaches will be applied to investigate patterns in the reporting of Covid-19 in the news/media, as well as across social media. We will identify the structure of terminology used in how Covid-19 is reported, including measuring the use of emotion of language through sentiment analysis. Network science techniques will study the flows of information across social media to identify how they spread, as well identify leverage points to stem flows.&lt;/p&gt;
+      <description>&lt;p&gt;Our project will generate fundamental and timely evidence for how misinformation and fake news spreads across media platforms in the UK, and how this impacts experiences of discrimination associated with Covid-19. Novel text mining and data science approaches will be applied to investigate patterns in the reporting of Covid-19 in the news/media, as well as across social media. We will identify the structure of terminology used in how Covid-19 is reported, including measuring the use of emotion of language through sentiment analysis. Network science techniques will study the flows of information across social media to identify how they spread, as well identify leverage points to stem flows.&lt;/p&gt;
 </description>
     </item>
     
@@ -28,6 +27,15 @@ fake news spreads across media platforms in the UK, and how this impacts experie
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/sme2020/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing global patterns and trajectories of socio-economic inequality</title>
+      <link>/project/sensing_inequalities/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/sensing_inequalities/</guid>
+      <description>&lt;p&gt;This project seeks to quantify and analyse the evolution of spatial inequality across the globe using machine learning and satellite imagery. Preliminary findings reveal marked patterns of inequality. Intense presence of rich urban agglomerations in developed regions with large land consumption, intense public illumination, and high population density, particularly prominent across the US and Europe. Deprived areas with dense urban centres and limited illumination, or densely inhabited rural areas with presence of electrification prevail in rural parts of India. Poor regions with diffuse but high dense settlement infrastructure and scarce illumination are predominant across parts of rural China.&lt;/p&gt;
+</description>
     </item>
     
     <item>
