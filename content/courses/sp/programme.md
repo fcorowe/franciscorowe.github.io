@@ -32,8 +32,9 @@ weight: 2
 
 * **Week 9: No Teaching (field class week)**
 
-* [Week 10: Geographically Weighted Regression](https://gdsl-ul.github.io/san/gwr.html)
+* [Week 10: Geographically Weighted Regression](https://gdsl-ul.github.io/san/geographically-weighted-regression.html): [Spatial Nonstationarity](https://gdsl-ul.github.io/san/geographically-weighted-regression.html)
 
-* [Week 11: Spatio-Temporal Data Analysis](https://gdsl-ul.github.io/san/space-time-analysis.html)
+
+* [Week 11: Spatio-Temporal Data Analysis](https://gdsl-ul.github.io/san/spatio-temporal-analysis.html): [Spatio-temporal modelling](https://gdsl-ul.github.io/san/spatio-temporal-analysis.html)
 
 * Week 12: Assignment 3 Clinic
