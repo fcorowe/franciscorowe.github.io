@@ -33,17 +33,7 @@
   </url>
   
   <url>
-    <loc>/tags/cities/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/covid19_misinformation/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/forecasting/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,22 +43,27 @@
   </url>
   
   <url>
+    <loc>/tags/natural-language-processing/</loc>
+    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/network-analysis/</loc>
+    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/satellite-imagery/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sequence-analysis/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
+    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/twitter-data/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -159,6 +154,11 @@
   
   <url>
     <loc>/tags/regional-development/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sequence-analysis/</loc>
     <lastmod>2020-02-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -383,6 +383,11 @@
   </url>
   
   <url>
+    <loc>/tags/satellite-imagery/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/sensing_inequalities/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -488,6 +493,11 @@
   </url>
   
   <url>
+    <loc>/tags/cities/</loc>
+    <lastmod>2019-08-28T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/economic-geography/</loc>
     <lastmod>2019-08-28T09:00:00+00:00</lastmod>
   </url>
@@ -524,11 +534,6 @@
   
   <url>
     <loc>/tags/trend-analysis/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/twitter-data/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -890,6 +895,11 @@
   <url>
     <loc>/authors/tom-wilson/</loc>
     <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/forecasting/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

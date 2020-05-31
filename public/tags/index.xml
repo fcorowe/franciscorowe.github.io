@@ -13,22 +13,6 @@
     </image>
     
     <item>
-      <title>Cities</title>
-      <link>/tags/cities/</link>
-      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/cities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Forecasting</title>
-      <link>/tags/forecasting/</link>
-      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/forecasting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Machine Learning</title>
       <link>/tags/machine-learning/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
@@ -37,18 +21,26 @@
     </item>
     
     <item>
-      <title>Satellite Imagery</title>
-      <link>/tags/satellite-imagery/</link>
+      <title>Natural Language Processing</title>
+      <link>/tags/natural-language-processing/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/satellite-imagery/</guid>
+      <guid>/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sequence Analysis</title>
-      <link>/tags/sequence-analysis/</link>
+      <title>Network Analysis</title>
+      <link>/tags/network-analysis/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/sequence-analysis/</guid>
+      <guid>/tags/network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter Data</title>
+      <link>/tags/twitter-data/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/twitter-data/</guid>
       <description></description>
     </item>
     
@@ -105,6 +97,14 @@
       <link>/tags/regional-development/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/regional-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Analysis</title>
+      <link>/tags/sequence-analysis/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/sequence-analysis/</guid>
       <description></description>
     </item>
     
@@ -293,6 +293,14 @@
     </item>
     
     <item>
+      <title>Satellite Imagery</title>
+      <link>/tags/satellite-imagery/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/satellite-imagery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cross-national Analysis</title>
       <link>/tags/cross-national-analysis/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
@@ -381,6 +389,14 @@
     </item>
     
     <item>
+      <title>Cities</title>
+      <link>/tags/cities/</link>
+      <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>/tags/cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Economic Geography</title>
       <link>/tags/economic-geography/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
@@ -417,14 +433,6 @@
       <link>/tags/trend-analysis/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/tags/trend-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Twitter Data</title>
-      <link>/tags/twitter-data/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/twitter-data/</guid>
       <description></description>
     </item>
     
@@ -761,6 +769,14 @@
       <link>/tags/shelf-life/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/tags/shelf-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting</title>
+      <link>/tags/forecasting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/forecasting/</guid>
       <description></description>
     </item>
     
