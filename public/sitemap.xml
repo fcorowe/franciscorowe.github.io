@@ -28,6 +28,10 @@
   </url>
   
   <url>
+    <loc>/resources/skills/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -1279,6 +1283,10 @@
   
   <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/resources/</loc>
   </url>
   
 </urlset>
