@@ -85,11 +85,25 @@ Submission is electronic only via Turnitin on VITAL.">
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.d4ac95d532fd343a8a7eec1e1a457a83.css">
+  <link rel="stylesheet" href="/css/academic.min.63946ed27ecefb375a66cddd8b52e7d8.css">
 
   
 
   
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-9626674-2', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
   
   
 
@@ -352,16 +366,9 @@ Submission is electronic only via Turnitin on VITAL."><meta property="og:image" 
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
         </li>
 
         
@@ -502,13 +509,7 @@ Submission is electronic only via Turnitin on VITAL."><meta property="og:image" 
         <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
       </ul>
 
-      <nav id="TableOfContents">
-<ul>
-<li><a href="#assignment-1">Assignment 1</a></li>
-<li><a href="#assignment-2">Assignment 2</a></li>
-<li><a href="#assignment-3">Assignment 3</a></li>
-</ul>
-</nav>
+      <nav id="TableOfContents"></nav>
 
       
     </div>
@@ -522,53 +523,45 @@ Submission is electronic only via Turnitin on VITAL."><meta property="og:image" 
           <h1>Assessment</h1>
 
           <div class="article-style">
-            
-
-<p>The final module mark is composed of the <strong>three</strong> assignments. Together they are designed to cover the materials introduced in the entirety of content covered during the semester.</p>
-
+            <p>The final module mark is composed of the <strong>three</strong> assignments. Together they are designed to cover the materials introduced in the entirety of content covered during the semester.</p>
 <ul>
 <li>Assignment 1 (33%)</li>
 <li>Assignment 2 (33%)</li>
 <li>Assignment 3 (34%)</li>
 </ul>
-
 <p>Assignments will be prepared in the R Notebook format and then converted into
 a self-contained HTML file that will then be submitted on Turnitin.</p>
-
 <p>Submission is electronic only via Turnitin on VITAL.</p>
-
-<p>Maximum word count: 1,500 words, excluding figures and references. As per School Assessment Guidelines, <em>over-length submission will be capped at 40%</em>. The assignment deadline is specified below. Assignments submitted after this deadline will be penalised 5% per working day late. Assignments submitted more than five working days late will be awarded a mark of zero. <em>Mitigating Circumstances</em> for late submission must be submitted for consideration via the Student Support Office (Ground Floor, Roxby Building; email: soessouth@liverpool.ac.uk).</p>
-
+<p>Maximum word count: 1,500 words, excluding figures and references. As per School Assessment Guidelines, <em>over-length submission will be capped at 40%</em>. The assignment deadline is specified below. Assignments submitted after this deadline will be penalised 5% per working day late. Assignments submitted more than five working days late will be awarded a mark of zero. <em>Mitigating Circumstances</em> for late submission must be submitted for consideration via the Student Support Office (Ground Floor, Roxby Building; email: <a href="mailto:soessouth@liverpool.ac.uk">soessouth@liverpool.ac.uk</a>).</p>
 <p><strong>Marking criteria</strong>: Standard Environmental Sciences School marking criteria apply, with a stronger emphasis on evidencing the use of regression models, critical analysis of results and presentation standards.</p>
-
 <h1 id="assignment-1">Assignment 1</h1>
-
 <p>Assigment 1 assesses teaching content from Weeks 1 to 4.</p>
-
 <p><strong>Deadline</strong>: 14:00pm, March 3rd, 2020.</p>
-
 <p>Using a new batch of house prices from the Land Registry (see data provided), carry out the
 following analysis in an analogous way to how they were performed in class:</p>
-
 <ul>
-<li><p>KDE of house transactions.</p></li>
-
-<li><p>Create a surface map of the house prices in the dataset. To do that, use spatial
-interpolation and, in particular, an inverse distance weight approach.</p></li>
-
-<li><p>Fit several regression models to explain the (log of) house prices as a function of whether
+<li>
+<p>KDE of house transactions.</p>
+</li>
+<li>
+<p>Create a surface map of the house prices in the dataset. To do that, use spatial
+interpolation and, in particular, an inverse distance weight approach.</p>
+</li>
+<li>
+<p>Fit several regression models to explain the (log of) house prices as a function of whether
 they are newly built houses and the IMD score of the area where they are located. Include
-at least:</p></li>
-
-<li><p>Baseline non-spatial regression.</p></li>
-
-<li><p>Spatial FE estimation based on two-digit postcodes.</p></li>
-
-<li><p>Baseline regression with an additional spatial lag of the IMD Score (Note you will have to
-select a spatial weights matrix and justify it.)</p></li>
-
-<li><p>Discuss the model estimation results, particularly:</p>
-
+at least:</p>
+</li>
+</ul>
+<ol>
+<li>Baseline non-spatial regression.</li>
+<li>Spatial FE estimation based on two-digit postcodes.</li>
+<li>Baseline regression with an additional spatial lag of the IMD Score (Note you will have to
+select a spatial weights matrix and justify it.)</li>
+</ol>
+<ul>
+<li>
+<p>Discuss the model estimation results, particularly:</p>
 <ul>
 <li>Think about the advantages and limitations of modelling house prices with a spatial FE model,
 especially from the perspective of the structure of housing price data.</li>
@@ -576,77 +569,70 @@ especially from the perspective of the structure of housing price data.</li>
 units) and LSOA dummy variables were used in the spatial fixed effect model, could you still
 obtain the regression coefficients of the IMD score variable? Hint: IMD scores are also
 measured at the LSOA level.</li>
-</ul></li>
 </ul>
-
+</li>
+</ul>
 <p><em>Data</em></p>
-
 <p>Data to complete the assignment will be available on VITAL. The shapefile contains house
 price information for Liverpool in 2014 (same data used in practice).</p>
-
 <h1 id="assignment-2">Assignment 2</h1>
-
 <p>Assigment 2 assesses teaching content from Weeks 6 and 7.</p>
-
 <p><strong>Deadline</strong>: 14:00pm, March 31st, 2020.</p>
-
 <p>Following the examples in class:</p>
-
 <ul>
 <li>Fit various regression models to your dependent variable of choice as a function of at least three independent variables at your level 1 scale and at least one at you level 2 scale or higher orders. Include at least:</li>
+</ul>
+<ol>
 <li>A OLS regression model;</li>
 <li>A null multilevel (baseline) regression model;</li>
 <li>A random intercept model;</li>
-
-<li><p>A random slope model or a random intercept + slope model;</p></li>
-
-<li><p>Provide a short justification of the independent variables included in your models;</p></li>
-
-<li><p>Justify the inclusion of the chosen variable in your level-2 or higher scales;</p></li>
-
-<li><p>Create caterpillar plots and/or maps to visualise the extent of variation in the estimated random effects in your models;</p></li>
-
-<li><p>Analyse and discuss:</p></li>
-
-<li><p>the extent of variation in the dependent variables at two or more geographical scales (variation at which geographical scale explains most of variance in your dependent variable);</p></li>
-
-<li><p>the random intercept estimate(s) from your model(s) (what can they tell you about the difference between groups / areas? are they statistically significantly different?);</p></li>
-
-<li><p>the random slope estimate(s) from your model(s) (to what extent does the relationship between your dependent and independent variables vary across groups / areas? are they statistically significantly different?).</p></li>
+<li>A random slope model or a random intercept + slope model;</li>
+</ol>
+<ul>
+<li>
+<p>Provide a short justification of the independent variables included in your models;</p>
+</li>
+<li>
+<p>Justify the inclusion of the chosen variable in your level-2 or higher scales;</p>
+</li>
+<li>
+<p>Create caterpillar plots and/or maps to visualise the extent of variation in the estimated random effects in your models;</p>
+</li>
+<li>
+<p>Analyse and discuss:</p>
+</li>
 </ul>
-
+<ol>
+<li>the extent of variation in the dependent variables at two or more geographical scales (variation at which geographical scale explains most of variance in your dependent variable);</li>
+<li>the random intercept estimate(s) from your model(s) (what can they tell you about the difference between groups / areas? are they statistically significantly different?);</li>
+<li>the random slope estimate(s) from your model(s) (to what extent does the relationship between your dependent and independent variables vary across groups / areas? are they statistically significantly different?).</li>
+</ol>
 <p>Ensure you appropriately describe the structure of the data and identify the various geographical scales of analysis (i.e. level-1, level-2 or higher-level units)</p>
-
 <p><em>Data</em></p>
-
 <p>Data to complete the assignment are available on VITAL. Alternatively you can source your own data.</p>
-
 <h1 id="assignment-3">Assignment 3</h1>
-
 <p>Assigment 3 assesses teaching content from Weeks 10 and 11.</p>
-
 <p><strong>Deadline</strong>: 14:00pm, May 8th, 2020.</p>
-
-<p>Following the examples in class:
-* Fit various regression models to your dependent variable of choice as a function of at least three independent variables. Include at least:</p>
-
+<p>Following the examples in class:</p>
+<ul>
+<li>Fit various regression models to your dependent variable of choice as a function of at least three independent variables. Include at least:</li>
+</ul>
 <ol>
 <li>A OLS regression model;</li>
 <li>A Geographically Weighted Regression (GWR) model;</li>
 <li>A spatio-temporal (SP) regression model;</li>
 <li>A visual SP representation of your variables;</li>
 </ol>
-
 <ul>
 <li>Analyse and discuss:</li>
+</ul>
+<ol>
 <li>How the OLS, GWR and SP results differ (How do regression coefficients vary across space? Is this variation statistically significant?)</li>
 <li>How do coefficients change over time? Why?</li>
 <li>Are GWR and/or SP models needed? Why?</li>
 <li>What is the appropriate bandwidth for your GWR? Why?</li>
-</ul>
-
+</ol>
 <p><em>Data</em></p>
-
 <p>Data to complete the assignment are available on VITAL. Alternatively you can source your own data.</p>
 
           </div>
@@ -706,7 +692,7 @@ price information for Liverpool in 2014 (same data used in practice).</p>
   
 
   <p class="powered-by">
-    &copy; Francisco Rowe 2020 &middot; 
+    © Francisco Rowe 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

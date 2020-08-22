@@ -5,7 +5,7 @@
     <link>/courses/</link>
       <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Courses</title>
@@ -17,9 +17,7 @@
       <link>/courses/rstats/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/courses/rstats/</guid>
-      <description>
-
-&lt;h2 id=&#34;coming-soon&#34;&gt;Coming Soon&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;coming-soon&#34;&gt;Coming Soon&lt;/h2&gt;
 </description>
     </item>
     
@@ -28,32 +26,20 @@
       <link>/courses/sp/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/courses/sp/</guid>
-      <description>
-
-&lt;p&gt;Welcome to Spatial Analysis, academic year &lt;strong&gt;2019-20&lt;/strong&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;Welcome to Spatial Analysis, academic year &lt;strong&gt;2019-20&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;staff&#34;&gt;Staff&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Dr. Francisco Rowe (Module Coordinator) \ Senior Lecturer in Human Quantitative Geography \ Room 507, Roxby Building&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Email: &lt;strong&gt;F.Rowe-Gonzalez@liverpool.ac.uk&lt;/strong&gt;&lt;/p&gt;
-
+&lt;p&gt;Email: &lt;strong&gt;&lt;a href=&#34;mailto:F.Rowe-Gonzalez@liverpool.ac.uk&#34;&gt;F.Rowe-Gonzalez@liverpool.ac.uk&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Dr. Dani Arribas-Bel \ Senior Lecturer in Geographic Data Science \ Room 508, Roxby Building&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Email: &lt;strong&gt;D.Arribas-Bel@liverpool.ac.uk&lt;/strong&gt;&lt;/p&gt;
-
+&lt;p&gt;Email: &lt;strong&gt;&lt;a href=&#34;mailto:D.Arribas-Bel@liverpool.ac.uk&#34;&gt;D.Arribas-Bel@liverpool.ac.uk&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;
-
-&lt;p&gt;1-3pm, Geographical Information Centre (CIG), 6th floor, Roxby Building. &lt;a href=&#34;https://www.liverpool.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf&#34; target=&#34;_blank&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;1-3pm, Geographical Information Centre (CIG), 6th floor, Roxby Building. &lt;a href=&#34;https://www.liverpool.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;module-handbook&#34;&gt;Module handbook&lt;/h2&gt;
-
-&lt;p&gt;A pdf copy of the module handbook can be found on &lt;a href=&#34;https://vital.liv.ac.uk/&#34; target=&#34;_blank&#34;&gt;VITAL&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;A pdf copy of the module handbook can be found on &lt;a href=&#34;https://vital.liv.ac.uk/&#34;&gt;VITAL&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;NOTE: This website is work in progress and will be updated regularly so materials are available prior to the lectures&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>

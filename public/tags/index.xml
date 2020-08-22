@@ -189,10 +189,10 @@
     </item>
     
     <item>
-      <title>Australia</title>
-      <link>/tags/australia/</link>
+      <title>Australia.</title>
+      <link>/tags/australia./</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/australia/</guid>
+      <guid>/tags/australia./</guid>
       <description></description>
     </item>
     
@@ -277,14 +277,6 @@
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Inequality</title>
       <link>/tags/inequality/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
@@ -353,6 +345,14 @@
       <link>/tags/multilevel-modelling/</link>
       <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
       <guid>/tags/multilevel-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
@@ -953,14 +953,6 @@
       <link>/tags/spatial-patterns/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/tags/spatial-patterns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Australia.</title>
-      <link>/tags/australia./</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/australia./</guid>
       <description></description>
     </item>
     

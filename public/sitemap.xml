@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -288,7 +288,7 @@
   </url>
   
   <url>
-    <loc>/tags/australia/</loc>
+    <loc>/tags/australia./</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -368,13 +368,8 @@
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-01-01-r-rmarkdown_template/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>/courses/</loc>
+    <lastmod>2020-01-29T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -464,6 +459,11 @@
   
   <url>
     <loc>/post/2019-01-31-r-rmarkdown/</loc>
+    <lastmod>2019-10-11T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2019-10-11T21:13:14-05:00</lastmod>
   </url>
   
@@ -1128,11 +1128,6 @@
   </url>
   
   <url>
-    <loc>/tags/australia./</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/epc2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -1275,10 +1270,6 @@
   <url>
     <loc>/publication/ajrs2011/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
   </url>
   
   <url>

@@ -49,55 +49,6 @@
     </item>
     
     <item>
-      <title>Template</title>
-      <link>/post/2020-01-01-r-rmarkdown_template/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-01-01-r-rmarkdown_template/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This file provides a template to publish a post based on R markdown including code chunks. If you want to publish the content of this R markdown on the website, follow these steps:&lt;/p&gt;
-&lt;p&gt;Publishing a post with Hugo&lt;/p&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;p&gt;set the working directory &lt;code&gt;setwd()&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;run &lt;code&gt;blogdown::serve_site()&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;push it via terminal to GitHub and the website&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div id=&#34;installing&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Installing&lt;/h2&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(CIM)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## Read in the two data.frames included in the package
-m &amp;lt;- male
-f &amp;lt;- female
-
-## Run the function using &amp;quot;ratio&amp;quot; calculation
-CIM.ratio &amp;lt;- CIM(m, f, calculation = &amp;quot;ratio&amp;quot;, numerator = 1, denominator = 2)
-## Print the resulted data.frame
-CIM.ratio
-## $num_results
-##                                       FV      CFV        CIM     CIM_PC
-## Greater Santiago                87.42172 87.02433  0.3973829  0.4566343
-## Rest of the Metropolitan region 94.05847 92.91429  1.1441815  1.2314376
-## Rest of the country             90.16837 90.52613 -0.3577543 -0.3951945
-## totalCol                        89.36814 89.36814  0.0000000  0.0000000
-##                                     DIAG        CIM_I      CIM_O
-## Greater Santiago                86.83030  0.591414697 -0.1940318
-## Rest of the Metropolitan region 93.76409  0.294381660  0.8497999
-## Rest of the country             90.17376 -0.005385734 -0.3523685
-## totalCol                        89.36814  0.000000000  0.0000000
-##                                   CIM_I_PC  CIM_O_PC
-## Greater Santiago                148.827403 -48.82740
-## Rest of the Metropolitan region  25.728580  74.27142
-## Rest of the country               1.505428  98.49457
-## totalCol                          0.000000   0.00000&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Introducing the R Package CIM</title>
       <link>/post/2019-01-31-r-rmarkdown/</link>
       <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>

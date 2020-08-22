@@ -16,7 +16,7 @@ baseurl = "https://franciscorowe.github.io/"
 copyright = "&copy; Francisco Rowe 2020"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-9626674-2"
 
 ############################
 ## Advanced options below ##

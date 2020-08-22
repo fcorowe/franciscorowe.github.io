@@ -49,55 +49,6 @@
     </item>
     
     <item>
-      <title>Template</title>
-      <link>/post/2020-01-01-r-rmarkdown_template/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-01-01-r-rmarkdown_template/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This file provides a template to publish a post based on R markdown including code chunks. If you want to publish the content of this R markdown on the website, follow these steps:&lt;/p&gt;
-&lt;p&gt;Publishing a post with Hugo&lt;/p&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;p&gt;set the working directory &lt;code&gt;setwd()&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;run &lt;code&gt;blogdown::serve_site()&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;push it via terminal to GitHub and the website&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div id=&#34;installing&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Installing&lt;/h2&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(CIM)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## Read in the two data.frames included in the package
-m &amp;lt;- male
-f &amp;lt;- female
-
-## Run the function using &amp;quot;ratio&amp;quot; calculation
-CIM.ratio &amp;lt;- CIM(m, f, calculation = &amp;quot;ratio&amp;quot;, numerator = 1, denominator = 2)
-## Print the resulted data.frame
-CIM.ratio
-## $num_results
-##                                       FV      CFV        CIM     CIM_PC
-## Greater Santiago                87.42172 87.02433  0.3973829  0.4566343
-## Rest of the Metropolitan region 94.05847 92.91429  1.1441815  1.2314376
-## Rest of the country             90.16837 90.52613 -0.3577543 -0.3951945
-## totalCol                        89.36814 89.36814  0.0000000  0.0000000
-##                                     DIAG        CIM_I      CIM_O
-## Greater Santiago                86.83030  0.591414697 -0.1940318
-## Rest of the Metropolitan region 93.76409  0.294381660  0.8497999
-## Rest of the country             90.17376 -0.005385734 -0.3523685
-## totalCol                        89.36814  0.000000000  0.0000000
-##                                   CIM_I_PC  CIM_O_PC
-## Greater Santiago                148.827403 -48.82740
-## Rest of the Metropolitan region  25.728580  74.27142
-## Rest of the country               1.505428  98.49457
-## totalCol                          0.000000   0.00000&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Introducing the R Package CIM</title>
       <link>/post/2019-01-31-r-rmarkdown/</link>
       <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
@@ -174,23 +125,14 @@ library(tmap)&lt;/code&gt;&lt;/pre&gt;
       <link>/post/si_post/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       <guid>/post/si_post/</guid>
-      <description>
-
-&lt;h2 id=&#34;why-is-the-migration-of-young-educated-people-important&#34;&gt;Why is the migration of young educated people important?&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;why-is-the-migration-of-young-educated-people-important&#34;&gt;Why is the migration of young educated people important?&lt;/h2&gt;
 &lt;p&gt;Human capital is a key ingredient of economic development and productivity. Regions attracting educated individuals experience economic growth and enjoy high-status of social wellbeing, while areas affected by net migration losses of human capital struggle to sustain a vibrant local economy. Young educated individuals are highly mobile and comprise a important component of the workforce. Spatial mobility of young educated individuals generates differentiated outcomes across the urban hierarchy. Rural areas tend to lose young population, creating pressures to attract and retain young educated individuals to help redress accelerating ageing populations and replenishing labour gaps. By contrast, larger metropolitan areas operate as magnets enticing the ‘best’ and the ‘brightest’ spurring local economic development.&lt;/p&gt;
-
 &lt;h2 id=&#34;what-is-new-and-are-our-aims&#34;&gt;What is new and are our aims?&lt;/h2&gt;
-
 &lt;p&gt;In a recently published Special Issue, we draw on a select group of international leading experts in human capital mobility from a variety of countries, including Australia, China, Italy, the Netherlands, the UK, the USA and Sweden – and seek to address key outstanding issues associated with the spatial mobility of young educated people. In particular, we we draw on longitudinal data sets so that we can begin to examine longer windows of time and better capture mobility sequences over the transition from school through university to the labour market and how they intersect with their educational and occupational pathways and impacts on places. We argue that understanding these trajectories will augment our capacity to guide regional development policy on the attraction and retention of human capital and develop more appropriate policy strategies to address skill shortages, particularly in rural areas, and enhance individual employment outcomes.&lt;/p&gt;
-
-&lt;p&gt;The link to the editorial of our Special Issue is &lt;a href=&#34;https://doi.org/10.1007/s00168-017-0845-2&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
-
+&lt;p&gt;The link to the editorial of our Special Issue is &lt;a href=&#34;https://doi.org/10.1007/s00168-017-0845-2&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-
-&lt;p&gt;Faggian, A., Corcoran, J. &amp;amp; Rowe, F. Ann Reg Sci (2017) 59: 571. &lt;a href=&#34;https://doi.org/10.1007/s00168-017-0845-2&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1007/s00168-017-0845-2&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Rowe, F., Corcoran, J. &amp;amp; Bell, M. Ann Reg Sci (2017) 59: 819. &lt;a href=&#34;https://doi.org/10.1007/s00168-016-0771-8&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1007/s00168-016-0771-8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Faggian, A., Corcoran, J. &amp;amp; Rowe, F. Ann Reg Sci (2017) 59: 571. &lt;a href=&#34;https://doi.org/10.1007/s00168-017-0845-2&#34;&gt;https://doi.org/10.1007/s00168-017-0845-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rowe, F., Corcoran, J. &amp;amp; Bell, M. Ann Reg Sci (2017) 59: 819. &lt;a href=&#34;https://doi.org/10.1007/s00168-016-0771-8&#34;&gt;https://doi.org/10.1007/s00168-016-0771-8&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -199,25 +141,16 @@ library(tmap)&lt;/code&gt;&lt;/pre&gt;
       <link>/post/llma_post/</link>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
       <guid>/post/llma_post/</guid>
-      <description>
-
-&lt;p&gt;We all know that spatial analyses based on administrative boundaries to understand labour market activity are questionable, because of the modifiable areal unit problem (MAUP) and measurement issues, leading to spurious causal relationships, misguided policy recommendations and complex model specifications.&lt;/p&gt;
-
+      <description>&lt;p&gt;We all know that spatial analyses based on administrative boundaries to understand labour market activity are questionable, because of the modifiable areal unit problem (MAUP) and measurement issues, leading to spurious causal relationships, misguided policy recommendations and complex model specifications.&lt;/p&gt;
 &lt;p&gt;Over the last two decades, there has been a growing literature concerning the delimitation of Functional Labour Market Areas (FLMAs). They are empirically delimited based on commuting (travel-to-work) flow data between Basic Territorial Units (BTUs; eg. communes, municipalities or counties), which are often the finest level of geography at which data are available. The trick here is that there are two conflicting objectives. On the one hand, we want to create FMLAs that are composed of BTUs with strong commuting links i.e. strong cohesion or inner integration. On the other, we want FLMAs comprised of BTUs with weak or no commuting links with other FLMAs i.e. higher self-containment or external perfection. Large FLMAs lead to higher overall levels of self-containment but lower levels of cohesion from a certain threshold. Finding an appropriate balance between self-containment and cohesion is thus critical and challenging task for FMLAs delineation.&lt;/p&gt;
-
 &lt;p&gt;We have recently published a paper (Casado-Díaz, Martínez-Bernabéu and Rowe 2017) on a novel methodology based on evolutionary computational algorithms to delineate FLMAs for Chile. Why Chile? Because we wanted to try out this new methodology on a unusual geography and Chile provides just that; and, because I am Chilean! We compared the performance of our approach to the most widely used methodology for official LMA delimitation, the travel-to-work areas (TTWAs) method, in terms of computational efficiency. We also compared the suitability of the resulting FLMAs against administrative areas and TTWAs based on expert local knowledge and misallocation of BTUs. Normally BTUs are allocated to FLMAs with which they have weak links and need to be reassign to a different FLMA.&lt;/p&gt;
-
 &lt;p&gt;Applying our algorithm, we proposed a set of 62 FLMAs, which we called “GEA-LMA”: Grouping Evolutionary Algorithm-Labour Market Areas. The figure below presents these areas against provinces (second administrative level of geography in Chile) and TTWA-LMAs. Overall, the proposed areas outperformed administrative areas and TTWA-LMAs, in terms of self-containment and computing efficiency, providing a more appropriate framework for the analysis of spatial labour market activity. In the paper, we suggested two methodological improvements in order to: (1) produce a better conciliation between the different objectives of regionalization; (2) improve the local quality of the final regionalization by reducing the number of misallocated BTUs and the need to make adjustments to achieve a definitive regionalization; and, (3) increase the efficiency of the evolutionary algorithm by reducing the computational time required to find the optimal regionalisation.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./body.png&#34; alt=&#34;png&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;./body.png&#34; alt=&#34;png&#34;&gt;
 Figure 1. Maps of local self-containment: provinces, TTWA-LMAs and GEA-LMAs (labels for regional capital cities are displayed).
 Note: Local self-containment of an area is calculated as the minimum value of the share of residents of a BTU working within its considered region, and the share of jobs of that BTU occupied by its residents.&lt;/p&gt;
-
-&lt;p&gt;Our paper is open access and our code is available with the paper if you would like to implement our approach! Get it now from Spatial Economic Analysis on this link!: &lt;a href=&#34;http://dx.doi.org/10.1080/17421772.2017.1273541&#34; target=&#34;_blank&#34;&gt;http://dx.doi.org/10.1080/17421772.2017.1273541&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;Our paper is open access and our code is available with the paper if you would like to implement our approach! Get it now from Spatial Economic Analysis on this link!: &lt;a href=&#34;http://dx.doi.org/10.1080/17421772.2017.1273541&#34;&gt;http://dx.doi.org/10.1080/17421772.2017.1273541&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
-
-&lt;p&gt;José Manuel Casado-Díaz, Lucas Martínez-Bernabéu &amp;amp; Francisco Rowe (2017) An evolutionary approach to the delimitation of labour market areas: an empirical application for Chile, Spatial Economic Analysis, 12:4, 379-403, DOI: &lt;a href=&#34;http://dx.doi.org/10.1080/17421772.2017.1273541&#34; target=&#34;_blank&#34;&gt;http://dx.doi.org/10.1080/17421772.2017.1273541&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;José Manuel Casado-Díaz, Lucas Martínez-Bernabéu &amp;amp; Francisco Rowe (2017) An evolutionary approach to the delimitation of labour market areas: an empirical application for Chile, Spatial Economic Analysis, 12:4, 379-403, DOI: &lt;a href=&#34;http://dx.doi.org/10.1080/17421772.2017.1273541&#34;&gt;http://dx.doi.org/10.1080/17421772.2017.1273541&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
