@@ -20,3 +20,10 @@ This course offers an introduction to statistics and supervised machine learning
 
 To get started, go to the main course website by clicking [here](https://fcorowe.github.io/sl/)
 
+The course notes are hosted as a GitHub repository and you can access it in a few ways:
+
+* As a [download](https://github.com/fcorowe/sl/archive/master.zip) of a .zip file that contains all the materials.
+
+* As an [html website](https://fcorowe.github.io/sl/).
+
+* As a [GitHub repository](https://github.com/fcorowe/sl).
