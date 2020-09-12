@@ -28,22 +28,47 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-09-16T09:09:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-09-16T09:09:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/eduardo-graells-garrido/</loc>
+    <lastmod>2020-09-16T09:09:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/francisco-rowe/</loc>
+    <lastmod>2020-09-16T09:09:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-09-16T09:09:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/bsps2020/</loc>
+    <lastmod>2020-09-16T09:09:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yerka-freire-vidal/</loc>
+    <lastmod>2020-09-16T09:09:30+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -273,27 +298,7 @@
   </url>
   
   <url>
-    <loc>/authors/eduardo-graells-garrido/</loc>
-    <lastmod>2020-02-02T09:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/francisco-rowe/</loc>
-    <lastmod>2020-02-02T09:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-02-02T09:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/mpdi2020/</loc>
-    <lastmod>2020-02-02T09:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yerka-freire-vidal/</loc>
     <lastmod>2020-02-02T09:15:00+00:00</lastmod>
   </url>
   

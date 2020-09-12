@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 16 Sep 2020 09:09:30 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Eduardo Graells-Garrido</title>
+      <link>/authors/eduardo-graells-garrido/</link>
+      <pubDate>Wed, 16 Sep 2020 09:09:30 +0000</pubDate>
+      <guid>/authors/eduardo-graells-garrido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francisco Rowe</title>
+      <link>/authors/francisco-rowe/</link>
+      <pubDate>Wed, 16 Sep 2020 09:09:30 +0000</pubDate>
+      <guid>/authors/francisco-rowe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yerka Freire-Vidal</title>
+      <link>/authors/yerka-freire-vidal/</link>
+      <pubDate>Wed, 16 Sep 2020 09:09:30 +0000</pubDate>
+      <guid>/authors/yerka-freire-vidal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -50,30 +74,6 @@
       <link>/authors/martin-bell/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/martin-bell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eduardo Graells-Garrido</title>
-      <link>/authors/eduardo-graells-garrido/</link>
-      <pubDate>Sun, 02 Feb 2020 09:15:00 +0000</pubDate>
-      <guid>/authors/eduardo-graells-garrido/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Francisco Rowe</title>
-      <link>/authors/francisco-rowe/</link>
-      <pubDate>Sun, 02 Feb 2020 09:15:00 +0000</pubDate>
-      <guid>/authors/francisco-rowe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yerka Freire-Vidal</title>
-      <link>/authors/yerka-freire-vidal/</link>
-      <pubDate>Sun, 02 Feb 2020 09:15:00 +0000</pubDate>
-      <guid>/authors/yerka-freire-vidal/</guid>
       <description></description>
     </item>
     
