@@ -1,7 +1,7 @@
 ---
 abstract: 
 address:
-  city:
+  city: Cali
   country: Colombia
   postcode: 
   region: 
@@ -10,7 +10,7 @@ all_day: false
 authors: [Francisco Rowe, Yerka Freire-Vidal, Eduardo Graells-Garrido]
 date: "2020-07-30T04:00:00Z"
 date_end: "2020-07-30T05:00:00Z"
-event: Seminar in Economics, Universidad Icesi 
+event: Seminar in Economics, Universidad Icesi
 event_url: 
 featured: false
 image:
