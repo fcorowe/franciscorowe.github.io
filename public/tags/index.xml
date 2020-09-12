@@ -5,12 +5,52 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Europe</title>
+      <link>/tags/europe/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flows</title>
+      <link>/tags/flows/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/flows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Migration</title>
+      <link>/tags/internal-migration/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/internal-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapbox</title>
+      <link>/tags/mapbox/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/mapbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping</title>
+      <link>/tags/mapping/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/mapping/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning</title>
@@ -157,14 +197,6 @@
     </item>
     
     <item>
-      <title>Europe</title>
-      <link>/tags/europe/</link>
-      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/europe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Migration</title>
       <link>/tags/migration/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
@@ -297,14 +329,6 @@
       <link>/tags/cross-national-analysis/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/tags/cross-national-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Migration</title>
-      <link>/tags/internal-migration/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/internal-migration/</guid>
       <description></description>
     </item>
     

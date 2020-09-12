@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Academic</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/</guid>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/</guid>
       <description></description>
     </item>
     

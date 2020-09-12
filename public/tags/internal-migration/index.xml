@@ -5,12 +5,20 @@
     <link>/tags/internal-migration/</link>
       <atom:link href="/tags/internal-migration/index.xml" rel="self" type="application/rss+xml" />
     <description>Internal Migration</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Internal Migration</title>
       <link>/tags/internal-migration/</link>
     </image>
+    
+    <item>
+      <title>Mapping The Spatial Patterns of Internal Migration in Europe</title>
+      <link>/publication/rsrs2020/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rsrs2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Impact of internal migration on population redistribution in Europe Urbanisation, counterurbanisation or spatial equilibrium?</title>
