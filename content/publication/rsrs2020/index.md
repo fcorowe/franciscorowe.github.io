@@ -29,7 +29,7 @@ url_code: "https://github.com/fcorowe/mappingeuflows"
 url_dataset: "https://github.com/fcorowe/mappingeuflows"
 url_pdf: https://doi.org/10.1080/21681376.2020.1811139
 url_poster: ""
-url_project: "10.5281/zenodo.3910380"
+url_project: "http://www.franciscorowe.com/project/migration_decline/"
 url_slides: ""
 url_source: "https://fcorowe.github.io/mappingeuflows/"
 url_video: ""
