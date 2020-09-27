@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel-to-work Areas | Academic</title>
-    <link>/tags/travel-to-work-areas/</link>
-      <atom:link href="/tags/travel-to-work-areas/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/travel-to-work-areas/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/travel-to-work-areas/index.xml" rel="self" type="application/rss+xml" />
     <description>Travel-to-work Areas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sat, 22 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Travel-to-work Areas</title>
-      <link>/tags/travel-to-work-areas/</link>
+      <link>https://franciscorowe.github.io/tags/travel-to-work-areas/</link>
     </image>
     
     <item>
       <title>Functional Labor Market Areas for Chile</title>
-      <link>/publication/region2017_1/</link>
+      <link>https://franciscorowe.github.io/publication/region2017_1/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/region2017_1/</guid>
+      <guid>https://franciscorowe.github.io/publication/region2017_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The CHilean Internal Migration (CHIM) database. Temporally consistent spatial data for the analysis of human mobility</title>
-      <link>/publication/region2017_2/</link>
+      <link>https://franciscorowe.github.io/publication/region2017_2/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/region2017_2/</guid>
+      <guid>https://franciscorowe.github.io/publication/region2017_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An evolutionary approach to the delimitation of labour market areas. An empirical application for Chile</title>
-      <link>/publication/sea2017/</link>
+      <link>https://franciscorowe.github.io/publication/sea2017/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/sea2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/sea2017/</guid>
       <description></description>
     </item>
     

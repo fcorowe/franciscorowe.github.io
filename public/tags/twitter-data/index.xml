@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Twitter Data | Academic</title>
-    <link>/tags/twitter-data/</link>
-      <atom:link href="/tags/twitter-data/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/twitter-data/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/twitter-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Twitter Data</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Twitter Data</title>
-      <link>/tags/twitter-data/</link>
+      <link>https://franciscorowe.github.io/tags/twitter-data/</link>
     </image>
     
     <item>
       <title>COVID19 Generating actionable evidence for containing misinformation to prevent discrimination</title>
-      <link>/project/covid19_misinformation/</link>
+      <link>https://franciscorowe.github.io/project/covid19_misinformation/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/project/covid19_misinformation/</guid>
+      <guid>https://franciscorowe.github.io/project/covid19_misinformation/</guid>
       <description>&lt;p&gt;The project will generate fundamental and timely evidence for how misinformation and fake news spreads across media platforms in the UK, and how this impacts experiences of discrimination associated with Covid-19. Novel text mining and data science approaches will be applied to investigate patterns in the reporting of Covid-19 in the news/media, as well as across social media. We will identify the structure of terminology used in how Covid-19 is reported, including measuring the use of emotion of language through sentiment analysis. Network science techniques will study the flows of information across social media to identify how they spread, as well identify leverage points to stem flows.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Using large scale social media data to measure perceptions towards immigration</title>
-      <link>/project/bigdata_perception/</link>
+      <link>https://franciscorowe.github.io/project/bigdata_perception/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/bigdata_perception/</guid>
+      <guid>https://franciscorowe.github.io/project/bigdata_perception/</guid>
       <description>&lt;p&gt;I have been nominated as an expert and project leader for the upcoming BIGSSS Summer School in Computational Social Science on Social Cohesion in Groningen, Netherlands.
 &lt;a href=&#34;https://bigsss-css.jacobs-university.de/&#34;&gt;https://bigsss-css.jacobs-university.de/&lt;/a&gt;. I will be leading a project on using twitter data and computational approaches to measure social cohesion and attitudes towards immigration. The project seeks to offer participants of the BIGSSS Summer Schools in Computational Social Science the opportunity to build on our experience in the use of Twitter data and machine learning to model and enhance the understanding of social cohesion and attitudes towards immigration.&lt;/p&gt;
 </description>

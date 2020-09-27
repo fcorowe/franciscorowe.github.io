@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Europe | Academic</title>
-    <link>/tags/europe/</link>
-      <atom:link href="/tags/europe/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/europe/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/europe/index.xml" rel="self" type="application/rss+xml" />
     <description>Europe</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Europe</title>
-      <link>/tags/europe/</link>
+      <link>https://franciscorowe.github.io/tags/europe/</link>
     </image>
     
     <item>
       <title>Mapping The Spatial Patterns of Internal Migration in Europe</title>
-      <link>/publication/rsrs2020/</link>
+      <link>https://franciscorowe.github.io/publication/rsrs2020/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/rsrs2020/</guid>
+      <guid>https://franciscorowe.github.io/publication/rsrs2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping The Impact of Internal Migration Across Europe</title>
-      <link>/post/2020-02-08-eu_netmigration_map/</link>
+      <link>https://franciscorowe.github.io/post/2020-02-08-eu_netmigration_map/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-02-08-eu_netmigration_map/</guid>
+      <guid>https://franciscorowe.github.io/post/2020-02-08-eu_netmigration_map/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;net-internal-migration-rate-across-europe&#34; class=&#34;section level1&#34;&gt;
@@ -58,42 +58,42 @@
     
     <item>
       <title>Impact of internal migration on population redistribution in Europe Urbanisation, counterurbanisation or spatial equilibrium?</title>
-      <link>/publication/cpos2019/</link>
+      <link>https://franciscorowe.github.io/publication/cpos2019/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/cpos2019/</guid>
+      <guid>https://franciscorowe.github.io/publication/cpos2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding and Predicting the Long-term Labour Market and Migration Trajectories of Immigrants and Their Children in the United Kingdom</title>
-      <link>/project/immigrants_trajectories/</link>
+      <link>https://franciscorowe.github.io/project/immigrants_trajectories/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/immigrants_trajectories/</guid>
+      <guid>https://franciscorowe.github.io/project/immigrants_trajectories/</guid>
       <description>&lt;p&gt;Prior empirical research has advanced our understanding of immigrants’ assimilation, their descendants and the role of ethnic concentration. Yet work has remained cross-sectional in nature, focusing on the occupational outcomes and residential locations at a specific point in time. Little progress has been made to understand the trajectories of immigrants and their children over a long period of time. Understanding of the long-term trajectories of immigrants and their children is key to assess their prospects for economic and social success, and develop effective policy interventions to assist their integration process, unleash their skills’ potential and facilitate upward social mobility.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Establishing the extent and pace of the contemporary trend of migration decline in Europe</title>
-      <link>/publication/rsa2018/</link>
+      <link>https://franciscorowe.github.io/publication/rsa2018/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/rsa2018/</guid>
+      <guid>https://franciscorowe.github.io/publication/rsa2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring the Impact of Internal Migration on Population Redistribution in Europe</title>
-      <link>/publication/ersa2017/</link>
+      <link>https://franciscorowe.github.io/publication/ersa2017/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/ersa2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/ersa2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding the declining trend in internal migration in Europe</title>
-      <link>/project/migration_decline/</link>
+      <link>https://franciscorowe.github.io/project/migration_decline/</link>
       <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/project/migration_decline/</guid>
+      <guid>https://franciscorowe.github.io/project/migration_decline/</guid>
       <description>&lt;p&gt;Internal migration is of fundamental importance for individuals and families to achieve their goals and aspirations. At a societal level, internal migration underpins the effective functioning of the labour and housing markets. It is essential to economic resilience by bringing knowledge, skills and labour to locations where needed to enhance economic productivity (Blanchard et al. 1992). This is particular relevant today. Internal migration rates have continuously declined over the last five decades in most countries around the world. This decline is likely to have wide-ranging implications for the functioning of the economy and individuals’ aspirations, but remains poorly recognised and understood. National and local governments have been concerned that the decline in migration heralds a less flexible economy where workers do not move to regions with jobs (Kaplan and Schulhofer-Wohl 2012). Internal migration is the main driver of changing settlement patterns within countries, so understanding declining migration levels is critical to plan for infrastructure delivery and forecast housing needs to ensure appropriate evidence-based policy responses. The project aims to establish the start and pace of the migration decline in 18 European countries, and to determine the factors underpinning this trend by examining associations between the drop in migration rates and broader demographic and socio-economic changes in the last three decades.&lt;/p&gt;
 </description>
     </item>

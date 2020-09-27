@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spatial Analysis | Academic</title>
-    <link>/courses/sp/</link>
-      <atom:link href="/courses/sp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/courses/sp/</link>
+      <atom:link href="https://franciscorowe.github.io/courses/sp/index.xml" rel="self" type="application/rss+xml" />
     <description>Spatial Analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Spatial Analysis</title>
-      <link>/courses/sp/</link>
+      <link>https://franciscorowe.github.io/courses/sp/</link>
     </image>
     
     <item>
       <title>Overview</title>
-      <link>/courses/sp/overview/</link>
+      <link>https://franciscorowe.github.io/courses/sp/overview/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/sp/overview/</guid>
+      <guid>https://franciscorowe.github.io/courses/sp/overview/</guid>
       <description>&lt;h2 id=&#34;module-aims&#34;&gt;Module aims&lt;/h2&gt;
 &lt;p&gt;This module aims to:&lt;/p&gt;
 &lt;ul&gt;
@@ -64,9 +64,9 @@ submission deadline.&lt;/p&gt;
     
     <item>
       <title>Syllabus</title>
-      <link>/courses/sp/programme/</link>
+      <link>https://franciscorowe.github.io/courses/sp/programme/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>/courses/sp/programme/</guid>
+      <guid>https://franciscorowe.github.io/courses/sp/programme/</guid>
       <description>&lt;h1 id=&#34;module-programme&#34;&gt;Module programme&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -111,9 +111,9 @@ submission deadline.&lt;/p&gt;
     
     <item>
       <title>Assessment</title>
-      <link>/courses/sp/assessment/</link>
+      <link>https://franciscorowe.github.io/courses/sp/assessment/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>/courses/sp/assessment/</guid>
+      <guid>https://franciscorowe.github.io/courses/sp/assessment/</guid>
       <description>&lt;p&gt;The final module mark is composed of the &lt;strong&gt;three&lt;/strong&gt; assignments. Together they are designed to cover the materials introduced in the entirety of content covered during the semester.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Assignment 1 (33%)&lt;/li&gt;

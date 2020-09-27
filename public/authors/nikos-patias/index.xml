@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nikos Patias | Academic</title>
-    <link>/authors/nikos-patias/</link>
-      <atom:link href="/authors/nikos-patias/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/authors/nikos-patias/</link>
+      <atom:link href="https://franciscorowe.github.io/authors/nikos-patias/index.xml" rel="self" type="application/rss+xml" />
     <description>Nikos Patias</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Nikos Patias</title>
-      <link>/authors/nikos-patias/</link>
+      <link>https://franciscorowe.github.io/authors/nikos-patias/</link>
     </image>
     
     <item>
       <title>Mapping The Spatial Patterns of Internal Migration in Europe</title>
-      <link>/publication/rsrs2020/</link>
+      <link>https://franciscorowe.github.io/publication/rsrs2020/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/rsrs2020/</guid>
+      <guid>https://franciscorowe.github.io/publication/rsrs2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbourhood change and trajectories of inequality in Britain, 1971-2011</title>
-      <link>/publication/uk20702020/</link>
+      <link>https://franciscorowe.github.io/publication/uk20702020/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/uk20702020/</guid>
+      <guid>https://franciscorowe.github.io/publication/uk20702020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Scalable Analytical Framework for Spatio-Temporal Analysis of Neighborhood Change A Sequence Analysis Approach</title>
-      <link>/publication/agile2019/</link>
+      <link>https://franciscorowe.github.io/publication/agile2019/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/agile2019/</guid>
+      <guid>https://franciscorowe.github.io/publication/agile2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Package CIM Compositional Impact of Migration</title>
-      <link>/publication/rcim2019/</link>
+      <link>https://franciscorowe.github.io/publication/rcim2019/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rcim2019/</guid>
+      <guid>https://franciscorowe.github.io/publication/rcim2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbourhood change and trajectories of inequality in Britain, 1971-2011</title>
-      <link>/publication/policybrief2018/</link>
+      <link>https://franciscorowe.github.io/publication/policybrief2018/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/policybrief2018/</guid>
+      <guid>https://franciscorowe.github.io/publication/policybrief2018/</guid>
       <description></description>
     </item>
     

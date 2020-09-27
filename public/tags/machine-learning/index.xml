@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning | Academic</title>
-    <link>/tags/machine-learning/</link>
-      <atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/machine-learning/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>https://franciscorowe.github.io/tags/machine-learning/</link>
     </image>
     
     <item>
       <title>COVID19 Generating actionable evidence for containing misinformation to prevent discrimination</title>
-      <link>/project/covid19_misinformation/</link>
+      <link>https://franciscorowe.github.io/project/covid19_misinformation/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/project/covid19_misinformation/</guid>
+      <guid>https://franciscorowe.github.io/project/covid19_misinformation/</guid>
       <description>&lt;p&gt;The project will generate fundamental and timely evidence for how misinformation and fake news spreads across media platforms in the UK, and how this impacts experiences of discrimination associated with Covid-19. Novel text mining and data science approaches will be applied to investigate patterns in the reporting of Covid-19 in the news/media, as well as across social media. We will identify the structure of terminology used in how Covid-19 is reported, including measuring the use of emotion of language through sentiment analysis. Network science techniques will study the flows of information across social media to identify how they spread, as well identify leverage points to stem flows.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The occupational trajectories and outcomes of forced migrants in Sweden. Entrepreneurship, employment or persistent inactivity?</title>
-      <link>/publication/sme2020/</link>
+      <link>https://franciscorowe.github.io/publication/sme2020/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/sme2020/</guid>
+      <guid>https://franciscorowe.github.io/publication/sme2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensing global patterns and trajectories of socio-economic inequality</title>
-      <link>/project/sensing_inequalities/</link>
+      <link>https://franciscorowe.github.io/project/sensing_inequalities/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/project/sensing_inequalities/</guid>
+      <guid>https://franciscorowe.github.io/project/sensing_inequalities/</guid>
       <description>&lt;p&gt;This project seeks to quantify and analyse the evolution of spatial inequality across the globe using machine learning and satellite imagery. Preliminary findings reveal marked patterns of inequality. Intense presence of rich urban agglomerations in developed regions with large land consumption, intense public illumination, and high population density, particularly prominent across the US and Europe. Deprived areas with dense urban centres and limited illumination, or densely inhabited rural areas with presence of electrification prevail in rural parts of India. Poor regions with diffuse but high dense settlement infrastructure and scarce illumination are predominant across parts of rural China.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Measuring Urban Forest Using Street-Level Imagery and Deep Learning</title>
-      <link>/talk/ati2019/</link>
+      <link>https://franciscorowe.github.io/talk/ati2019/</link>
       <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
-      <guid>/talk/ati2019/</guid>
+      <guid>https://franciscorowe.github.io/talk/ati2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding and Predicting the Long-term Labour Market and Migration Trajectories of Immigrants and Their Children in the United Kingdom</title>
-      <link>/project/immigrants_trajectories/</link>
+      <link>https://franciscorowe.github.io/project/immigrants_trajectories/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/immigrants_trajectories/</guid>
+      <guid>https://franciscorowe.github.io/project/immigrants_trajectories/</guid>
       <description>&lt;p&gt;Prior empirical research has advanced our understanding of immigrants’ assimilation, their descendants and the role of ethnic concentration. Yet work has remained cross-sectional in nature, focusing on the occupational outcomes and residential locations at a specific point in time. Little progress has been made to understand the trajectories of immigrants and their children over a long period of time. Understanding of the long-term trajectories of immigrants and their children is key to assess their prospects for economic and social success, and develop effective policy interventions to assist their integration process, unleash their skills’ potential and facilitate upward social mobility.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Using large scale social media data to measure perceptions towards immigration</title>
-      <link>/project/bigdata_perception/</link>
+      <link>https://franciscorowe.github.io/project/bigdata_perception/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/bigdata_perception/</guid>
+      <guid>https://franciscorowe.github.io/project/bigdata_perception/</guid>
       <description>&lt;p&gt;I have been nominated as an expert and project leader for the upcoming BIGSSS Summer School in Computational Social Science on Social Cohesion in Groningen, Netherlands.
 &lt;a href=&#34;https://bigsss-css.jacobs-university.de/&#34;&gt;https://bigsss-css.jacobs-university.de/&lt;/a&gt;. I will be leading a project on using twitter data and computational approaches to measure social cohesion and attitudes towards immigration. The project seeks to offer participants of the BIGSSS Summer Schools in Computational Social Science the opportunity to build on our experience in the use of Twitter data and machine learning to model and enhance the understanding of social cohesion and attitudes towards immigration.&lt;/p&gt;
 </description>
@@ -67,35 +67,35 @@
     
     <item>
       <title>A Hierarchical Urban Forest Index Using Street-Level Imagery and Deep Learning</title>
-      <link>/publication/rs2019/</link>
+      <link>https://franciscorowe.github.io/publication/rs2019/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rs2019/</guid>
+      <guid>https://franciscorowe.github.io/publication/rs2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating Global Bilateral Migration Flows</title>
-      <link>/project/estimating_migration/</link>
+      <link>https://franciscorowe.github.io/project/estimating_migration/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/project/estimating_migration/</guid>
+      <guid>https://franciscorowe.github.io/project/estimating_migration/</guid>
       <description>&lt;p&gt;This project aims to generate annual country-to-country migration estimates across the world. Keep posted for further details.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Using satellite imagery to measure the evolution of cities</title>
-      <link>/project/satellite_cities/</link>
+      <link>https://franciscorowe.github.io/project/satellite_cities/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/project/satellite_cities/</guid>
+      <guid>https://franciscorowe.github.io/project/satellite_cities/</guid>
       <description>&lt;p&gt;Sustainable urban habitats are a key component of global challenges, and efficient management and planning of cities are pivotal to all 17 UN SDGs. Over 90% of projected urban growth by 2050 will occur in less developed countries. Prior work on urbanisation has identified the benefits of agglomeration and improvements in health and education, which tend to outweigh the costs of congestion, pollution and poverty. Yet research has focused on Western cities: urban areas with high-income, in developed countries. Much less is known about urban habitats in less developed countries. This project aims to improve our understanding of urban areas levearing on large scale satellite imagery and machine learning.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The returns to migration and human capital accumulation pathways. non-metropolitan youth in the school-to-work transition</title>
-      <link>/publication/ars2017/</link>
+      <link>https://franciscorowe.github.io/publication/ars2017/</link>
       <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/ars2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/ars2017/</guid>
       <description></description>
     </item>
     

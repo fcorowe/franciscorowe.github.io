@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Counterfactual Treatment | Academic</title>
-    <link>/tags/counterfactual-treatment/</link>
-      <atom:link href="/tags/counterfactual-treatment/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/counterfactual-treatment/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/counterfactual-treatment/index.xml" rel="self" type="application/rss+xml" />
     <description>Counterfactual Treatment</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Counterfactual Treatment</title>
-      <link>/tags/counterfactual-treatment/</link>
+      <link>https://franciscorowe.github.io/tags/counterfactual-treatment/</link>
     </image>
     
     <item>
       <title>The role of migration on education-job mismatch. Evidence from overseas graduates in Australia</title>
-      <link>/publication/bookcp2017/</link>
+      <link>https://franciscorowe.github.io/publication/bookcp2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/bookcp2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/bookcp2017/</guid>
       <description></description>
     </item>
     

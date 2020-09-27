@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Statistics | Academic</title>
-    <link>/tags/r-statistics/</link>
-      <atom:link href="/tags/r-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/r-statistics/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/r-statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>R Statistics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>R Statistics</title>
-      <link>/tags/r-statistics/</link>
+      <link>https://franciscorowe.github.io/tags/r-statistics/</link>
     </image>
     
     <item>
       <title>R Package CIM Compositional Impact of Migration</title>
-      <link>/publication/rcim2019/</link>
+      <link>https://franciscorowe.github.io/publication/rcim2019/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rcim2019/</guid>
+      <guid>https://franciscorowe.github.io/publication/rcim2019/</guid>
       <description></description>
     </item>
     

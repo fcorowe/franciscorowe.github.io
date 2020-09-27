@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neighbourhood Change | Academic</title>
-    <link>/tags/neighbourhood-change/</link>
-      <atom:link href="/tags/neighbourhood-change/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/neighbourhood-change/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/neighbourhood-change/index.xml" rel="self" type="application/rss+xml" />
     <description>Neighbourhood Change</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Neighbourhood Change</title>
-      <link>/tags/neighbourhood-change/</link>
+      <link>https://franciscorowe.github.io/tags/neighbourhood-change/</link>
     </image>
     
     <item>
       <title>Neighbourhood change and trajectories of inequality in Britain, 1971-2011</title>
-      <link>/publication/uk20702020/</link>
+      <link>https://franciscorowe.github.io/publication/uk20702020/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/uk20702020/</guid>
+      <guid>https://franciscorowe.github.io/publication/uk20702020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbourhood change and trajectories of inequality in Britain, 1971-2011</title>
-      <link>/publication/policybrief2018/</link>
+      <link>https://franciscorowe.github.io/publication/policybrief2018/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/policybrief2018/</guid>
+      <guid>https://franciscorowe.github.io/publication/policybrief2018/</guid>
       <description></description>
     </item>
     

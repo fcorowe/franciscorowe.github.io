@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Sigler | Academic</title>
-    <link>/authors/thomas-sigler/</link>
-      <atom:link href="/authors/thomas-sigler/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/authors/thomas-sigler/</link>
+      <atom:link href="https://franciscorowe.github.io/authors/thomas-sigler/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Sigler</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Tue, 05 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Thomas Sigler</title>
-      <link>/authors/thomas-sigler/</link>
+      <link>https://franciscorowe.github.io/authors/thomas-sigler/</link>
     </image>
     
     <item>
       <title>Spatial Mobility Patterns of Overseas Graduates in Australia</title>
-      <link>/publication/bookcp2016_2/</link>
+      <link>https://franciscorowe.github.io/publication/bookcp2016_2/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/bookcp2016_2/</guid>
+      <guid>https://franciscorowe.github.io/publication/bookcp2016_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Where are the overseas graduates staying on? Overseas graduate migration and rural attachment in Australia</title>
-      <link>/publication/ag2014/</link>
+      <link>https://franciscorowe.github.io/publication/ag2014/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/ag2014/</guid>
+      <guid>https://franciscorowe.github.io/publication/ag2014/</guid>
       <description></description>
     </item>
     

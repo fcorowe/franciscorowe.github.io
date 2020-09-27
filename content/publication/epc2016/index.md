@@ -23,7 +23,7 @@ tags:
 - Graduate Migration
 - Human Capital
 - Graduate-skilled Visa
-- Australia.
+- Australia
 - Regional Development
 title: Evaluating the effects of Australian policy changes on human capital. The role of a graduate visa scheme
 url_code: ""

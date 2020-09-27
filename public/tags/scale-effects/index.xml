@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scale Effects | Academic</title>
-    <link>/tags/scale-effects/</link>
-      <atom:link href="/tags/scale-effects/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/scale-effects/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/scale-effects/index.xml" rel="self" type="application/rss+xml" />
     <description>Scale Effects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 30 Aug 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Scale Effects</title>
-      <link>/tags/scale-effects/</link>
+      <link>https://franciscorowe.github.io/tags/scale-effects/</link>
     </image>
     
     <item>
       <title>Measuring the Impact of Internal Migration on Population Redistribution in Europe</title>
-      <link>/publication/ersa2017/</link>
+      <link>https://franciscorowe.github.io/publication/ersa2017/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/ersa2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/ersa2017/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Population Ageing | Academic</title>
-    <link>/tags/population-ageing/</link>
-      <atom:link href="/tags/population-ageing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/population-ageing/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/population-ageing/index.xml" rel="self" type="application/rss+xml" />
     <description>Population Ageing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Population Ageing</title>
-      <link>/tags/population-ageing/</link>
+      <link>https://franciscorowe.github.io/tags/population-ageing/</link>
     </image>
     
     <item>
       <title>Projecting the demographic impact of Syrian migration in a rapidly ageing society, Germany</title>
-      <link>/publication/jgs2019/</link>
+      <link>https://franciscorowe.github.io/publication/jgs2019/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/jgs2019/</guid>
+      <guid>https://franciscorowe.github.io/publication/jgs2019/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;

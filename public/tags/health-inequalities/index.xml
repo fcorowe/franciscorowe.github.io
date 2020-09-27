@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health Inequalities | Academic</title>
-    <link>/tags/health-inequalities/</link>
-      <atom:link href="/tags/health-inequalities/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/health-inequalities/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/health-inequalities/index.xml" rel="self" type="application/rss+xml" />
     <description>Health Inequalities</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Health Inequalities</title>
-      <link>/tags/health-inequalities/</link>
+      <link>https://franciscorowe.github.io/tags/health-inequalities/</link>
     </image>
     
     <item>
       <title>Social determinants of multimorbidity and multiple functional limitations among the ageing population of England, 2002–2015</title>
-      <link>/publication/ssm2019/</link>
+      <link>https://franciscorowe.github.io/publication/ssm2019/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ssm2019/</guid>
+      <guid>https://franciscorowe.github.io/publication/ssm2019/</guid>
       <description></description>
     </item>
     
