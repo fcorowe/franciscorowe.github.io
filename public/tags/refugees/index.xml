@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Refugees | Academic</title>
-    <link>https://franciscorowe.github.io/tags/refugees/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/refugees/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/refugees/</link>
+      <atom:link href="/tags/refugees/index.xml" rel="self" type="application/rss+xml" />
     <description>Refugees</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Refugees</title>
-      <link>https://franciscorowe.github.io/tags/refugees/</link>
+      <link>/tags/refugees/</link>
     </image>
     
     <item>
       <title>The occupational trajectories and outcomes of forced migrants in Sweden. Entrepreneurship, employment or persistent inactivity?</title>
-      <link>https://franciscorowe.github.io/publication/sme2020/</link>
+      <link>/publication/sme2020/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/sme2020/</guid>
+      <guid>/publication/sme2020/</guid>
       <description></description>
     </item>
     

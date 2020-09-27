@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neighborhood Change | Academic</title>
-    <link>https://franciscorowe.github.io/tags/neighborhood-change/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/neighborhood-change/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/neighborhood-change/</link>
+      <atom:link href="/tags/neighborhood-change/index.xml" rel="self" type="application/rss+xml" />
     <description>Neighborhood Change</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Neighborhood Change</title>
-      <link>https://franciscorowe.github.io/tags/neighborhood-change/</link>
+      <link>/tags/neighborhood-change/</link>
     </image>
     
     <item>
       <title>A Scalable Analytical Framework for Spatio-Temporal Analysis of Neighborhood Change A Sequence Analysis Approach</title>
-      <link>https://franciscorowe.github.io/publication/agile2019/</link>
+      <link>/publication/agile2019/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/agile2019/</guid>
+      <guid>/publication/agile2019/</guid>
       <description></description>
     </item>
     

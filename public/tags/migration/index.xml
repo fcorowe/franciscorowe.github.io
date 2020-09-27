@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Migration | Academic</title>
-    <link>https://franciscorowe.github.io/tags/migration/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/migration/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/migration/</link>
+      <atom:link href="/tags/migration/index.xml" rel="self" type="application/rss+xml" />
     <description>Migration</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Migration</title>
-      <link>https://franciscorowe.github.io/tags/migration/</link>
+      <link>/tags/migration/</link>
     </image>
     
     <item>
       <title>Mapping The Impact of Internal Migration Across Europe</title>
-      <link>https://franciscorowe.github.io/post/2020-02-08-eu_netmigration_map/</link>
+      <link>/post/2020-02-08-eu_netmigration_map/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/post/2020-02-08-eu_netmigration_map/</guid>
+      <guid>/post/2020-02-08-eu_netmigration_map/</guid>
       <description>
-&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;net-internal-migration-rate-across-europe&#34; class=&#34;section level1&#34;&gt;
@@ -50,9 +50,9 @@
     
     <item>
       <title>Introducing the R Package CIM</title>
-      <link>https://franciscorowe.github.io/post/2019-01-31-r-rmarkdown/</link>
+      <link>/post/2019-01-31-r-rmarkdown/</link>
       <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>https://franciscorowe.github.io/post/2019-01-31-r-rmarkdown/</guid>
+      <guid>/post/2019-01-31-r-rmarkdown/</guid>
       <description>
 
 
@@ -122,26 +122,26 @@ library(tmap)&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Understanding and Predicting the Long-term Labour Market and Migration Trajectories of Immigrants and Their Children in the United Kingdom</title>
-      <link>https://franciscorowe.github.io/project/immigrants_trajectories/</link>
+      <link>/project/immigrants_trajectories/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/project/immigrants_trajectories/</guid>
+      <guid>/project/immigrants_trajectories/</guid>
       <description>&lt;p&gt;Prior empirical research has advanced our understanding of immigrants’ assimilation, their descendants and the role of ethnic concentration. Yet work has remained cross-sectional in nature, focusing on the occupational outcomes and residential locations at a specific point in time. Little progress has been made to understand the trajectories of immigrants and their children over a long period of time. Understanding of the long-term trajectories of immigrants and their children is key to assess their prospects for economic and social success, and develop effective policy interventions to assist their integration process, unleash their skills’ potential and facilitate upward social mobility.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Migration, Cities &amp; Big Data</title>
-      <link>https://franciscorowe.github.io/talk/un2019/</link>
+      <link>/talk/un2019/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/talk/un2019/</guid>
+      <guid>/talk/un2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using large scale social media data to measure perceptions towards immigration</title>
-      <link>https://franciscorowe.github.io/project/bigdata_perception/</link>
+      <link>/project/bigdata_perception/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/project/bigdata_perception/</guid>
+      <guid>/project/bigdata_perception/</guid>
       <description>&lt;p&gt;I have been nominated as an expert and project leader for the upcoming BIGSSS Summer School in Computational Social Science on Social Cohesion in Groningen, Netherlands.
 &lt;a href=&#34;https://bigsss-css.jacobs-university.de/&#34;&gt;https://bigsss-css.jacobs-university.de/&lt;/a&gt;. I will be leading a project on using twitter data and computational approaches to measure social cohesion and attitudes towards immigration. The project seeks to offer participants of the BIGSSS Summer Schools in Computational Social Science the opportunity to build on our experience in the use of Twitter data and machine learning to model and enhance the understanding of social cohesion and attitudes towards immigration.&lt;/p&gt;
 </description>
@@ -149,42 +149,42 @@ library(tmap)&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Estimating Global Bilateral Migration Flows</title>
-      <link>https://franciscorowe.github.io/project/estimating_migration/</link>
+      <link>/project/estimating_migration/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/project/estimating_migration/</guid>
+      <guid>/project/estimating_migration/</guid>
       <description>&lt;p&gt;This project aims to generate annual country-to-country migration estimates across the world. Keep posted for further details.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Special issue on youth and graduate migration</title>
-      <link>https://franciscorowe.github.io/publication/ars2017ed/</link>
+      <link>/publication/ars2017ed/</link>
       <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ars2017ed/</guid>
+      <guid>/publication/ars2017ed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The returns to migration and human capital accumulation pathways. non-metropolitan youth in the school-to-work transition</title>
-      <link>https://franciscorowe.github.io/publication/ars2017/</link>
+      <link>/publication/ars2017/</link>
       <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ars2017/</guid>
+      <guid>/publication/ars2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Where are the overseas graduates staying on? Overseas graduate migration and rural attachment in Australia</title>
-      <link>https://franciscorowe.github.io/publication/ag2014/</link>
+      <link>/publication/ag2014/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ag2014/</guid>
+      <guid>/publication/ag2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobility Patterns of Overseas Human Capital in Australia. The role of a ‘new’ graduate visa scheme and rural development policy</title>
-      <link>https://franciscorowe.github.io/publication/ag2013/</link>
+      <link>/publication/ag2013/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ag2013/</guid>
+      <guid>/publication/ag2013/</guid>
       <description></description>
     </item>
     

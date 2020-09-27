@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economic Geohgraphy | Academic</title>
-    <link>https://franciscorowe.github.io/tags/economic-geohgraphy/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/economic-geohgraphy/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/economic-geohgraphy/</link>
+      <atom:link href="/tags/economic-geohgraphy/index.xml" rel="self" type="application/rss+xml" />
     <description>Economic Geohgraphy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Economic Geohgraphy</title>
-      <link>https://franciscorowe.github.io/tags/economic-geohgraphy/</link>
+      <link>/tags/economic-geohgraphy/</link>
     </image>
     
     <item>
       <title>The drivers of long-distance commuting in Chile. The role of spatial distribution of economic activities</title>
-      <link>https://franciscorowe.github.io/publication/bookcp2020_1/</link>
+      <link>/publication/bookcp2020_1/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/bookcp2020_1/</guid>
+      <guid>/publication/bookcp2020_1/</guid>
       <description></description>
     </item>
     

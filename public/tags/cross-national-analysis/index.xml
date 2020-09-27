@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cross-national Analysis | Academic</title>
-    <link>https://franciscorowe.github.io/tags/cross-national-analysis/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/cross-national-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/cross-national-analysis/</link>
+      <atom:link href="/tags/cross-national-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Cross-national Analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Cross-national Analysis</title>
-      <link>https://franciscorowe.github.io/tags/cross-national-analysis/</link>
+      <link>/tags/cross-national-analysis/</link>
     </image>
     
     <item>
       <title>Impact of internal migration on population redistribution in Europe Urbanisation, counterurbanisation or spatial equilibrium?</title>
-      <link>https://franciscorowe.github.io/publication/cpos2019/</link>
+      <link>/publication/cpos2019/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/cpos2019/</guid>
+      <guid>/publication/cpos2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring the Impact of Internal Migration on Population Redistribution in Europe</title>
-      <link>https://franciscorowe.github.io/publication/ersa2017/</link>
+      <link>/publication/ersa2017/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ersa2017/</guid>
+      <guid>/publication/ersa2017/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mapping | Academic</title>
-    <link>https://franciscorowe.github.io/tags/mapping/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/mapping/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/mapping/</link>
+      <atom:link href="/tags/mapping/index.xml" rel="self" type="application/rss+xml" />
     <description>Mapping</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Mapping</title>
-      <link>https://franciscorowe.github.io/tags/mapping/</link>
+      <link>/tags/mapping/</link>
     </image>
     
     <item>
       <title>Mapping The Spatial Patterns of Internal Migration in Europe</title>
-      <link>https://franciscorowe.github.io/publication/rsrs2020/</link>
+      <link>/publication/rsrs2020/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/rsrs2020/</guid>
+      <guid>/publication/rsrs2020/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Household Wealth | Academic</title>
-    <link>https://franciscorowe.github.io/tags/household-wealth/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/household-wealth/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/household-wealth/</link>
+      <atom:link href="/tags/household-wealth/index.xml" rel="self" type="application/rss+xml" />
     <description>Household Wealth</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Household Wealth</title>
-      <link>https://franciscorowe.github.io/tags/household-wealth/</link>
+      <link>/tags/household-wealth/</link>
     </image>
     
     <item>
       <title>Trends in multimorbidity, complex multimorbidity and multiple functional limitations in the ageing population of England, 2002–2015</title>
-      <link>https://franciscorowe.github.io/publication/jc2019/</link>
+      <link>/publication/jc2019/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/jc2019/</guid>
+      <guid>/publication/jc2019/</guid>
       <description></description>
     </item>
     

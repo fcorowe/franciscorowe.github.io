@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Academic</title>
-    <link>https://franciscorowe.github.io/publication_types/3/</link>
-      <atom:link href="https://franciscorowe.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/3/</link>
+      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>3</title>
-      <link>https://franciscorowe.github.io/publication_types/3/</link>
+      <link>/publication_types/3/</link>
     </image>
     
     <item>
       <title>The drivers of long-distance commuting in Chile. The role of spatial distribution of economic activities</title>
-      <link>https://franciscorowe.github.io/publication/bookcp2020_1/</link>
+      <link>/publication/bookcp2020_1/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/bookcp2020_1/</guid>
+      <guid>/publication/bookcp2020_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The occupational trajectories and outcomes of forced migrants in Sweden. Entrepreneurship, employment or persistent inactivity?</title>
-      <link>https://franciscorowe.github.io/publication/sme2020/</link>
+      <link>/publication/sme2020/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/sme2020/</guid>
+      <guid>/publication/sme2020/</guid>
       <description></description>
     </item>
     

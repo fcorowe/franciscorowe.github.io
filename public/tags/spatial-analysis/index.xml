@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spatial Analysis | Academic</title>
-    <link>https://franciscorowe.github.io/tags/spatial-analysis/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/spatial-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/spatial-analysis/</link>
+      <atom:link href="/tags/spatial-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Spatial Analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Spatial Analysis</title>
-      <link>https://franciscorowe.github.io/tags/spatial-analysis/</link>
+      <link>/tags/spatial-analysis/</link>
     </image>
     
     <item>
       <title>Mapping The Impact of Internal Migration Across Europe</title>
-      <link>https://franciscorowe.github.io/post/2020-02-08-eu_netmigration_map/</link>
+      <link>/post/2020-02-08-eu_netmigration_map/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/post/2020-02-08-eu_netmigration_map/</guid>
+      <guid>/post/2020-02-08-eu_netmigration_map/</guid>
       <description>
-&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;net-internal-migration-rate-across-europe&#34; class=&#34;section level1&#34;&gt;

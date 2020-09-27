@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development | Academic</title>
-    <link>https://franciscorowe.github.io/tags/development/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/development/</link>
+      <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <description>Development</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 30 Aug 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Development</title>
-      <link>https://franciscorowe.github.io/tags/development/</link>
+      <link>/tags/development/</link>
     </image>
     
     <item>
       <title>Measuring the Impact of Internal Migration on Population Redistribution in Europe</title>
-      <link>https://franciscorowe.github.io/publication/ersa2017/</link>
+      <link>/publication/ersa2017/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ersa2017/</guid>
+      <guid>/publication/ersa2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing internal migration across the countries of Latin America. A multidimensional approach</title>
-      <link>https://franciscorowe.github.io/publication/plosone2017/</link>
+      <link>/publication/plosone2017/</link>
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/plosone2017/</guid>
+      <guid>/publication/plosone2017/</guid>
       <description></description>
     </item>
     

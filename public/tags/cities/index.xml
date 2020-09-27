@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cities | Academic</title>
-    <link>https://franciscorowe.github.io/tags/cities/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/cities/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/cities/</link>
+      <atom:link href="/tags/cities/index.xml" rel="self" type="application/rss+xml" />
     <description>Cities</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 28 Aug 2019 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Cities</title>
-      <link>https://franciscorowe.github.io/tags/cities/</link>
+      <link>/tags/cities/</link>
     </image>
     
     <item>
       <title>Migration, Cities &amp; Big Data</title>
-      <link>https://franciscorowe.github.io/talk/un2019/</link>
+      <link>/talk/un2019/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/talk/un2019/</guid>
+      <guid>/talk/un2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using satellite imagery to measure the evolution of cities</title>
-      <link>https://franciscorowe.github.io/project/satellite_cities/</link>
+      <link>/project/satellite_cities/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/project/satellite_cities/</guid>
+      <guid>/project/satellite_cities/</guid>
       <description>&lt;p&gt;Sustainable urban habitats are a key component of global challenges, and efficient management and planning of cities are pivotal to all 17 UN SDGs. Over 90% of projected urban growth by 2050 will occur in less developed countries. Prior work on urbanisation has identified the benefits of agglomeration and improvements in health and education, which tend to outweigh the costs of congestion, pollution and poverty. Yet research has focused on Western cities: urban areas with high-income, in developed countries. Much less is known about urban habitats in less developed countries. This project aims to improve our understanding of urban areas levearing on large scale satellite imagery and machine learning.&lt;/p&gt;
 </description>
     </item>

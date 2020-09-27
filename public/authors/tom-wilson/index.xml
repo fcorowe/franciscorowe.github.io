@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tom Wilson | Academic</title>
-    <link>https://franciscorowe.github.io/authors/tom-wilson/</link>
-      <atom:link href="https://franciscorowe.github.io/authors/tom-wilson/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/tom-wilson/</link>
+      <atom:link href="/authors/tom-wilson/index.xml" rel="self" type="application/rss+xml" />
     <description>Tom Wilson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Tom Wilson</title>
-      <link>https://franciscorowe.github.io/authors/tom-wilson/</link>
+      <link>/authors/tom-wilson/</link>
     </image>
     
     <item>
       <title>Insights from the evaluation of past local area population forecasts</title>
-      <link>https://franciscorowe.github.io/publication/prpr2018/</link>
+      <link>/publication/prpr2018/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/prpr2018/</guid>
+      <guid>/publication/prpr2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The forecast accuracy of local government area population projections. A case study of Queensland</title>
-      <link>https://franciscorowe.github.io/publication/ajrs2011/</link>
+      <link>/publication/ajrs2011/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ajrs2011/</guid>
+      <guid>/publication/ajrs2011/</guid>
       <description></description>
     </item>
     

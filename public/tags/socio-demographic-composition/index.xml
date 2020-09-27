@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Socio-demographic composition | Academic</title>
-    <link>https://franciscorowe.github.io/tags/socio-demographic-composition/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/socio-demographic-composition/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/socio-demographic-composition/</link>
+      <atom:link href="/tags/socio-demographic-composition/index.xml" rel="self" type="application/rss+xml" />
     <description>Socio-demographic composition</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Socio-demographic composition</title>
-      <link>https://franciscorowe.github.io/tags/socio-demographic-composition/</link>
+      <link>/tags/socio-demographic-composition/</link>
     </image>
     
     <item>
       <title>How is internal migration reshaping metropolitan populations in Latin America? A new method and new evidence</title>
-      <link>https://franciscorowe.github.io/publication/ps2018/</link>
+      <link>/publication/ps2018/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ps2018/</guid>
+      <guid>/publication/ps2018/</guid>
       <description></description>
     </item>
     

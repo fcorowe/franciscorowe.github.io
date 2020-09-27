@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fractional Response Model | Academic</title>
-    <link>https://franciscorowe.github.io/tags/fractional-response-model/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/fractional-response-model/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/fractional-response-model/</link>
+      <atom:link href="/tags/fractional-response-model/index.xml" rel="self" type="application/rss+xml" />
     <description>Fractional Response Model</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Fractional Response Model</title>
-      <link>https://franciscorowe.github.io/tags/fractional-response-model/</link>
+      <link>/tags/fractional-response-model/</link>
     </image>
     
     <item>
       <title>The forecast accuracy of local government area population projections. A case study of Queensland</title>
-      <link>https://franciscorowe.github.io/publication/ajrs2011/</link>
+      <link>/publication/ajrs2011/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ajrs2011/</guid>
+      <guid>/publication/ajrs2011/</guid>
       <description></description>
     </item>
     

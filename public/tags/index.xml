@@ -2,1093 +2,1093 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Academic</title>
-    <link>https://franciscorowe.github.io/tags/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://franciscorowe.github.io/tags/</link>
+      <link>/tags/</link>
     </image>
     
     <item>
       <title>Europe</title>
-      <link>https://franciscorowe.github.io/tags/europe/</link>
+      <link>/tags/europe/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/europe/</guid>
+      <guid>/tags/europe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flows</title>
-      <link>https://franciscorowe.github.io/tags/flows/</link>
+      <link>/tags/flows/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/flows/</guid>
+      <guid>/tags/flows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Migration</title>
-      <link>https://franciscorowe.github.io/tags/internal-migration/</link>
+      <link>/tags/internal-migration/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/internal-migration/</guid>
+      <guid>/tags/internal-migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapbox</title>
-      <link>https://franciscorowe.github.io/tags/mapbox/</link>
+      <link>/tags/mapbox/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/mapbox/</guid>
+      <guid>/tags/mapbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping</title>
-      <link>https://franciscorowe.github.io/tags/mapping/</link>
+      <link>/tags/mapping/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/mapping/</guid>
+      <guid>/tags/mapping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>https://franciscorowe.github.io/tags/machine-learning/</link>
+      <link>/tags/machine-learning/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/machine-learning/</guid>
+      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural Language Processing</title>
-      <link>https://franciscorowe.github.io/tags/natural-language-processing/</link>
+      <link>/tags/natural-language-processing/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/natural-language-processing/</guid>
+      <guid>/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Analysis</title>
-      <link>https://franciscorowe.github.io/tags/network-analysis/</link>
+      <link>/tags/network-analysis/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/network-analysis/</guid>
+      <guid>/tags/network-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twitter Data</title>
-      <link>https://franciscorowe.github.io/tags/twitter-data/</link>
+      <link>/tags/twitter-data/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/twitter-data/</guid>
+      <guid>/tags/twitter-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Notebooks</title>
-      <link>https://franciscorowe.github.io/tags/computational-notebooks/</link>
+      <link>/tags/computational-notebooks/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/computational-notebooks/</guid>
+      <guid>/tags/computational-notebooks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Replicability</title>
-      <link>https://franciscorowe.github.io/tags/replicability/</link>
+      <link>/tags/replicability/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/replicability/</guid>
+      <guid>/tags/replicability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reproducibility</title>
-      <link>https://franciscorowe.github.io/tags/reproducibility/</link>
+      <link>/tags/reproducibility/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/reproducibility/</guid>
+      <guid>/tags/reproducibility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Britain</title>
-      <link>https://franciscorowe.github.io/tags/britain/</link>
+      <link>/tags/britain/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/britain/</guid>
+      <guid>/tags/britain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal Trajectories</title>
-      <link>https://franciscorowe.github.io/tags/longitudinal-trajectories/</link>
+      <link>/tags/longitudinal-trajectories/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/longitudinal-trajectories/</guid>
+      <guid>/tags/longitudinal-trajectories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbourhood Change</title>
-      <link>https://franciscorowe.github.io/tags/neighbourhood-change/</link>
+      <link>/tags/neighbourhood-change/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/neighbourhood-change/</guid>
+      <guid>/tags/neighbourhood-change/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regional Development</title>
-      <link>https://franciscorowe.github.io/tags/regional-development/</link>
+      <link>/tags/regional-development/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/regional-development/</guid>
+      <guid>/tags/regional-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequence Analysis</title>
-      <link>https://franciscorowe.github.io/tags/sequence-analysis/</link>
+      <link>/tags/sequence-analysis/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/sequence-analysis/</guid>
+      <guid>/tags/sequence-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Inequality</title>
-      <link>https://franciscorowe.github.io/tags/spatial-inequality/</link>
+      <link>/tags/spatial-inequality/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/spatial-inequality/</guid>
+      <guid>/tags/spatial-inequality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chile</title>
-      <link>https://franciscorowe.github.io/tags/chile/</link>
+      <link>/tags/chile/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/chile/</guid>
+      <guid>/tags/chile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Economic Geohgraphy</title>
-      <link>https://franciscorowe.github.io/tags/economic-geohgraphy/</link>
+      <link>/tags/economic-geohgraphy/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/economic-geohgraphy/</guid>
+      <guid>/tags/economic-geohgraphy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-distance Commuting</title>
-      <link>https://franciscorowe.github.io/tags/long-distance-commuting/</link>
+      <link>/tags/long-distance-commuting/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/long-distance-commuting/</guid>
+      <guid>/tags/long-distance-commuting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mining Extractive Industries</title>
-      <link>https://franciscorowe.github.io/tags/mining-extractive-industries/</link>
+      <link>/tags/mining-extractive-industries/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/mining-extractive-industries/</guid>
+      <guid>/tags/mining-extractive-industries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Labour Markets</title>
-      <link>https://franciscorowe.github.io/tags/spatial-labour-markets/</link>
+      <link>/tags/spatial-labour-markets/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/spatial-labour-markets/</guid>
+      <guid>/tags/spatial-labour-markets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migration</title>
-      <link>https://franciscorowe.github.io/tags/migration/</link>
+      <link>/tags/migration/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/migration/</guid>
+      <guid>/tags/migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Analysis</title>
-      <link>https://franciscorowe.github.io/tags/spatial-analysis/</link>
+      <link>/tags/spatial-analysis/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/spatial-analysis/</guid>
+      <guid>/tags/spatial-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Impact</title>
-      <link>https://franciscorowe.github.io/tags/spatial-impact/</link>
+      <link>/tags/spatial-impact/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/spatial-impact/</guid>
+      <guid>/tags/spatial-impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Australia</title>
-      <link>https://franciscorowe.github.io/tags/australia/</link>
+      <link>/tags/australia/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/australia/</guid>
+      <guid>/tags/australia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forced Migration</title>
-      <link>https://franciscorowe.github.io/tags/forced-migration/</link>
+      <link>/tags/forced-migration/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/forced-migration/</guid>
+      <guid>/tags/forced-migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graduate migration</title>
-      <link>https://franciscorowe.github.io/tags/graduate-migration/</link>
+      <link>/tags/graduate-migration/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/graduate-migration/</guid>
+      <guid>/tags/graduate-migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>International Students</title>
-      <link>https://franciscorowe.github.io/tags/international-students/</link>
+      <link>/tags/international-students/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/international-students/</guid>
+      <guid>/tags/international-students/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Labor Market Integration</title>
-      <link>https://franciscorowe.github.io/tags/labor-market-integration/</link>
+      <link>/tags/labor-market-integration/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/labor-market-integration/</guid>
+      <guid>/tags/labor-market-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Labour Market Integration</title>
-      <link>https://franciscorowe.github.io/tags/labour-market-integration/</link>
+      <link>/tags/labour-market-integration/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/labour-market-integration/</guid>
+      <guid>/tags/labour-market-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal Career Trajectories</title>
-      <link>https://franciscorowe.github.io/tags/longitudinal-career-trajectories/</link>
+      <link>/tags/longitudinal-career-trajectories/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/longitudinal-career-trajectories/</guid>
+      <guid>/tags/longitudinal-career-trajectories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overseas graduates</title>
-      <link>https://franciscorowe.github.io/tags/overseas-graduates/</link>
+      <link>/tags/overseas-graduates/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/overseas-graduates/</guid>
+      <guid>/tags/overseas-graduates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Refugees</title>
-      <link>https://franciscorowe.github.io/tags/refugees/</link>
+      <link>/tags/refugees/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/refugees/</guid>
+      <guid>/tags/refugees/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skills Mismatch</title>
-      <link>https://franciscorowe.github.io/tags/skills-mismatch/</link>
+      <link>/tags/skills-mismatch/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/skills-mismatch/</guid>
+      <guid>/tags/skills-mismatch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sweden</title>
-      <link>https://franciscorowe.github.io/tags/sweden/</link>
+      <link>/tags/sweden/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/sweden/</guid>
+      <guid>/tags/sweden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inequality</title>
-      <link>https://franciscorowe.github.io/tags/inequality/</link>
+      <link>/tags/inequality/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/inequality/</guid>
+      <guid>/tags/inequality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Satellite Imagery</title>
-      <link>https://franciscorowe.github.io/tags/satellite-imagery/</link>
+      <link>/tags/satellite-imagery/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/satellite-imagery/</guid>
+      <guid>/tags/satellite-imagery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-national Analysis</title>
-      <link>https://franciscorowe.github.io/tags/cross-national-analysis/</link>
+      <link>/tags/cross-national-analysis/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/cross-national-analysis/</guid>
+      <guid>/tags/cross-national-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAUP</title>
-      <link>https://franciscorowe.github.io/tags/maup/</link>
+      <link>/tags/maup/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/maup/</guid>
+      <guid>/tags/maup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Population Redistribution</title>
-      <link>https://franciscorowe.github.io/tags/population-redistribution/</link>
+      <link>/tags/population-redistribution/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/population-redistribution/</guid>
+      <guid>/tags/population-redistribution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://franciscorowe.github.io/tags/deep-learning/</link>
+      <link>/tags/deep-learning/</link>
       <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/deep-learning/</guid>
+      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google Street View Imagery</title>
-      <link>https://franciscorowe.github.io/tags/google-street-view-imagery/</link>
+      <link>/tags/google-street-view-imagery/</link>
       <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/google-street-view-imagery/</guid>
+      <guid>/tags/google-street-view-imagery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multilevel Modelling</title>
-      <link>https://franciscorowe.github.io/tags/multilevel-modelling/</link>
+      <link>/tags/multilevel-modelling/</link>
       <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/multilevel-modelling/</guid>
+      <guid>/tags/multilevel-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://franciscorowe.github.io/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>https://franciscorowe.github.io/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immigrants</title>
-      <link>https://franciscorowe.github.io/tags/immigrants/</link>
+      <link>/tags/immigrants/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/immigrants/</guid>
+      <guid>/tags/immigrants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immigration</title>
-      <link>https://franciscorowe.github.io/tags/immigration/</link>
+      <link>/tags/immigration/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/immigration/</guid>
+      <guid>/tags/immigration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Londitudinal Data</title>
-      <link>https://franciscorowe.github.io/tags/londitudinal-data/</link>
+      <link>/tags/londitudinal-data/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/londitudinal-data/</guid>
+      <guid>/tags/londitudinal-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>United Kingdom</title>
-      <link>https://franciscorowe.github.io/tags/united-kingdom/</link>
+      <link>/tags/united-kingdom/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/united-kingdom/</guid>
+      <guid>/tags/united-kingdom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cities</title>
-      <link>https://franciscorowe.github.io/tags/cities/</link>
+      <link>/tags/cities/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/cities/</guid>
+      <guid>/tags/cities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Economic Geography</title>
-      <link>https://franciscorowe.github.io/tags/economic-geography/</link>
+      <link>/tags/economic-geography/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/economic-geography/</guid>
+      <guid>/tags/economic-geography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Labour Market Areas</title>
-      <link>https://franciscorowe.github.io/tags/labour-market-areas/</link>
+      <link>/tags/labour-market-areas/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/labour-market-areas/</guid>
+      <guid>/tags/labour-market-areas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latin America</title>
-      <link>https://franciscorowe.github.io/tags/latin-america/</link>
+      <link>/tags/latin-america/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/latin-america/</guid>
+      <guid>/tags/latin-america/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuro-linguistic Programming</title>
-      <link>https://franciscorowe.github.io/tags/neuro-linguistic-programming/</link>
+      <link>/tags/neuro-linguistic-programming/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/neuro-linguistic-programming/</guid>
+      <guid>/tags/neuro-linguistic-programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trend Analysis</title>
-      <link>https://franciscorowe.github.io/tags/trend-analysis/</link>
+      <link>/tags/trend-analysis/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/trend-analysis/</guid>
+      <guid>/tags/trend-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ageing</title>
-      <link>https://franciscorowe.github.io/tags/ageing/</link>
+      <link>/tags/ageing/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/ageing/</guid>
+      <guid>/tags/ageing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Complex Multimorbidity</title>
-      <link>https://franciscorowe.github.io/tags/complex-multimorbidity/</link>
+      <link>/tags/complex-multimorbidity/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/complex-multimorbidity/</guid>
+      <guid>/tags/complex-multimorbidity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ELSA</title>
-      <link>https://franciscorowe.github.io/tags/elsa/</link>
+      <link>/tags/elsa/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/elsa/</guid>
+      <guid>/tags/elsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>England</title>
-      <link>https://franciscorowe.github.io/tags/england/</link>
+      <link>/tags/england/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/england/</guid>
+      <guid>/tags/england/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional Limitations</title>
-      <link>https://franciscorowe.github.io/tags/functional-limitations/</link>
+      <link>/tags/functional-limitations/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/functional-limitations/</guid>
+      <guid>/tags/functional-limitations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Household Wealth</title>
-      <link>https://franciscorowe.github.io/tags/household-wealth/</link>
+      <link>/tags/household-wealth/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/household-wealth/</guid>
+      <guid>/tags/household-wealth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimorbidity</title>
-      <link>https://franciscorowe.github.io/tags/multimorbidity/</link>
+      <link>/tags/multimorbidity/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/multimorbidity/</guid>
+      <guid>/tags/multimorbidity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Socioeconomic Status</title>
-      <link>https://franciscorowe.github.io/tags/socioeconomic-status/</link>
+      <link>/tags/socioeconomic-status/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/socioeconomic-status/</guid>
+      <guid>/tags/socioeconomic-status/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classification</title>
-      <link>https://franciscorowe.github.io/tags/classification/</link>
+      <link>/tags/classification/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/classification/</guid>
+      <guid>/tags/classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighborhood Change</title>
-      <link>https://franciscorowe.github.io/tags/neighborhood-change/</link>
+      <link>/tags/neighborhood-change/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/neighborhood-change/</guid>
+      <guid>/tags/neighborhood-change/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Population dynamics</title>
-      <link>https://franciscorowe.github.io/tags/population-dynamics/</link>
+      <link>/tags/population-dynamics/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/population-dynamics/</guid>
+      <guid>/tags/population-dynamics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatio-temporal Data Analysis</title>
-      <link>https://franciscorowe.github.io/tags/spatio-temporal-data-analysis/</link>
+      <link>/tags/spatio-temporal-data-analysis/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/spatio-temporal-data-analysis/</guid>
+      <guid>/tags/spatio-temporal-data-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Green Space</title>
-      <link>https://franciscorowe.github.io/tags/green-space/</link>
+      <link>/tags/green-space/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/green-space/</guid>
+      <guid>/tags/green-space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Segmentation</title>
-      <link>https://franciscorowe.github.io/tags/image-segmentation/</link>
+      <link>/tags/image-segmentation/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/image-segmentation/</guid>
+      <guid>/tags/image-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Street-level Imagery</title>
-      <link>https://franciscorowe.github.io/tags/street-level-imagery/</link>
+      <link>/tags/street-level-imagery/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/street-level-imagery/</guid>
+      <guid>/tags/street-level-imagery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Forestry</title>
-      <link>https://franciscorowe.github.io/tags/urban-forestry/</link>
+      <link>/tags/urban-forestry/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/urban-forestry/</guid>
+      <guid>/tags/urban-forestry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Health Inequalities</title>
-      <link>https://franciscorowe.github.io/tags/health-inequalities/</link>
+      <link>/tags/health-inequalities/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/health-inequalities/</guid>
+      <guid>/tags/health-inequalities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple Functional Limitations</title>
-      <link>https://franciscorowe.github.io/tags/multiple-functional-limitations/</link>
+      <link>/tags/multiple-functional-limitations/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/multiple-functional-limitations/</guid>
+      <guid>/tags/multiple-functional-limitations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Determinansts of Health</title>
-      <link>https://franciscorowe.github.io/tags/social-determinansts-of-health/</link>
+      <link>/tags/social-determinansts-of-health/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/social-determinansts-of-health/</guid>
+      <guid>/tags/social-determinansts-of-health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-validation</title>
-      <link>https://franciscorowe.github.io/tags/cross-validation/</link>
+      <link>/tags/cross-validation/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/cross-validation/</guid>
+      <guid>/tags/cross-validation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global</title>
-      <link>https://franciscorowe.github.io/tags/global/</link>
+      <link>/tags/global/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/global/</guid>
+      <guid>/tags/global/</guid>
       <description></description>
     </item>
     
     <item>
       <title>World</title>
-      <link>https://franciscorowe.github.io/tags/world/</link>
+      <link>/tags/world/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/world/</guid>
+      <guid>/tags/world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Probabilistic Projections</title>
-      <link>https://franciscorowe.github.io/tags/bayesian-probabilistic-projections/</link>
+      <link>/tags/bayesian-probabilistic-projections/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/bayesian-probabilistic-projections/</guid>
+      <guid>/tags/bayesian-probabilistic-projections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demographic Impacts</title>
-      <link>https://franciscorowe.github.io/tags/demographic-impacts/</link>
+      <link>/tags/demographic-impacts/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/demographic-impacts/</guid>
+      <guid>/tags/demographic-impacts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Germany</title>
-      <link>https://franciscorowe.github.io/tags/germany/</link>
+      <link>/tags/germany/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/germany/</guid>
+      <guid>/tags/germany/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Population Ageing</title>
-      <link>https://franciscorowe.github.io/tags/population-ageing/</link>
+      <link>/tags/population-ageing/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/population-ageing/</guid>
+      <guid>/tags/population-ageing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Population Decline</title>
-      <link>https://franciscorowe.github.io/tags/population-decline/</link>
+      <link>/tags/population-decline/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/population-decline/</guid>
+      <guid>/tags/population-decline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Refugee Migration</title>
-      <link>https://franciscorowe.github.io/tags/refugee-migration/</link>
+      <link>/tags/refugee-migration/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/refugee-migration/</guid>
+      <guid>/tags/refugee-migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Statistics</title>
-      <link>https://franciscorowe.github.io/tags/r-statistics/</link>
+      <link>/tags/r-statistics/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/r-statistics/</guid>
+      <guid>/tags/r-statistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Socio-economic Composition</title>
-      <link>https://franciscorowe.github.io/tags/socio-economic-composition/</link>
+      <link>/tags/socio-economic-composition/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/socio-economic-composition/</guid>
+      <guid>/tags/socio-economic-composition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Impacts</title>
-      <link>https://franciscorowe.github.io/tags/spatial-impacts/</link>
+      <link>/tags/spatial-impacts/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/spatial-impacts/</guid>
+      <guid>/tags/spatial-impacts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>https://franciscorowe.github.io/tags/education/</link>
+      <link>/tags/education/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/education/</guid>
+      <guid>/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Santiago</title>
-      <link>https://franciscorowe.github.io/tags/santiago/</link>
+      <link>/tags/santiago/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/santiago/</guid>
+      <guid>/tags/santiago/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migration Decline</title>
-      <link>https://franciscorowe.github.io/tags/migration-decline/</link>
+      <link>/tags/migration-decline/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/migration-decline/</guid>
+      <guid>/tags/migration-decline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migration Intensity</title>
-      <link>https://franciscorowe.github.io/tags/migration-intensity/</link>
+      <link>/tags/migration-intensity/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/migration-intensity/</guid>
+      <guid>/tags/migration-intensity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migration analysis</title>
-      <link>https://franciscorowe.github.io/tags/migration-analysis/</link>
+      <link>/tags/migration-analysis/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/migration-analysis/</guid>
+      <guid>/tags/migration-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Socio-demographic composition</title>
-      <link>https://franciscorowe.github.io/tags/socio-demographic-composition/</link>
+      <link>/tags/socio-demographic-composition/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/socio-demographic-composition/</guid>
+      <guid>/tags/socio-demographic-composition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empirical Prediction Intervals</title>
-      <link>https://franciscorowe.github.io/tags/empirical-prediction-intervals/</link>
+      <link>/tags/empirical-prediction-intervals/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/empirical-prediction-intervals/</guid>
+      <guid>/tags/empirical-prediction-intervals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forecast Error</title>
-      <link>https://franciscorowe.github.io/tags/forecast-error/</link>
+      <link>/tags/forecast-error/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/forecast-error/</guid>
+      <guid>/tags/forecast-error/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local Area</title>
-      <link>https://franciscorowe.github.io/tags/local-area/</link>
+      <link>/tags/local-area/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/local-area/</guid>
+      <guid>/tags/local-area/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Population Forecasts</title>
-      <link>https://franciscorowe.github.io/tags/population-forecasts/</link>
+      <link>/tags/population-forecasts/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/population-forecasts/</guid>
+      <guid>/tags/population-forecasts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shelf Life</title>
-      <link>https://franciscorowe.github.io/tags/shelf-life/</link>
+      <link>/tags/shelf-life/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/shelf-life/</guid>
+      <guid>/tags/shelf-life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forecasting</title>
-      <link>https://franciscorowe.github.io/tags/forecasting/</link>
+      <link>/tags/forecasting/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/forecasting/</guid>
+      <guid>/tags/forecasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public Transport</title>
-      <link>https://franciscorowe.github.io/tags/public-transport/</link>
+      <link>/tags/public-transport/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/public-transport/</guid>
+      <guid>/tags/public-transport/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time-series Modelling</title>
-      <link>https://franciscorowe.github.io/tags/time-series-modelling/</link>
+      <link>/tags/time-series-modelling/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/time-series-modelling/</guid>
+      <guid>/tags/time-series-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel Behaviour</title>
-      <link>https://franciscorowe.github.io/tags/travel-behaviour/</link>
+      <link>/tags/travel-behaviour/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/travel-behaviour/</guid>
+      <guid>/tags/travel-behaviour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weather</title>
-      <link>https://franciscorowe.github.io/tags/weather/</link>
+      <link>/tags/weather/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/weather/</guid>
+      <guid>/tags/weather/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Residential Mobility</title>
-      <link>https://franciscorowe.github.io/tags/residential-mobility/</link>
+      <link>/tags/residential-mobility/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/residential-mobility/</guid>
+      <guid>/tags/residential-mobility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Residential Segregation</title>
-      <link>https://franciscorowe.github.io/tags/residential-segregation/</link>
+      <link>/tags/residential-segregation/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/residential-segregation/</guid>
+      <guid>/tags/residential-segregation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Counterfactual Treatment</title>
-      <link>https://franciscorowe.github.io/tags/counterfactual-treatment/</link>
+      <link>/tags/counterfactual-treatment/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/counterfactual-treatment/</guid>
+      <guid>/tags/counterfactual-treatment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Field-of-Study Mismatch</title>
-      <link>https://franciscorowe.github.io/tags/field-of-study-mismatch/</link>
+      <link>/tags/field-of-study-mismatch/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/field-of-study-mismatch/</guid>
+      <guid>/tags/field-of-study-mismatch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Job-education Mismatch</title>
-      <link>https://franciscorowe.github.io/tags/job-education-mismatch/</link>
+      <link>/tags/job-education-mismatch/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/job-education-mismatch/</guid>
+      <guid>/tags/job-education-mismatch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qualification Mismatch</title>
-      <link>https://franciscorowe.github.io/tags/qualification-mismatch/</link>
+      <link>/tags/qualification-mismatch/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/qualification-mismatch/</guid>
+      <guid>/tags/qualification-mismatch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migration Impact</title>
-      <link>https://franciscorowe.github.io/tags/migration-impact/</link>
+      <link>/tags/migration-impact/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/migration-impact/</guid>
+      <guid>/tags/migration-impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://franciscorowe.github.io/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scale Effects</title>
-      <link>https://franciscorowe.github.io/tags/scale-effects/</link>
+      <link>/tags/scale-effects/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/scale-effects/</guid>
+      <guid>/tags/scale-effects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary Computation</title>
-      <link>https://franciscorowe.github.io/tags/evolutionary-computation/</link>
+      <link>/tags/evolutionary-computation/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/evolutionary-computation/</guid>
+      <guid>/tags/evolutionary-computation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel-to-work Areas</title>
-      <link>https://franciscorowe.github.io/tags/travel-to-work-areas/</link>
+      <link>/tags/travel-to-work-areas/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/travel-to-work-areas/</guid>
+      <guid>/tags/travel-to-work-areas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-national Comparison</title>
-      <link>https://franciscorowe.github.io/tags/cross-national-comparison/</link>
+      <link>/tags/cross-national-comparison/</link>
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/cross-national-comparison/</guid>
+      <guid>/tags/cross-national-comparison/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Capital Pathways</title>
-      <link>https://franciscorowe.github.io/tags/human-capital-pathways/</link>
+      <link>/tags/human-capital-pathways/</link>
       <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/human-capital-pathways/</guid>
+      <guid>/tags/human-capital-pathways/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal Data</title>
-      <link>https://franciscorowe.github.io/tags/longitudinal-data/</link>
+      <link>/tags/longitudinal-data/</link>
       <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/longitudinal-data/</guid>
+      <guid>/tags/longitudinal-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>School-to-work Transitions</title>
-      <link>https://franciscorowe.github.io/tags/school-to-work-transitions/</link>
+      <link>/tags/school-to-work-transitions/</link>
       <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/school-to-work-transitions/</guid>
+      <guid>/tags/school-to-work-transitions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human Capital</title>
-      <link>https://franciscorowe.github.io/tags/human-capital/</link>
+      <link>/tags/human-capital/</link>
       <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/human-capital/</guid>
+      <guid>/tags/human-capital/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Labour Market</title>
-      <link>https://franciscorowe.github.io/tags/labour-market/</link>
+      <link>/tags/labour-market/</link>
       <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/labour-market/</guid>
+      <guid>/tags/labour-market/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Patterns</title>
-      <link>https://franciscorowe.github.io/tags/spatial-patterns/</link>
+      <link>/tags/spatial-patterns/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/spatial-patterns/</guid>
+      <guid>/tags/spatial-patterns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graduate-skilled Visa</title>
-      <link>https://franciscorowe.github.io/tags/graduate-skilled-visa/</link>
+      <link>/tags/graduate-skilled-visa/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/graduate-skilled-visa/</guid>
+      <guid>/tags/graduate-skilled-visa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attitudes</title>
-      <link>https://franciscorowe.github.io/tags/attitudes/</link>
+      <link>/tags/attitudes/</link>
       <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/attitudes/</guid>
+      <guid>/tags/attitudes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Policy</title>
-      <link>https://franciscorowe.github.io/tags/policy/</link>
+      <link>/tags/policy/</link>
       <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/policy/</guid>
+      <guid>/tags/policy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Labour</title>
-      <link>https://franciscorowe.github.io/tags/labour/</link>
+      <link>/tags/labour/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/labour/</guid>
+      <guid>/tags/labour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobility</title>
-      <link>https://franciscorowe.github.io/tags/mobility/</link>
+      <link>/tags/mobility/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/mobility/</guid>
+      <guid>/tags/mobility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rural development</title>
-      <link>https://franciscorowe.github.io/tags/rural-development/</link>
+      <link>/tags/rural-development/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/rural-development/</guid>
+      <guid>/tags/rural-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graduate Visa</title>
-      <link>https://franciscorowe.github.io/tags/graduate-visa/</link>
+      <link>/tags/graduate-visa/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/graduate-visa/</guid>
+      <guid>/tags/graduate-visa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latin America and the Caribbean</title>
-      <link>https://franciscorowe.github.io/tags/latin-america-and-the-caribbean/</link>
+      <link>/tags/latin-america-and-the-caribbean/</link>
       <pubDate>Wed, 10 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/latin-america-and-the-caribbean/</guid>
+      <guid>/tags/latin-america-and-the-caribbean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Distribution</title>
-      <link>https://franciscorowe.github.io/tags/spatial-distribution/</link>
+      <link>/tags/spatial-distribution/</link>
       <pubDate>Wed, 10 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/spatial-distribution/</guid>
+      <guid>/tags/spatial-distribution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forecast Accuracy</title>
-      <link>https://franciscorowe.github.io/tags/forecast-accuracy/</link>
+      <link>/tags/forecast-accuracy/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/forecast-accuracy/</guid>
+      <guid>/tags/forecast-accuracy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fractional Response Model</title>
-      <link>https://franciscorowe.github.io/tags/fractional-response-model/</link>
+      <link>/tags/fractional-response-model/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/fractional-response-model/</guid>
+      <guid>/tags/fractional-response-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local Government Areas</title>
-      <link>https://franciscorowe.github.io/tags/local-government-areas/</link>
+      <link>/tags/local-government-areas/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/local-government-areas/</guid>
+      <guid>/tags/local-government-areas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Population Projections</title>
-      <link>https://franciscorowe.github.io/tags/population-projections/</link>
+      <link>/tags/population-projections/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/population-projections/</guid>
+      <guid>/tags/population-projections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Queensland</title>
-      <link>https://franciscorowe.github.io/tags/queensland/</link>
+      <link>/tags/queensland/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/tags/queensland/</guid>
+      <guid>/tags/queensland/</guid>
       <description></description>
     </item>
     

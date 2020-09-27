@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Socio-economic Composition | Academic</title>
-    <link>https://franciscorowe.github.io/tags/socio-economic-composition/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/socio-economic-composition/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/socio-economic-composition/</link>
+      <atom:link href="/tags/socio-economic-composition/index.xml" rel="self" type="application/rss+xml" />
     <description>Socio-economic Composition</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Socio-economic Composition</title>
-      <link>https://franciscorowe.github.io/tags/socio-economic-composition/</link>
+      <link>/tags/socio-economic-composition/</link>
     </image>
     
     <item>
       <title>R Package CIM Compositional Impact of Migration</title>
-      <link>https://franciscorowe.github.io/publication/rcim2019/</link>
+      <link>/publication/rcim2019/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/rcim2019/</guid>
+      <guid>/publication/rcim2019/</guid>
       <description></description>
     </item>
     

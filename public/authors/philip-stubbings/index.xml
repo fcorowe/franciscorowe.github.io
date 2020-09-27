@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philip Stubbings | Academic</title>
-    <link>https://franciscorowe.github.io/authors/philip-stubbings/</link>
-      <atom:link href="https://franciscorowe.github.io/authors/philip-stubbings/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/philip-stubbings/</link>
+      <atom:link href="/authors/philip-stubbings/index.xml" rel="self" type="application/rss+xml" />
     <description>Philip Stubbings</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Thu, 17 Oct 2019 09:15:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Philip Stubbings</title>
-      <link>https://franciscorowe.github.io/authors/philip-stubbings/</link>
+      <link>/authors/philip-stubbings/</link>
     </image>
     
     <item>
       <title>Measuring Urban Forest Using Street-Level Imagery and Deep Learning</title>
-      <link>https://franciscorowe.github.io/talk/ati2019/</link>
+      <link>/talk/ati2019/</link>
       <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/talk/ati2019/</guid>
+      <guid>/talk/ati2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Hierarchical Urban Forest Index Using Street-Level Imagery and Deep Learning</title>
-      <link>https://franciscorowe.github.io/publication/rs2019/</link>
+      <link>/publication/rs2019/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/rs2019/</guid>
+      <guid>/publication/rs2019/</guid>
       <description></description>
     </item>
     

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inequality | Academic</title>
-    <link>https://franciscorowe.github.io/tags/inequality/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/inequality/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/inequality/</link>
+      <atom:link href="/tags/inequality/index.xml" rel="self" type="application/rss+xml" />
     <description>Inequality</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Inequality</title>
-      <link>https://franciscorowe.github.io/tags/inequality/</link>
+      <link>/tags/inequality/</link>
     </image>
     
     <item>
       <title>Sensing global patterns and trajectories of socio-economic inequality</title>
-      <link>https://franciscorowe.github.io/project/sensing_inequalities/</link>
+      <link>/project/sensing_inequalities/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/project/sensing_inequalities/</guid>
+      <guid>/project/sensing_inequalities/</guid>
       <description>&lt;p&gt;This project seeks to quantify and analyse the evolution of spatial inequality across the globe using machine learning and satellite imagery. Preliminary findings reveal marked patterns of inequality. Intense presence of rich urban agglomerations in developed regions with large land consumption, intense public illumination, and high population density, particularly prominent across the US and Europe. Deprived areas with dense urban centres and limited illumination, or densely inhabited rural areas with presence of electrification prevail in rural parts of India. Poor regions with diffuse but high dense settlement infrastructure and scarce illumination are predominant across parts of rural China.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Efectos cambiantes de la migración sobre el crecimiento, la estructura demográfica y la segregación residencial en ciudades grandes. El caso de Santiago, Chile, 1977-2017</title>
-      <link>https://franciscorowe.github.io/publication/cepal2018/</link>
+      <link>/publication/cepal2018/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/cepal2018/</guid>
+      <guid>/publication/cepal2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Changing Impacts of Internal Migration on Residential Socio-Economic Segregation in the Greater Santiago</title>
-      <link>https://franciscorowe.github.io/publication/iussp2017/</link>
+      <link>/publication/iussp2017/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/iussp2017/</guid>
+      <guid>/publication/iussp2017/</guid>
       <description></description>
     </item>
     

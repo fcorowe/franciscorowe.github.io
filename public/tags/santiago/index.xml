@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Santiago | Academic</title>
-    <link>https://franciscorowe.github.io/tags/santiago/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/santiago/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/santiago/</link>
+      <atom:link href="/tags/santiago/index.xml" rel="self" type="application/rss+xml" />
     <description>Santiago</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Santiago</title>
-      <link>https://franciscorowe.github.io/tags/santiago/</link>
+      <link>/tags/santiago/</link>
     </image>
     
     <item>
       <title>Efectos cambiantes de la migración sobre el crecimiento, la estructura demográfica y la segregación residencial en ciudades grandes. El caso de Santiago, Chile, 1977-2017</title>
-      <link>https://franciscorowe.github.io/publication/cepal2018/</link>
+      <link>/publication/cepal2018/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/cepal2018/</guid>
+      <guid>/publication/cepal2018/</guid>
       <description></description>
     </item>
     

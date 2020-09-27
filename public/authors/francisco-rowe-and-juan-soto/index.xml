@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francisco Rowe and Juan Soto | Academic</title>
-    <link>https://franciscorowe.github.io/authors/francisco-rowe-and-juan-soto/</link>
-      <atom:link href="https://franciscorowe.github.io/authors/francisco-rowe-and-juan-soto/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/francisco-rowe-and-juan-soto/</link>
+      <atom:link href="/authors/francisco-rowe-and-juan-soto/index.xml" rel="self" type="application/rss+xml" />
     <description>Francisco Rowe and Juan Soto</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 28 Aug 2019 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Francisco Rowe and Juan Soto</title>
-      <link>https://franciscorowe.github.io/authors/francisco-rowe-and-juan-soto/</link>
+      <link>/authors/francisco-rowe-and-juan-soto/</link>
     </image>
     
     <item>
       <title>How Do Local Labor Markets Looks From Above? An Automated Satellite Imagery Approach</title>
-      <link>https://franciscorowe.github.io/talk/ersa2019/</link>
+      <link>/talk/ersa2019/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/talk/ersa2019/</guid>
+      <guid>/talk/ersa2019/</guid>
       <description></description>
     </item>
     

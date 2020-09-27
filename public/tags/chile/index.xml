@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chile | Academic</title>
-    <link>https://franciscorowe.github.io/tags/chile/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/chile/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/chile/</link>
+      <atom:link href="/tags/chile/index.xml" rel="self" type="application/rss+xml" />
     <description>Chile</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Chile</title>
-      <link>https://franciscorowe.github.io/tags/chile/</link>
+      <link>/tags/chile/</link>
     </image>
     
     <item>
       <title>The drivers of long-distance commuting in Chile. The role of spatial distribution of economic activities</title>
-      <link>https://franciscorowe.github.io/publication/bookcp2020_1/</link>
+      <link>/publication/bookcp2020_1/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/bookcp2020_1/</guid>
+      <guid>/publication/bookcp2020_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Do Local Labor Markets Looks From Above? An Automated Satellite Imagery Approach</title>
-      <link>https://franciscorowe.github.io/talk/ersa2019/</link>
+      <link>/talk/ersa2019/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/talk/ersa2019/</guid>
+      <guid>/talk/ersa2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efectos cambiantes de la migración sobre el crecimiento, la estructura demográfica y la segregación residencial en ciudades grandes. El caso de Santiago, Chile, 1977-2017</title>
-      <link>https://franciscorowe.github.io/publication/cepal2018/</link>
+      <link>/publication/cepal2018/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/cepal2018/</guid>
+      <guid>/publication/cepal2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional Labor Market Areas for Chile</title>
-      <link>https://franciscorowe.github.io/publication/region2017_1/</link>
+      <link>/publication/region2017_1/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/region2017_1/</guid>
+      <guid>/publication/region2017_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The CHilean Internal Migration (CHIM) database. Temporally consistent spatial data for the analysis of human mobility</title>
-      <link>https://franciscorowe.github.io/publication/region2017_2/</link>
+      <link>/publication/region2017_2/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/region2017_2/</guid>
+      <guid>/publication/region2017_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An evolutionary approach to the delimitation of labour market areas. An empirical application for Chile</title>
-      <link>https://franciscorowe.github.io/publication/sea2017/</link>
+      <link>/publication/sea2017/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/sea2017/</guid>
+      <guid>/publication/sea2017/</guid>
       <description></description>
     </item>
     

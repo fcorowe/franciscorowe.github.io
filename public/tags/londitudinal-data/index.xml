@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Londitudinal Data | Academic</title>
-    <link>https://franciscorowe.github.io/tags/londitudinal-data/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/londitudinal-data/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/londitudinal-data/</link>
+      <atom:link href="/tags/londitudinal-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Londitudinal Data</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Londitudinal Data</title>
-      <link>https://franciscorowe.github.io/tags/londitudinal-data/</link>
+      <link>/tags/londitudinal-data/</link>
     </image>
     
     <item>
       <title>Understanding and Predicting the Long-term Labour Market and Migration Trajectories of Immigrants and Their Children in the United Kingdom</title>
-      <link>https://franciscorowe.github.io/project/immigrants_trajectories/</link>
+      <link>/project/immigrants_trajectories/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/project/immigrants_trajectories/</guid>
+      <guid>/project/immigrants_trajectories/</guid>
       <description>&lt;p&gt;Prior empirical research has advanced our understanding of immigrants’ assimilation, their descendants and the role of ethnic concentration. Yet work has remained cross-sectional in nature, focusing on the occupational outcomes and residential locations at a specific point in time. Little progress has been made to understand the trajectories of immigrants and their children over a long period of time. Understanding of the long-term trajectories of immigrants and their children is key to assess their prospects for economic and social success, and develop effective policy interventions to assist their integration process, unleash their skills’ potential and facilitate upward social mobility.&lt;/p&gt;
 </description>
     </item>

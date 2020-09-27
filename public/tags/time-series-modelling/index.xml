@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time-series Modelling | Academic</title>
-    <link>https://franciscorowe.github.io/tags/time-series-modelling/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/time-series-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/time-series-modelling/</link>
+      <atom:link href="/tags/time-series-modelling/index.xml" rel="self" type="application/rss+xml" />
     <description>Time-series Modelling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Time-series Modelling</title>
-      <link>https://franciscorowe.github.io/tags/time-series-modelling/</link>
+      <link>/tags/time-series-modelling/</link>
     </image>
     
     <item>
       <title>To travel or not to travel. ‘Weather’ is the question. Modelling the effect of local weather conditions on bus ridership</title>
-      <link>https://franciscorowe.github.io/publication/trc2018/</link>
+      <link>/publication/trc2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/trc2018/</guid>
+      <guid>/publication/trc2018/</guid>
       <description></description>
     </item>
     

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>https://franciscorowe.github.io/post/</link>
-      <atom:link href="https://franciscorowe.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://franciscorowe.github.io/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
       <title>Mapping The Impact of Internal Migration Across Europe</title>
-      <link>https://franciscorowe.github.io/post/2020-02-08-eu_netmigration_map/</link>
+      <link>/post/2020-02-08-eu_netmigration_map/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/post/2020-02-08-eu_netmigration_map/</guid>
+      <guid>/post/2020-02-08-eu_netmigration_map/</guid>
       <description>
-&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;net-internal-migration-rate-across-europe&#34; class=&#34;section level1&#34;&gt;
@@ -50,9 +50,9 @@
     
     <item>
       <title>Introducing the R Package CIM</title>
-      <link>https://franciscorowe.github.io/post/2019-01-31-r-rmarkdown/</link>
+      <link>/post/2019-01-31-r-rmarkdown/</link>
       <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>https://franciscorowe.github.io/post/2019-01-31-r-rmarkdown/</guid>
+      <guid>/post/2019-01-31-r-rmarkdown/</guid>
       <description>
 
 
@@ -122,9 +122,9 @@ library(tmap)&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Migration of Young Human Capital?</title>
-      <link>https://franciscorowe.github.io/post/si_post/</link>
+      <link>/post/si_post/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/post/si_post/</guid>
+      <guid>/post/si_post/</guid>
       <description>&lt;h2 id=&#34;why-is-the-migration-of-young-educated-people-important&#34;&gt;Why is the migration of young educated people important?&lt;/h2&gt;
 &lt;p&gt;Human capital is a key ingredient of economic development and productivity. Regions attracting educated individuals experience economic growth and enjoy high-status of social wellbeing, while areas affected by net migration losses of human capital struggle to sustain a vibrant local economy. Young educated individuals are highly mobile and comprise a important component of the workforce. Spatial mobility of young educated individuals generates differentiated outcomes across the urban hierarchy. Rural areas tend to lose young population, creating pressures to attract and retain young educated individuals to help redress accelerating ageing populations and replenishing labour gaps. By contrast, larger metropolitan areas operate as magnets enticing the ‘best’ and the ‘brightest’ spurring local economic development.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-new-and-are-our-aims&#34;&gt;What is new and are our aims?&lt;/h2&gt;
@@ -138,9 +138,9 @@ library(tmap)&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>How do we define functional labour market areas?</title>
-      <link>https://franciscorowe.github.io/post/llma_post/</link>
+      <link>/post/llma_post/</link>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/post/llma_post/</guid>
+      <guid>/post/llma_post/</guid>
       <description>&lt;p&gt;We all know that spatial analyses based on administrative boundaries to understand labour market activity are questionable, because of the modifiable areal unit problem (MAUP) and measurement issues, leading to spurious causal relationships, misguided policy recommendations and complex model specifications.&lt;/p&gt;
 &lt;p&gt;Over the last two decades, there has been a growing literature concerning the delimitation of Functional Labour Market Areas (FLMAs). They are empirically delimited based on commuting (travel-to-work) flow data between Basic Territorial Units (BTUs; eg. communes, municipalities or counties), which are often the finest level of geography at which data are available. The trick here is that there are two conflicting objectives. On the one hand, we want to create FMLAs that are composed of BTUs with strong commuting links i.e. strong cohesion or inner integration. On the other, we want FLMAs comprised of BTUs with weak or no commuting links with other FLMAs i.e. higher self-containment or external perfection. Large FLMAs lead to higher overall levels of self-containment but lower levels of cohesion from a certain threshold. Finding an appropriate balance between self-containment and cohesion is thus critical and challenging task for FMLAs delineation.&lt;/p&gt;
 &lt;p&gt;We have recently published a paper (Casado-Díaz, Martínez-Bernabéu and Rowe 2017) on a novel methodology based on evolutionary computational algorithms to delineate FLMAs for Chile. Why Chile? Because we wanted to try out this new methodology on a unusual geography and Chile provides just that; and, because I am Chilean! We compared the performance of our approach to the most widely used methodology for official LMA delimitation, the travel-to-work areas (TTWAs) method, in terms of computational efficiency. We also compared the suitability of the resulting FLMAs against administrative areas and TTWAs based on expert local knowledge and misallocation of BTUs. Normally BTUs are allocated to FLMAs with which they have weak links and need to be reassign to a different FLMA.&lt;/p&gt;

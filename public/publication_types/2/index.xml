@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Academic</title>
-    <link>https://franciscorowe.github.io/publication_types/2/</link>
-      <atom:link href="https://franciscorowe.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>2</title>
-      <link>https://franciscorowe.github.io/publication_types/2/</link>
+      <link>/publication_types/2/</link>
     </image>
     
     <item>
       <title>Mapping The Spatial Patterns of Internal Migration in Europe</title>
-      <link>https://franciscorowe.github.io/publication/rsrs2020/</link>
+      <link>/publication/rsrs2020/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/rsrs2020/</guid>
+      <guid>/publication/rsrs2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fueling Research Transparency Computational Notebooks and the Discussion Section</title>
-      <link>https://franciscorowe.github.io/publication/region2020/</link>
+      <link>/publication/region2020/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/region2020/</guid>
+      <guid>/publication/region2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of internal migration on population redistribution in Europe Urbanisation, counterurbanisation or spatial equilibrium?</title>
-      <link>https://franciscorowe.github.io/publication/cpos2019/</link>
+      <link>/publication/cpos2019/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/cpos2019/</guid>
+      <guid>/publication/cpos2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trends in multimorbidity, complex multimorbidity and multiple functional limitations in the ageing population of England, 2002–2015</title>
-      <link>https://franciscorowe.github.io/publication/jc2019/</link>
+      <link>/publication/jc2019/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/jc2019/</guid>
+      <guid>/publication/jc2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Hierarchical Urban Forest Index Using Street-Level Imagery and Deep Learning</title>
-      <link>https://franciscorowe.github.io/publication/rs2019/</link>
+      <link>/publication/rs2019/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/rs2019/</guid>
+      <guid>/publication/rs2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social determinants of multimorbidity and multiple functional limitations among the ageing population of England, 2002–2015</title>
-      <link>https://franciscorowe.github.io/publication/ssm2019/</link>
+      <link>/publication/ssm2019/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ssm2019/</guid>
+      <guid>/publication/ssm2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projecting the demographic impact of Syrian migration in a rapidly ageing society, Germany</title>
-      <link>https://franciscorowe.github.io/publication/jgs2019/</link>
+      <link>/publication/jgs2019/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/jgs2019/</guid>
+      <guid>/publication/jgs2019/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
@@ -73,145 +73,145 @@
     
     <item>
       <title>R Package CIM Compositional Impact of Migration</title>
-      <link>https://franciscorowe.github.io/publication/rcim2019/</link>
+      <link>/publication/rcim2019/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/rcim2019/</guid>
+      <guid>/publication/rcim2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efectos cambiantes de la migración sobre el crecimiento, la estructura demográfica y la segregación residencial en ciudades grandes. El caso de Santiago, Chile, 1977-2017</title>
-      <link>https://franciscorowe.github.io/publication/cepal2018/</link>
+      <link>/publication/cepal2018/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/cepal2018/</guid>
+      <guid>/publication/cepal2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Establishing the extent and pace of the contemporary trend of migration decline in Europe</title>
-      <link>https://franciscorowe.github.io/publication/rsa2018/</link>
+      <link>/publication/rsa2018/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/rsa2018/</guid>
+      <guid>/publication/rsa2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How is internal migration reshaping metropolitan populations in Latin America? A new method and new evidence</title>
-      <link>https://franciscorowe.github.io/publication/ps2018/</link>
+      <link>/publication/ps2018/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ps2018/</guid>
+      <guid>/publication/ps2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Insights from the evaluation of past local area population forecasts</title>
-      <link>https://franciscorowe.github.io/publication/prpr2018/</link>
+      <link>/publication/prpr2018/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/prpr2018/</guid>
+      <guid>/publication/prpr2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To travel or not to travel. ‘Weather’ is the question. Modelling the effect of local weather conditions on bus ridership</title>
-      <link>https://franciscorowe.github.io/publication/trc2018/</link>
+      <link>/publication/trc2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/trc2018/</guid>
+      <guid>/publication/trc2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>¿Contribuye la migración interna a reducir la segregación residencial? El caso de Santiago de Chile 1977-2002</title>
-      <link>https://franciscorowe.github.io/publication/relap2017/</link>
+      <link>/publication/relap2017/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/relap2017/</guid>
+      <guid>/publication/relap2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional Labor Market Areas for Chile</title>
-      <link>https://franciscorowe.github.io/publication/region2017_1/</link>
+      <link>/publication/region2017_1/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/region2017_1/</guid>
+      <guid>/publication/region2017_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The CHilean Internal Migration (CHIM) database. Temporally consistent spatial data for the analysis of human mobility</title>
-      <link>https://franciscorowe.github.io/publication/region2017_2/</link>
+      <link>/publication/region2017_2/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/region2017_2/</guid>
+      <guid>/publication/region2017_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing internal migration across the countries of Latin America. A multidimensional approach</title>
-      <link>https://franciscorowe.github.io/publication/plosone2017/</link>
+      <link>/publication/plosone2017/</link>
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/plosone2017/</guid>
+      <guid>/publication/plosone2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An evolutionary approach to the delimitation of labour market areas. An empirical application for Chile</title>
-      <link>https://franciscorowe.github.io/publication/sea2017/</link>
+      <link>/publication/sea2017/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/sea2017/</guid>
+      <guid>/publication/sea2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Special issue on youth and graduate migration</title>
-      <link>https://franciscorowe.github.io/publication/ars2017ed/</link>
+      <link>/publication/ars2017ed/</link>
       <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ars2017ed/</guid>
+      <guid>/publication/ars2017ed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The returns to migration and human capital accumulation pathways. non-metropolitan youth in the school-to-work transition</title>
-      <link>https://franciscorowe.github.io/publication/ars2017/</link>
+      <link>/publication/ars2017/</link>
       <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ars2017/</guid>
+      <guid>/publication/ars2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating the effects of Australian policy changes on human capital. The role of a graduate visa scheme</title>
-      <link>https://franciscorowe.github.io/publication/epc2016/</link>
+      <link>/publication/epc2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/epc2016/</guid>
+      <guid>/publication/epc2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differences in attitudes towards immigration between Australia and Germany. The role of immigration policy</title>
-      <link>https://franciscorowe.github.io/publication/cpos2015/</link>
+      <link>/publication/cpos2015/</link>
       <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/cpos2015/</guid>
+      <guid>/publication/cpos2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Where are the overseas graduates staying on? Overseas graduate migration and rural attachment in Australia</title>
-      <link>https://franciscorowe.github.io/publication/ag2014/</link>
+      <link>/publication/ag2014/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ag2014/</guid>
+      <guid>/publication/ag2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobility Patterns of Overseas Human Capital in Australia. The role of a ‘new’ graduate visa scheme and rural development policy</title>
-      <link>https://franciscorowe.github.io/publication/ag2013/</link>
+      <link>/publication/ag2013/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ag2013/</guid>
+      <guid>/publication/ag2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The forecast accuracy of local government area population projections. A case study of Queensland</title>
-      <link>https://franciscorowe.github.io/publication/ajrs2011/</link>
+      <link>/publication/ajrs2011/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ajrs2011/</guid>
+      <guid>/publication/ajrs2011/</guid>
       <description></description>
     </item>
     

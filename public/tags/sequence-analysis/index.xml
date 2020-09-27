@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sequence Analysis | Academic</title>
-    <link>https://franciscorowe.github.io/tags/sequence-analysis/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/sequence-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/sequence-analysis/</link>
+      <atom:link href="/tags/sequence-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Sequence Analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Sequence Analysis</title>
-      <link>https://franciscorowe.github.io/tags/sequence-analysis/</link>
+      <link>/tags/sequence-analysis/</link>
     </image>
     
     <item>
       <title>Neighbourhood change and trajectories of inequality in Britain, 1971-2011</title>
-      <link>https://franciscorowe.github.io/publication/uk20702020/</link>
+      <link>/publication/uk20702020/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/uk20702020/</guid>
+      <guid>/publication/uk20702020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The occupational trajectories and outcomes of forced migrants in Sweden. Entrepreneurship, employment or persistent inactivity?</title>
-      <link>https://franciscorowe.github.io/publication/sme2020/</link>
+      <link>/publication/sme2020/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/sme2020/</guid>
+      <guid>/publication/sme2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding and Predicting the Long-term Labour Market and Migration Trajectories of Immigrants and Their Children in the United Kingdom</title>
-      <link>https://franciscorowe.github.io/project/immigrants_trajectories/</link>
+      <link>/project/immigrants_trajectories/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/project/immigrants_trajectories/</guid>
+      <guid>/project/immigrants_trajectories/</guid>
       <description>&lt;p&gt;Prior empirical research has advanced our understanding of immigrants’ assimilation, their descendants and the role of ethnic concentration. Yet work has remained cross-sectional in nature, focusing on the occupational outcomes and residential locations at a specific point in time. Little progress has been made to understand the trajectories of immigrants and their children over a long period of time. Understanding of the long-term trajectories of immigrants and their children is key to assess their prospects for economic and social success, and develop effective policy interventions to assist their integration process, unleash their skills’ potential and facilitate upward social mobility.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Scalable Analytical Framework for Spatio-Temporal Analysis of Neighborhood Change A Sequence Analysis Approach</title>
-      <link>https://franciscorowe.github.io/publication/agile2019/</link>
+      <link>/publication/agile2019/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/agile2019/</guid>
+      <guid>/publication/agile2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbourhood change and trajectories of inequality in Britain, 1971-2011</title>
-      <link>https://franciscorowe.github.io/publication/policybrief2018/</link>
+      <link>/publication/policybrief2018/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/policybrief2018/</guid>
+      <guid>/publication/policybrief2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using satellite imagery to measure the evolution of cities</title>
-      <link>https://franciscorowe.github.io/project/satellite_cities/</link>
+      <link>/project/satellite_cities/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/project/satellite_cities/</guid>
+      <guid>/project/satellite_cities/</guid>
       <description>&lt;p&gt;Sustainable urban habitats are a key component of global challenges, and efficient management and planning of cities are pivotal to all 17 UN SDGs. Over 90% of projected urban growth by 2050 will occur in less developed countries. Prior work on urbanisation has identified the benefits of agglomeration and improvements in health and education, which tend to outweigh the costs of congestion, pollution and poverty. Yet research has focused on Western cities: urban areas with high-income, in developed countries. Much less is known about urban habitats in less developed countries. This project aims to improve our understanding of urban areas levearing on large scale satellite imagery and machine learning.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The returns to migration and human capital accumulation pathways. non-metropolitan youth in the school-to-work transition</title>
-      <link>https://franciscorowe.github.io/publication/ars2017/</link>
+      <link>/publication/ars2017/</link>
       <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ars2017/</guid>
+      <guid>/publication/ars2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patterns and sequences of mobility</title>
-      <link>https://franciscorowe.github.io/publication/arc2014_1/</link>
+      <link>/publication/arc2014_1/</link>
       <pubDate>Mon, 17 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/arc2014_1/</guid>
+      <guid>/publication/arc2014_1/</guid>
       <description></description>
     </item>
     

@@ -2,62 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://franciscorowe.github.io/</link>
-      <atom:link href="https://franciscorowe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 16 Sep 2020 09:09:30 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Academic</title>
-      <link>https://franciscorowe.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://franciscorowe.github.io/talk/</link>
+      <link>/talk/</link>
       <pubDate>Wed, 16 Sep 2020 09:09:30 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/talk/</guid>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://franciscorowe.github.io/publication/</link>
+      <link>/publication/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://franciscorowe.github.io/project/</link>
+      <link>/project/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/project/</guid>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://franciscorowe.github.io/post/</link>
+      <link>/post/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/post/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://franciscorowe.github.io/courses/</link>
+      <link>/courses/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>https://franciscorowe.github.io/courses/</guid>
+      <guid>/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://franciscorowe.github.io/slides/</link>
+      <link>/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/slides/</guid>
+      <guid>/slides/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

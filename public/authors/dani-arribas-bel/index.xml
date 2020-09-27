@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dani Arribas-Bel | Academic</title>
-    <link>https://franciscorowe.github.io/authors/dani-arribas-bel/</link>
-      <atom:link href="https://franciscorowe.github.io/authors/dani-arribas-bel/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/dani-arribas-bel/</link>
+      <atom:link href="/authors/dani-arribas-bel/index.xml" rel="self" type="application/rss+xml" />
     <description>Dani Arribas-Bel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Dani Arribas-Bel</title>
-      <link>https://franciscorowe.github.io/authors/dani-arribas-bel/</link>
+      <link>/authors/dani-arribas-bel/</link>
     </image>
     
     <item>
       <title>Neighbourhood change and trajectories of inequality in Britain, 1971-2011</title>
-      <link>https://franciscorowe.github.io/publication/uk20702020/</link>
+      <link>/publication/uk20702020/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/uk20702020/</guid>
+      <guid>/publication/uk20702020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Hierarchical Urban Forest Index Using Street-Level Imagery and Deep Learning</title>
-      <link>https://franciscorowe.github.io/publication/rs2019/</link>
+      <link>/publication/rs2019/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/rs2019/</guid>
+      <guid>/publication/rs2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbourhood change and trajectories of inequality in Britain, 1971-2011</title>
-      <link>https://franciscorowe.github.io/publication/policybrief2018/</link>
+      <link>/publication/policybrief2018/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/policybrief2018/</guid>
+      <guid>/publication/policybrief2018/</guid>
       <description></description>
     </item>
     

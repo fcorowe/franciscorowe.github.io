@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spatial Impact | Academic</title>
-    <link>https://franciscorowe.github.io/tags/spatial-impact/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/spatial-impact/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/spatial-impact/</link>
+      <atom:link href="/tags/spatial-impact/index.xml" rel="self" type="application/rss+xml" />
     <description>Spatial Impact</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Spatial Impact</title>
-      <link>https://franciscorowe.github.io/tags/spatial-impact/</link>
+      <link>/tags/spatial-impact/</link>
     </image>
     
     <item>
       <title>Mapping The Impact of Internal Migration Across Europe</title>
-      <link>https://franciscorowe.github.io/post/2020-02-08-eu_netmigration_map/</link>
+      <link>/post/2020-02-08-eu_netmigration_map/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/post/2020-02-08-eu_netmigration_map/</guid>
+      <guid>/post/2020-02-08-eu_netmigration_map/</guid>
       <description>
-&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://franciscorowe.github.io/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;net-internal-migration-rate-across-europe&#34; class=&#34;section level1&#34;&gt;
@@ -50,9 +50,9 @@
     
     <item>
       <title>Introducing the R Package CIM</title>
-      <link>https://franciscorowe.github.io/post/2019-01-31-r-rmarkdown/</link>
+      <link>/post/2019-01-31-r-rmarkdown/</link>
       <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>https://franciscorowe.github.io/post/2019-01-31-r-rmarkdown/</guid>
+      <guid>/post/2019-01-31-r-rmarkdown/</guid>
       <description>
 
 
@@ -122,17 +122,17 @@ library(tmap)&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Migration, Cities &amp; Big Data</title>
-      <link>https://franciscorowe.github.io/talk/un2019/</link>
+      <link>/talk/un2019/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/talk/un2019/</guid>
+      <guid>/talk/un2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How is internal migration reshaping metropolitan populations in Latin America? A new method and new evidence</title>
-      <link>https://franciscorowe.github.io/publication/ps2018/</link>
+      <link>/publication/ps2018/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/ps2018/</guid>
+      <guid>/publication/ps2018/</guid>
       <description></description>
     </item>
     

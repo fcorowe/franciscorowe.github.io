@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weather | Academic</title>
-    <link>https://franciscorowe.github.io/tags/weather/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/weather/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/weather/</link>
+      <atom:link href="/tags/weather/index.xml" rel="self" type="application/rss+xml" />
     <description>Weather</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Weather</title>
-      <link>https://franciscorowe.github.io/tags/weather/</link>
+      <link>/tags/weather/</link>
     </image>
     
     <item>
       <title>To travel or not to travel. ‘Weather’ is the question. Modelling the effect of local weather conditions on bus ridership</title>
-      <link>https://franciscorowe.github.io/publication/trc2018/</link>
+      <link>/publication/trc2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/trc2018/</guid>
+      <guid>/publication/trc2018/</guid>
       <description></description>
     </item>
     

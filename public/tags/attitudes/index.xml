@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Attitudes | Academic</title>
-    <link>https://franciscorowe.github.io/tags/attitudes/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/attitudes/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/attitudes/</link>
+      <atom:link href="/tags/attitudes/index.xml" rel="self" type="application/rss+xml" />
     <description>Attitudes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Mon, 14 Dec 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Attitudes</title>
-      <link>https://franciscorowe.github.io/tags/attitudes/</link>
+      <link>/tags/attitudes/</link>
     </image>
     
     <item>
       <title>Differences in attitudes towards immigration between Australia and Germany. The role of immigration policy</title>
-      <link>https://franciscorowe.github.io/publication/cpos2015/</link>
+      <link>/publication/cpos2015/</link>
       <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/cpos2015/</guid>
+      <guid>/publication/cpos2015/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spatial Inequality | Academic</title>
-    <link>https://franciscorowe.github.io/tags/spatial-inequality/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/spatial-inequality/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/spatial-inequality/</link>
+      <atom:link href="/tags/spatial-inequality/index.xml" rel="self" type="application/rss+xml" />
     <description>Spatial Inequality</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Spatial Inequality</title>
-      <link>https://franciscorowe.github.io/tags/spatial-inequality/</link>
+      <link>/tags/spatial-inequality/</link>
     </image>
     
     <item>
       <title>Neighbourhood change and trajectories of inequality in Britain, 1971-2011</title>
-      <link>https://franciscorowe.github.io/publication/uk20702020/</link>
+      <link>/publication/uk20702020/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/uk20702020/</guid>
+      <guid>/publication/uk20702020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbourhood change and trajectories of inequality in Britain, 1971-2011</title>
-      <link>https://franciscorowe.github.io/publication/policybrief2018/</link>
+      <link>/publication/policybrief2018/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/policybrief2018/</guid>
+      <guid>/publication/policybrief2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>¿Contribuye la migración interna a reducir la segregación residencial? El caso de Santiago de Chile 1977-2002</title>
-      <link>https://franciscorowe.github.io/publication/relap2017/</link>
+      <link>/publication/relap2017/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/relap2017/</guid>
+      <guid>/publication/relap2017/</guid>
       <description></description>
     </item>
     

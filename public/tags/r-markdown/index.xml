@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Markdown | Academic</title>
-    <link>https://franciscorowe.github.io/tags/r-markdown/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/r-markdown/</link>
+      <atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>R Markdown</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Fri, 11 Oct 2019 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>R Markdown</title>
-      <link>https://franciscorowe.github.io/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
     </image>
     
     <item>
       <title>Introducing the R Package CIM</title>
-      <link>https://franciscorowe.github.io/post/2019-01-31-r-rmarkdown/</link>
+      <link>/post/2019-01-31-r-rmarkdown/</link>
       <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>https://franciscorowe.github.io/post/2019-01-31-r-rmarkdown/</guid>
+      <guid>/post/2019-01-31-r-rmarkdown/</guid>
       <description>
 
 

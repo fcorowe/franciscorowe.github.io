@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multilevel Modelling | Academic</title>
-    <link>https://franciscorowe.github.io/tags/multilevel-modelling/</link>
-      <atom:link href="https://franciscorowe.github.io/tags/multilevel-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/multilevel-modelling/</link>
+      <atom:link href="/tags/multilevel-modelling/index.xml" rel="self" type="application/rss+xml" />
     <description>Multilevel Modelling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Thu, 17 Oct 2019 09:15:00 +0000</lastBuildDate>
     <image>
-      <url>https://franciscorowe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Multilevel Modelling</title>
-      <link>https://franciscorowe.github.io/tags/multilevel-modelling/</link>
+      <link>/tags/multilevel-modelling/</link>
     </image>
     
     <item>
       <title>Measuring Urban Forest Using Street-Level Imagery and Deep Learning</title>
-      <link>https://franciscorowe.github.io/talk/ati2019/</link>
+      <link>/talk/ati2019/</link>
       <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/talk/ati2019/</guid>
+      <guid>/talk/ati2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Changing post-school pathways and outcomes. Melbourne and regional students</title>
-      <link>https://franciscorowe.github.io/publication/arc2015/</link>
+      <link>/publication/arc2015/</link>
       <pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/arc2015/</guid>
+      <guid>/publication/arc2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determinants of post-school choices of young people. The workforce, university or vocational studies?</title>
-      <link>https://franciscorowe.github.io/publication/arc2014_4/</link>
+      <link>/publication/arc2014_4/</link>
       <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://franciscorowe.github.io/publication/arc2014_4/</guid>
+      <guid>/publication/arc2014_4/</guid>
       <description></description>
     </item>
     
