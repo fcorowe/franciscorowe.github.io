@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francisco Rowe | Academic</title>
-    <link>/authors/francisco-rowe/</link>
-      <atom:link href="/authors/francisco-rowe/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/authors/francisco-rowe/</link>
+      <atom:link href="https://franciscorowe.github.io/authors/francisco-rowe/index.xml" rel="self" type="application/rss+xml" />
     <description>Francisco Rowe</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 16 Sep 2020 09:09:30 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Francisco Rowe</title>
-      <link>/authors/francisco-rowe/</link>
+      <link>https://franciscorowe.github.io/authors/francisco-rowe/</link>
     </image>
     
     <item>
       <title>Using Machine Learning and Twitter Data to Profile Attitudes Towards Immigration</title>
-      <link>/talk/bsps2020/</link>
+      <link>https://franciscorowe.github.io/talk/bsps2020/</link>
       <pubDate>Wed, 16 Sep 2020 09:09:30 +0000</pubDate>
-      <guid>/talk/bsps2020/</guid>
+      <guid>https://franciscorowe.github.io/talk/bsps2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Machine Learning and Twitter Data to Profile Attitudes Towards Immigration</title>
-      <link>/talk/icesi2020/</link>
+      <link>https://franciscorowe.github.io/talk/icesi2020/</link>
       <pubDate>Thu, 30 Jul 2020 04:00:00 +0000</pubDate>
-      <guid>/talk/icesi2020/</guid>
+      <guid>https://franciscorowe.github.io/talk/icesi2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Twitter and Machine Learning to Understand Attitudes Towards Immigration</title>
-      <link>/talk/mpdi2020/</link>
+      <link>https://franciscorowe.github.io/talk/mpdi2020/</link>
       <pubDate>Sun, 02 Feb 2020 09:15:00 +0000</pubDate>
-      <guid>/talk/mpdi2020/</guid>
+      <guid>https://franciscorowe.github.io/talk/mpdi2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring Urban Forest Using Street-Level Imagery and Deep Learning</title>
-      <link>/talk/ati2019/</link>
+      <link>https://franciscorowe.github.io/talk/ati2019/</link>
       <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
-      <guid>/talk/ati2019/</guid>
+      <guid>https://franciscorowe.github.io/talk/ati2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migration, Cities &amp; Big Data</title>
-      <link>/talk/un2019/</link>
+      <link>https://franciscorowe.github.io/talk/un2019/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/un2019/</guid>
+      <guid>https://franciscorowe.github.io/talk/un2019/</guid>
       <description></description>
     </item>
     

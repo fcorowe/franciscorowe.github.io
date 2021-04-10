@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clara H Mulder | Academic</title>
-    <link>/authors/clara-h-mulder/</link>
-      <atom:link href="/authors/clara-h-mulder/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/authors/clara-h-mulder/</link>
+      <atom:link href="https://franciscorowe.github.io/authors/clara-h-mulder/index.xml" rel="self" type="application/rss+xml" />
     <description>Clara H Mulder</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Mon, 14 Dec 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Clara H Mulder</title>
-      <link>/authors/clara-h-mulder/</link>
+      <link>https://franciscorowe.github.io/authors/clara-h-mulder/</link>
     </image>
     
     <item>
       <title>Differences in attitudes towards immigration between Australia and Germany. The role of immigration policy</title>
-      <link>/publication/cpos2015/</link>
+      <link>https://franciscorowe.github.io/publication/cpos2015/</link>
       <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/cpos2015/</guid>
+      <guid>https://franciscorowe.github.io/publication/cpos2015/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google Street View Imagery | Academic</title>
-    <link>/tags/google-street-view-imagery/</link>
-      <atom:link href="/tags/google-street-view-imagery/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/google-street-view-imagery/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/google-street-view-imagery/index.xml" rel="self" type="application/rss+xml" />
     <description>Google Street View Imagery</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Thu, 17 Oct 2019 09:15:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Google Street View Imagery</title>
-      <link>/tags/google-street-view-imagery/</link>
+      <link>https://franciscorowe.github.io/tags/google-street-view-imagery/</link>
     </image>
     
     <item>
       <title>Measuring Urban Forest Using Street-Level Imagery and Deep Learning</title>
-      <link>/talk/ati2019/</link>
+      <link>https://franciscorowe.github.io/talk/ati2019/</link>
       <pubDate>Thu, 17 Oct 2019 09:15:00 +0000</pubDate>
-      <guid>/talk/ati2019/</guid>
+      <guid>https://franciscorowe.github.io/talk/ati2019/</guid>
       <description></description>
     </item>
     

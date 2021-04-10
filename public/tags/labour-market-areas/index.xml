@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Labour Market Areas | Academic</title>
-    <link>/tags/labour-market-areas/</link>
-      <atom:link href="/tags/labour-market-areas/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/labour-market-areas/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/labour-market-areas/index.xml" rel="self" type="application/rss+xml" />
     <description>Labour Market Areas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 28 Aug 2019 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Labour Market Areas</title>
-      <link>/tags/labour-market-areas/</link>
+      <link>https://franciscorowe.github.io/tags/labour-market-areas/</link>
     </image>
     
     <item>
       <title>How Do Local Labor Markets Looks From Above? An Automated Satellite Imagery Approach</title>
-      <link>/talk/ersa2019/</link>
+      <link>https://franciscorowe.github.io/talk/ersa2019/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/ersa2019/</guid>
+      <guid>https://franciscorowe.github.io/talk/ersa2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional Labor Market Areas for Chile</title>
-      <link>/publication/region2017_1/</link>
+      <link>https://franciscorowe.github.io/publication/region2017_1/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/region2017_1/</guid>
+      <guid>https://franciscorowe.github.io/publication/region2017_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The CHilean Internal Migration (CHIM) database. Temporally consistent spatial data for the analysis of human mobility</title>
-      <link>/publication/region2017_2/</link>
+      <link>https://franciscorowe.github.io/publication/region2017_2/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/region2017_2/</guid>
+      <guid>https://franciscorowe.github.io/publication/region2017_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An evolutionary approach to the delimitation of labour market areas. An empirical application for Chile</title>
-      <link>/publication/sea2017/</link>
+      <link>https://franciscorowe.github.io/publication/sea2017/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/sea2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/sea2017/</guid>
       <description></description>
     </item>
     

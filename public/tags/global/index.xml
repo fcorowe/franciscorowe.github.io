@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Global | Academic</title>
-    <link>/tags/global/</link>
-      <atom:link href="/tags/global/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/global/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/global/index.xml" rel="self" type="application/rss+xml" />
     <description>Global</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Global</title>
-      <link>/tags/global/</link>
+      <link>https://franciscorowe.github.io/tags/global/</link>
     </image>
     
     <item>
       <title>Estimating Global Bilateral Migration Flows</title>
-      <link>/project/estimating_migration/</link>
+      <link>https://franciscorowe.github.io/project/estimating_migration/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/project/estimating_migration/</guid>
+      <guid>https://franciscorowe.github.io/project/estimating_migration/</guid>
       <description>&lt;p&gt;This project aims to generate annual country-to-country migration estimates across the world. Keep posted for further details.&lt;/p&gt;
 </description>
     </item>

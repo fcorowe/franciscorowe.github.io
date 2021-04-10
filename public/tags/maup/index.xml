@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MAUP | Academic</title>
-    <link>/tags/maup/</link>
-      <atom:link href="/tags/maup/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/maup/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/maup/index.xml" rel="self" type="application/rss+xml" />
     <description>MAUP</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>MAUP</title>
-      <link>/tags/maup/</link>
+      <link>https://franciscorowe.github.io/tags/maup/</link>
     </image>
     
     <item>
       <title>Impact of internal migration on population redistribution in Europe Urbanisation, counterurbanisation or spatial equilibrium?</title>
-      <link>/publication/cpos2019/</link>
+      <link>https://franciscorowe.github.io/publication/cpos2019/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/cpos2019/</guid>
+      <guid>https://franciscorowe.github.io/publication/cpos2019/</guid>
       <description></description>
     </item>
     

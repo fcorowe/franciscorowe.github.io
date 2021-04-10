@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philipp Ueffing | Academic</title>
-    <link>/authors/philipp-ueffing/</link>
-      <atom:link href="/authors/philipp-ueffing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/authors/philipp-ueffing/</link>
+      <atom:link href="https://franciscorowe.github.io/authors/philipp-ueffing/index.xml" rel="self" type="application/rss+xml" />
     <description>Philipp Ueffing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Philipp Ueffing</title>
-      <link>/authors/philipp-ueffing/</link>
+      <link>https://franciscorowe.github.io/authors/philipp-ueffing/</link>
     </image>
     
     <item>
       <title>Impact of internal migration on population redistribution in Europe Urbanisation, counterurbanisation or spatial equilibrium?</title>
-      <link>/publication/cpos2019/</link>
+      <link>https://franciscorowe.github.io/publication/cpos2019/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/cpos2019/</guid>
+      <guid>https://franciscorowe.github.io/publication/cpos2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring the Impact of Internal Migration on Population Redistribution in Europe</title>
-      <link>/publication/ersa2017/</link>
+      <link>https://franciscorowe.github.io/publication/ersa2017/</link>
       <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/ersa2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/ersa2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing internal migration across the countries of Latin America. A multidimensional approach</title>
-      <link>/publication/plosone2017/</link>
+      <link>https://franciscorowe.github.io/publication/plosone2017/</link>
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/plosone2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/plosone2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differences in attitudes towards immigration between Australia and Germany. The role of immigration policy</title>
-      <link>/publication/cpos2015/</link>
+      <link>https://franciscorowe.github.io/publication/cpos2015/</link>
       <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/cpos2015/</guid>
+      <guid>https://franciscorowe.github.io/publication/cpos2015/</guid>
       <description></description>
     </item>
     

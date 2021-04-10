@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economic Geography | Academic</title>
-    <link>/tags/economic-geography/</link>
-      <atom:link href="/tags/economic-geography/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/economic-geography/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/economic-geography/index.xml" rel="self" type="application/rss+xml" />
     <description>Economic Geography</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 28 Aug 2019 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Economic Geography</title>
-      <link>/tags/economic-geography/</link>
+      <link>https://franciscorowe.github.io/tags/economic-geography/</link>
     </image>
     
     <item>
       <title>How Do Local Labor Markets Looks From Above? An Automated Satellite Imagery Approach</title>
-      <link>/talk/ersa2019/</link>
+      <link>https://franciscorowe.github.io/talk/ersa2019/</link>
       <pubDate>Wed, 28 Aug 2019 09:00:00 +0000</pubDate>
-      <guid>/talk/ersa2019/</guid>
+      <guid>https://franciscorowe.github.io/talk/ersa2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional Labor Market Areas for Chile</title>
-      <link>/publication/region2017_1/</link>
+      <link>https://franciscorowe.github.io/publication/region2017_1/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/region2017_1/</guid>
+      <guid>https://franciscorowe.github.io/publication/region2017_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The CHilean Internal Migration (CHIM) database. Temporally consistent spatial data for the analysis of human mobility</title>
-      <link>/publication/region2017_2/</link>
+      <link>https://franciscorowe.github.io/publication/region2017_2/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/region2017_2/</guid>
+      <guid>https://franciscorowe.github.io/publication/region2017_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An evolutionary approach to the delimitation of labour market areas. An empirical application for Chile</title>
-      <link>/publication/sea2017/</link>
+      <link>https://franciscorowe.github.io/publication/sea2017/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/sea2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/sea2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobility Patterns of Overseas Human Capital in Australia. The role of a ‘new’ graduate visa scheme and rural development policy</title>
-      <link>/publication/ag2013/</link>
+      <link>https://franciscorowe.github.io/publication/ag2013/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/ag2013/</guid>
+      <guid>https://franciscorowe.github.io/publication/ag2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The geography and determinants of regional human capital in eight Latin American and Caribbean countries</title>
-      <link>/publication/bookcp2013/</link>
+      <link>https://franciscorowe.github.io/publication/bookcp2013/</link>
       <pubDate>Wed, 10 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/bookcp2013/</guid>
+      <guid>https://franciscorowe.github.io/publication/bookcp2013/</guid>
       <description></description>
     </item>
     

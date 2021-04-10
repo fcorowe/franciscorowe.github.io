@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fiona McKenzie | Academic</title>
-    <link>/authors/fiona-mckenzie/</link>
-      <atom:link href="/authors/fiona-mckenzie/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/authors/fiona-mckenzie/</link>
+      <atom:link href="https://franciscorowe.github.io/authors/fiona-mckenzie/index.xml" rel="self" type="application/rss+xml" />
     <description>Fiona McKenzie</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Tue, 17 Mar 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Fiona McKenzie</title>
-      <link>/authors/fiona-mckenzie/</link>
+      <link>https://franciscorowe.github.io/authors/fiona-mckenzie/</link>
     </image>
     
     <item>
       <title>Attraction and Retention. Education and labour force pathways of metropolitan and regional school leavers in Victoria</title>
-      <link>/publication/arc2016/</link>
+      <link>https://franciscorowe.github.io/publication/arc2016/</link>
       <pubDate>Tue, 17 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/arc2016/</guid>
+      <guid>https://franciscorowe.github.io/publication/arc2016/</guid>
       <description></description>
     </item>
     

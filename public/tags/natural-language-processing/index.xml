@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natural Language Processing | Academic</title>
-    <link>/tags/natural-language-processing/</link>
-      <atom:link href="/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/natural-language-processing/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Natural Language Processing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Natural Language Processing</title>
-      <link>/tags/natural-language-processing/</link>
+      <link>https://franciscorowe.github.io/tags/natural-language-processing/</link>
     </image>
     
     <item>
       <title>COVID19 Generating actionable evidence for containing misinformation to prevent discrimination</title>
-      <link>/project/covid19_misinformation/</link>
+      <link>https://franciscorowe.github.io/project/covid19_misinformation/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/project/covid19_misinformation/</guid>
+      <guid>https://franciscorowe.github.io/project/covid19_misinformation/</guid>
       <description>&lt;p&gt;The project will generate fundamental and timely evidence for how misinformation and fake news spreads across media platforms in the UK, and how this impacts experiences of discrimination associated with Covid-19. Novel text mining and data science approaches will be applied to investigate patterns in the reporting of Covid-19 in the news/media, as well as across social media. We will identify the structure of terminology used in how Covid-19 is reported, including measuring the use of emotion of language through sentiment analysis. Network science techniques will study the flows of information across social media to identify how they spread, as well identify leverage points to stem flows.&lt;/p&gt;
 </description>
     </item>

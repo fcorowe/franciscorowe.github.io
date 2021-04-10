@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Labour | Academic</title>
-    <link>/tags/labour/</link>
-      <atom:link href="/tags/labour/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/labour/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/labour/index.xml" rel="self" type="application/rss+xml" />
     <description>Labour</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Labour</title>
-      <link>/tags/labour/</link>
+      <link>https://franciscorowe.github.io/tags/labour/</link>
     </image>
     
     <item>
       <title>Where are the overseas graduates staying on? Overseas graduate migration and rural attachment in Australia</title>
-      <link>/publication/ag2014/</link>
+      <link>https://franciscorowe.github.io/publication/ag2014/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/ag2014/</guid>
+      <guid>https://franciscorowe.github.io/publication/ag2014/</guid>
       <description></description>
     </item>
     

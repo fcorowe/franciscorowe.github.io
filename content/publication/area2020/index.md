@@ -24,7 +24,7 @@ tags:
 - obesity
 - quantile regression
 - RIF decomposition
-title: Explaining the widening distribution of Body Mass Index: Adecomposition analysis of trends for England, 2002–2004 and 2012–2014
+title: Explaining the widening distribution of Body Mass Index A decomposition analysis of trends for England, 2002–2004 and 2012–2014
 url_code: "https://github.com/fcorowe/bmi"
 url_dataset: ""
 url_pdf: https://doi.org/10.1111/area.12675

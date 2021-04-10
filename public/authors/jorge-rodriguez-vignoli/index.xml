@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jorge Rodríguez Vignoli | Academic</title>
-    <link>/authors/jorge-rodriguez-vignoli/</link>
-      <atom:link href="/authors/jorge-rodriguez-vignoli/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/authors/jorge-rodriguez-vignoli/</link>
+      <atom:link href="https://franciscorowe.github.io/authors/jorge-rodriguez-vignoli/index.xml" rel="self" type="application/rss+xml" />
     <description>Jorge Rodríguez Vignoli</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Jorge Rodríguez Vignoli</title>
-      <link>/authors/jorge-rodriguez-vignoli/</link>
+      <link>https://franciscorowe.github.io/authors/jorge-rodriguez-vignoli/</link>
     </image>
     
     <item>
       <title>R Package CIM Compositional Impact of Migration</title>
-      <link>/publication/rcim2019/</link>
+      <link>https://franciscorowe.github.io/publication/rcim2019/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rcim2019/</guid>
+      <guid>https://franciscorowe.github.io/publication/rcim2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efectos cambiantes de la migración sobre el crecimiento, la estructura demográfica y la segregación residencial en ciudades grandes. El caso de Santiago, Chile, 1977-2017</title>
-      <link>/publication/cepal2018/</link>
+      <link>https://franciscorowe.github.io/publication/cepal2018/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/cepal2018/</guid>
+      <guid>https://franciscorowe.github.io/publication/cepal2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How is internal migration reshaping metropolitan populations in Latin America? A new method and new evidence</title>
-      <link>/publication/ps2018/</link>
+      <link>https://franciscorowe.github.io/publication/ps2018/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/ps2018/</guid>
+      <guid>https://franciscorowe.github.io/publication/ps2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>¿Contribuye la migración interna a reducir la segregación residencial? El caso de Santiago de Chile 1977-2002</title>
-      <link>/publication/relap2017/</link>
+      <link>https://franciscorowe.github.io/publication/relap2017/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/relap2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/relap2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Changing Impacts of Internal Migration on Residential Socio-Economic Segregation in the Greater Santiago</title>
-      <link>/publication/iussp2017/</link>
+      <link>https://franciscorowe.github.io/publication/iussp2017/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/iussp2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/iussp2017/</guid>
       <description></description>
     </item>
     

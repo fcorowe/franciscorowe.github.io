@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Residential Segregation | Academic</title>
-    <link>/tags/residential-segregation/</link>
-      <atom:link href="/tags/residential-segregation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/tags/residential-segregation/</link>
+      <atom:link href="https://franciscorowe.github.io/tags/residential-segregation/index.xml" rel="self" type="application/rss+xml" />
     <description>Residential Segregation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Residential Segregation</title>
-      <link>/tags/residential-segregation/</link>
+      <link>https://franciscorowe.github.io/tags/residential-segregation/</link>
     </image>
     
     <item>
       <title>¿Contribuye la migración interna a reducir la segregación residencial? El caso de Santiago de Chile 1977-2002</title>
-      <link>/publication/relap2017/</link>
+      <link>https://franciscorowe.github.io/publication/relap2017/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/relap2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/relap2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Changing Impacts of Internal Migration on Residential Socio-Economic Segregation in the Greater Santiago</title>
-      <link>/publication/iussp2017/</link>
+      <link>https://franciscorowe.github.io/publication/iussp2017/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/iussp2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/iussp2017/</guid>
       <description></description>
     </item>
     

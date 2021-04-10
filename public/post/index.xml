@@ -2,57 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/post/</link>
+      <atom:link href="https://franciscorowe.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Fri, 11 Oct 2019 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://franciscorowe.github.io/post/</link>
     </image>
     
     <item>
-      <title>Mapping The Impact of Internal Migration Across Europe</title>
-      <link>/post/2020-02-08-eu_netmigration_map/</link>
-      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-02-08-eu_netmigration_map/</guid>
-      <description>
-&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;div id=&#34;net-internal-migration-rate-across-europe&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Net Internal Migration Rate Across Europe&lt;/h1&gt;
-&lt;p&gt;At the end of last year, we published a paper assessing the impact of internal migration on redistributing population within European countries. Specifically we assessed the impact of internal migration on promoting population concentration or deconcentration. Below is a thread I posted on Twitter summarising key aspects of the paper. The paper is &lt;a href=&#34;http://dx.doi.org/10.12765/CPoS-2019-18en&#34;&gt;open access&lt;/a&gt; - see reference at the end of this post.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Why this matters?&lt;/strong&gt; First, while considerable attention is devoted to international migration, the number of internal migration (763 million) is significantly greater -almost 3 times that of international migrants (272 million)&lt;/p&gt;
-&lt;p&gt;Second, the spatial impact of internal migration on population redistribution is arguably the most visible and significant aspect of human population movement, increasing population numbers in a few locations while reducing numbers elsewhere, transferring skills and knowledge, affecting labour and housing markets&lt;/p&gt;
-&lt;p&gt;Third, &lt;strong&gt;The GAP&lt;/strong&gt; contemporary understanding of the way migration impacts on settlement patterns remains crude, constrained primarily by reliance on coarse urban-rural dichotomies, data inadequacies and the perennial obstacles by the MAUP&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;RESULTS&lt;/strong&gt; show (1) that the overall redistributive impact of internal migration is low in most European countries but the mechanisms differ across the continent&lt;/p&gt;
-&lt;ol start=&#34;2&#34; style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;p&gt;About half the European countries are experiencing a process of concentration toward urbanised regions, particularly in Northern, Central and Eastern Europe i.e. population redistribution is directed toward more densely populated regions, leading to population concentration or re-urbanisation&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;We showed these patterns of population concentration are driven by different but distinctive process: (i) population gains in major urban centres, (ii) localised urban sprawl, and (iii) concentration of population gains in small dense areas&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;By contrast, countries in the West and South are undergoing a process of population deconcentration resulting from population gains are focused on lower-density regions&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;A number of countries (Norway, Lithuania, Estonia, Spain, the UK &amp;amp; Italy) have reached a spatial equilibrium: internal migration minimally alters the existing pattern of population settlement&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;em&gt;These findings&lt;/em&gt; demonstrate the important variations in the patterns of population redistribution in Europe highlighting the diminishing impact of migration in shaping settlement patterns in highly urbanised countries and also lend support to the idea of diverse trajectories in population redistribution for countries at the upper end of development ladder&lt;/p&gt;
-&lt;p&gt;The map below reveals the patterns of population gains and losses through internal migration. For this map, net migration rates based on administrative areas are superimposed on a base layer showing the major nodes of human settlement, which helps identify the urban areas gaining or losing population from internal migration. Based on country-specific means and standard deviations, standardised net migration rates (z-scores) are reported to help pinpoint areas of unusually high net migration gains or losses; that is, z-scores two standard deviations outside the mean.&lt;/p&gt;
-&lt;p&gt;The results reveal that diverse migration processes underpin the overall processes of population concentration. In Belarus, Portugal, Denmark and Russia, population concentration was driven by unusually high migration gains in a handful of large urban centres, while migration losses were found in sparsely populated areas. Significant gains occurred in the cities of Pinsk, Grodno and Polotsk in Belarus; in the Península de Setúbal within the Lisbon region in Portugal; in the Copenhagen metropolitan area in Denmark; and in Moscow and St Petersburg in Russia.&lt;/p&gt;
-&lt;p&gt;By contrast, patterns of population concentration in Switzerland, Bulgaria, Germany, Finland, the Netherlands, Turkey, Austria, Hungary and Sweden are the result of different processes. In Turkey and Switzerland, significant migration gains in dense small urban areas and heavy losses in a small number of remote rural locations shaped overall patterns of population concentration. In Austria, Bulgaria, Hungary and Sweden, population concentration occurred in large cities, and their satellites, most notably in the areas of Vienna, Sofia, Budapest and Gothenburg. In Germany, on the other hand, migration gains were concentrated in middle-sized and small cities with widespread losses in more remote areas. For example, significant gains occurred in Dresden, Leipzig, Potsdam (near Berlin) and Tübingen (near Stuttgart), while acute losses were observed in Göttingen and around Cottbus in the east of Germany. Patterns of urban sprawl in Germany are largely a response to high property prices in large urban agglomerations.&lt;/p&gt;
-&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:480px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/post/2020-02-08-eu_netmigration_map_files/figure-html//widgets/widget_unnamed-chunk-3.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:true,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Rowe, F., Bell, M., Bernard, A., Charles-Edwards, E. and Ueffing, P., 2019. Impact of Internal Migration on Population Redistribution in Europe: Urbanisation, Counterurbanisation or Spatial Equilibrium?. &lt;em&gt;Comparative Population Studies&lt;/em&gt;, 44: 201-34. doi: &lt;a href=&#34;http://dx.doi.org/10.12765/CPoS-2019-18en&#34; class=&#34;uri&#34;&gt;http://dx.doi.org/10.12765/CPoS-2019-18en&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Introducing the R Package CIM</title>
-      <link>/post/2019-01-31-r-rmarkdown/</link>
+      <link>https://franciscorowe.github.io/post/2019-01-31-r-rmarkdown/</link>
       <pubDate>Fri, 11 Oct 2019 21:13:14 -0500</pubDate>
-      <guid>/post/2019-01-31-r-rmarkdown/</guid>
+      <guid>https://franciscorowe.github.io/post/2019-01-31-r-rmarkdown/</guid>
       <description>
 
 
@@ -122,9 +86,9 @@ library(tmap)&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Migration of Young Human Capital?</title>
-      <link>/post/si_post/</link>
+      <link>https://franciscorowe.github.io/post/si_post/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/post/si_post/</guid>
+      <guid>https://franciscorowe.github.io/post/si_post/</guid>
       <description>&lt;h2 id=&#34;why-is-the-migration-of-young-educated-people-important&#34;&gt;Why is the migration of young educated people important?&lt;/h2&gt;
 &lt;p&gt;Human capital is a key ingredient of economic development and productivity. Regions attracting educated individuals experience economic growth and enjoy high-status of social wellbeing, while areas affected by net migration losses of human capital struggle to sustain a vibrant local economy. Young educated individuals are highly mobile and comprise a important component of the workforce. Spatial mobility of young educated individuals generates differentiated outcomes across the urban hierarchy. Rural areas tend to lose young population, creating pressures to attract and retain young educated individuals to help redress accelerating ageing populations and replenishing labour gaps. By contrast, larger metropolitan areas operate as magnets enticing the ‘best’ and the ‘brightest’ spurring local economic development.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-new-and-are-our-aims&#34;&gt;What is new and are our aims?&lt;/h2&gt;
@@ -138,9 +102,9 @@ library(tmap)&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>How do we define functional labour market areas?</title>
-      <link>/post/llma_post/</link>
+      <link>https://franciscorowe.github.io/post/llma_post/</link>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/post/llma_post/</guid>
+      <guid>https://franciscorowe.github.io/post/llma_post/</guid>
       <description>&lt;p&gt;We all know that spatial analyses based on administrative boundaries to understand labour market activity are questionable, because of the modifiable areal unit problem (MAUP) and measurement issues, leading to spurious causal relationships, misguided policy recommendations and complex model specifications.&lt;/p&gt;
 &lt;p&gt;Over the last two decades, there has been a growing literature concerning the delimitation of Functional Labour Market Areas (FLMAs). They are empirically delimited based on commuting (travel-to-work) flow data between Basic Territorial Units (BTUs; eg. communes, municipalities or counties), which are often the finest level of geography at which data are available. The trick here is that there are two conflicting objectives. On the one hand, we want to create FMLAs that are composed of BTUs with strong commuting links i.e. strong cohesion or inner integration. On the other, we want FLMAs comprised of BTUs with weak or no commuting links with other FLMAs i.e. higher self-containment or external perfection. Large FLMAs lead to higher overall levels of self-containment but lower levels of cohesion from a certain threshold. Finding an appropriate balance between self-containment and cohesion is thus critical and challenging task for FMLAs delineation.&lt;/p&gt;
 &lt;p&gt;We have recently published a paper (Casado-Díaz, Martínez-Bernabéu and Rowe 2017) on a novel methodology based on evolutionary computational algorithms to delineate FLMAs for Chile. Why Chile? Because we wanted to try out this new methodology on a unusual geography and Chile provides just that; and, because I am Chilean! We compared the performance of our approach to the most widely used methodology for official LMA delimitation, the travel-to-work areas (TTWAs) method, in terms of computational efficiency. We also compared the suitability of the resulting FLMAs against administrative areas and TTWAs based on expert local knowledge and misallocation of BTUs. Normally BTUs are allocated to FLMAs with which they have weak links and need to be reassign to a different FLMA.&lt;/p&gt;

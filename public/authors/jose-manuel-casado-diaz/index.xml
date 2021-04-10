@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>José Manuel Casado-Díaz | Academic</title>
-    <link>/authors/jose-manuel-casado-diaz/</link>
-      <atom:link href="/authors/jose-manuel-casado-diaz/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://franciscorowe.github.io/authors/jose-manuel-casado-diaz/</link>
+      <atom:link href="https://franciscorowe.github.io/authors/jose-manuel-casado-diaz/index.xml" rel="self" type="application/rss+xml" />
     <description>José Manuel Casado-Díaz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sat, 22 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>José Manuel Casado-Díaz</title>
-      <link>/authors/jose-manuel-casado-diaz/</link>
+      <link>https://franciscorowe.github.io/authors/jose-manuel-casado-diaz/</link>
     </image>
     
     <item>
       <title>Functional Labor Market Areas for Chile</title>
-      <link>/publication/region2017_1/</link>
+      <link>https://franciscorowe.github.io/publication/region2017_1/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/region2017_1/</guid>
+      <guid>https://franciscorowe.github.io/publication/region2017_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An evolutionary approach to the delimitation of labour market areas. An empirical application for Chile</title>
-      <link>/publication/sea2017/</link>
+      <link>https://franciscorowe.github.io/publication/sea2017/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/sea2017/</guid>
+      <guid>https://franciscorowe.github.io/publication/sea2017/</guid>
       <description></description>
     </item>
     
