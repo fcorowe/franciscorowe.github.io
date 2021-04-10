@@ -7,14 +7,6 @@ categories: ["R"]
 tags: ["Spatial Analysis", "Migration", "Spatial Impact", "Europe"]
 ---
 
-```{r setup, include=FALSE, warning=FALSE, message=FALSE}
-library(leaflet)
-library(htmlwidgets)
-library(htmltools)
-library(widgetframe)
-library(leaflet.extras)
-knitr::opts_chunk$set(collapse = TRUE)
-```
 
 # Net Internal Migration Rate Across Europe
 
