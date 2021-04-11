@@ -5,12 +5,43 @@
     <link>https://franciscorowe.github.io/post/</link>
       <atom:link href="https://franciscorowe.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Fri, 11 Oct 2019 21:13:14 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Francisco Rowe 2020</copyright><lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://franciscorowe.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://franciscorowe.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Mapping The Impact of Internal Migration Across Europe</title>
+      <link>https://franciscorowe.github.io/post/2020-02-08-eu_netmigration_map/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://franciscorowe.github.io/post/2020-02-08-eu_netmigration_map/</guid>
+      <description>
+
+
+&lt;div id=&#34;net-internal-migration-rate-across-europe&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Net Internal Migration Rate Across Europe&lt;/h1&gt;
+&lt;p&gt;At the end of last year, we published a paper assessing the impact of internal migration on redistributing population within European countries. Specifically we assessed the impact of internal migration on promoting population concentration or deconcentration. Below is a thread I posted on Twitter summarising key aspects of the paper. The paper is &lt;a href=&#34;http://dx.doi.org/10.12765/CPoS-2019-18en&#34;&gt;open access&lt;/a&gt; - see reference at the end of this post.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why this matters?&lt;/strong&gt; First, while considerable attention is devoted to international migration, the number of internal migration (763 million) is significantly greater -almost 3 times that of international migrants (272 million)&lt;/p&gt;
+&lt;p&gt;Second, the spatial impact of internal migration on population redistribution is arguably the most visible and significant aspect of human population movement, increasing population numbers in a few locations while reducing numbers elsewhere, transferring skills and knowledge, affecting labour and housing markets&lt;/p&gt;
+&lt;p&gt;Third, &lt;strong&gt;The GAP&lt;/strong&gt; contemporary understanding of the way migration impacts on settlement patterns remains crude, constrained primarily by reliance on coarse urban-rural dichotomies, data inadequacies and the perennial obstacles by the MAUP&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RESULTS&lt;/strong&gt; show (1) that the overall redistributive impact of internal migration is low in most European countries but the mechanisms differ across the continent&lt;/p&gt;
+&lt;ol start=&#34;2&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;About half the European countries are experiencing a process of concentration toward urbanised regions, particularly in Northern, Central and Eastern Europe i.e. population redistribution is directed toward more densely populated regions, leading to population concentration or re-urbanisation&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We showed these patterns of population concentration are driven by different but distinctive process: (i) population gains in major urban centres, (ii) localised urban sprawl, and (iii) concentration of population gains in small dense areas&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;By contrast, countries in the West and South are undergoing a process of population deconcentration resulting from population gains are focused on lower-density regions&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A number of countries (Norway, Lithuania, Estonia, Spain, the UK &amp;amp; Italy) have reached a spatial equilibrium: internal migration minimally alters the existing pattern of population settlement&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;These findings&lt;/em&gt; demonstrate the important variations in the patterns of population redistribution in Europe highlighting the diminishing impact of migration in shaping settlement patterns in highly urbanised countries and also lend support to the idea of diverse trajectories in population redistribution for countries at the upper end of development ladder&lt;/p&gt;
+&lt;p&gt;The map below reveals the patterns of population gains and losses through internal migration. For this map, net migration rates based on administrative areas are superimposed on a base layer showing the major nodes of human settlement, which helps identify the urban areas gaining or losing population from internal migration. Based on country-specific means and standard deviations, standardised net migration rates (z-scores) are reported to help pinpoint areas of unusually high net migration gains or losses; that is, z-scores two standard deviations outside the mean.&lt;/p&gt;
+&lt;p&gt;The results reveal that diverse migration processes underpin the overall processes of population concentration. In Belarus, Portugal, Denmark and Russia, population concentration was driven by unusually high migration gains in a handful of large urban centres, while migration losses were found in sparsely populated areas. Significant gains occurred in the cities of Pinsk, Grodno and Polotsk in Belarus; in the Península de Setúbal within the Lisbon region in Portugal; in the Copenhagen metropolitan area in Denmark; and in Moscow and St Petersburg in Russia.&lt;/p&gt;
+&lt;p&gt;By contrast, patterns of population concentration in Switzerland, Bulgaria, Germany, Finland, the Netherlands, Turkey, Austria, Hungary and Sweden are the result of different processes. In Turkey and Switzerland, significant migration gains in dense small urban areas and heavy losses in a small number of remote rural locations shaped overall patterns of population concentration. In Austria, Bulgaria, Hungary and Sweden, population concentration occurred in large cities, and their satellites, most notably in the areas of Vienna, Sofia, Budapest and Gothenburg. In Germany, on the other hand, migration gains were concentrated in middle-sized and small cities with widespread losses in more remote areas. For example, significant gains occurred in Dresden, Leipzig, Potsdam (near Berlin) and Tübingen (near Stuttgart), while acute losses were observed in Göttingen and around Cottbus in the east of Germany. Patterns of urban sprawl in Germany are largely a response to high property prices in large urban agglomerations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rowe, F., Bell, M., Bernard, A., Charles-Edwards, E. and Ueffing, P., 2019. Impact of Internal Migration on Population Redistribution in Europe: Urbanisation, Counterurbanisation or Spatial Equilibrium?. &lt;em&gt;Comparative Population Studies&lt;/em&gt;, 44: 201-34. doi: &lt;a href=&#34;http://dx.doi.org/10.12765/CPoS-2019-18en&#34; class=&#34;uri&#34;&gt;http://dx.doi.org/10.12765/CPoS-2019-18en&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Introducing the R Package CIM</title>
